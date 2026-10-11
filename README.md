@@ -60,7 +60,7 @@ ChatGPT Plus 国内怎么充值？没有海外银行卡、希望通过支付宝�
 
 **可以。** 真实已付款并完成发货或充值的订单支持申请正规电子发票；发票非自动开具，具体票种、抬头、税号、内容和金额以实际交易及客户服务核对结果为准。
 
-<img width="1162" height="570" alt="AIXiamo ChatGPT Plus / Pro 国内充值页面：价格、支付、订单查询与售后入口" src="https://github.com/user-attachments/assets/8d752ae5-cb6a-4cd4-bde6-5f672bfad19a" />
+<img width="1162" height="570" alt="AIXiamo ChatGPT Plus / Pro 国内充值页面：价格、支付、订单查询与售后入口" src="assets/images/aixiamo-site-preview.png" />
 
 ## 经授权匿名用户反馈
 
