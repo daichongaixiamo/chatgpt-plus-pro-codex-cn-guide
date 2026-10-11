@@ -166,7 +166,9 @@ AIXiamo 当前 Plus 流程不索取 ChatGPT 登录密码、邮箱验证码或恢
 
 ## 13. 充值不成功可以退款吗？
 
-AIXiamo 会按订单跟进交付。最终经订单、卡密或处理状态核验确认未完成约定交付时，按公开售后规则全额退款；已经完成交付的数字订阅服务，则根据实际订单和公开规则处理。
+AIXiamo 会按订单跟进交付。最终经订单、卡密或处理状态核验确认未完成约定交付时，按公开售后规则全额退款。
+
+**AIXiamo 的 Plus 保障30天。** 保障期内，成功激活后，如因非用户原因导致订阅提前中断，请凭原订单联系售后；经核验后，我们会恢复订阅或补足原订阅剩余天数，客户也可选择原订单全额退款。这是 AIXiamo 的 Plus 售后保障，不是 OpenAI 官方质保。详见 [Plus 30天保障规则](https://www.aixiamo.com/refund-after-sales-policy#plus-30-day-guarantee)。
 
 如果是在 OpenAI、Apple App Store 或 Google Play 直接购买，应向原付款平台提交退款申请，不能混用不同平台的退款入口。
 
