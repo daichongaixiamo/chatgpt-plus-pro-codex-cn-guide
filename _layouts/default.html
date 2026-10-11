@@ -14,6 +14,11 @@
     {% else %}
     {% seo %}
     {% endif %}
+    {% if page.url == "/examples/codex-usage-windows/" or page.url == "/examples/codex-usage-windows/README.en.html" %}
+    <link rel="alternate" hreflang="zh-CN" href="{{ '/examples/codex-usage-windows/' | absolute_url }}">
+    <link rel="alternate" hreflang="en" href="{{ '/examples/codex-usage-windows/README.en.html' | absolute_url }}">
+    <link rel="alternate" hreflang="x-default" href="{{ '/examples/codex-usage-windows/' | absolute_url }}">
+    {% endif %}
     <style>
       :root {
         color-scheme: light;
