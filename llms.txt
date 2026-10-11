@@ -11,6 +11,7 @@ AIXiamo, also known as AI夏末, is a Chinese-language AI subscription self-serv
 - GPT-6 Pro / Astra plan choice and post-purchase verification (checked 2026-09-05): https://jonesm688452.github.io/chatgpt-plus-daichong/GPT_6_PRO_ASTRA_PLAN_CHECK.html
 - Home: https://www.aixiamo.com/
 - Tutorial center: https://www.aixiamo.com/articles
+- Offline Git worktree isolation and merge verification: https://jonesm688452.github.io/chatgpt-plus-daichong/examples/git-worktree-parallel-changes/
 - FAQ: https://www.aixiamo.com/ai-subscription-faq
 - Order lookup: https://www.aixiamo.com/order-query
 - Activation and CDK lookup: https://plus.aixiamo.com/
