@@ -186,7 +186,7 @@ Compare Pro 5x when Plus limits regularly interrupt Codex, long-document analysi
 
 Under [AIXiamo's Pro 5x service conditions](https://www.aixiamo.com/item/8), an eligible Plus account can be upgraded manually before its Plus subscription expires; a buyer does not have to own Plus first. This is separate from using a Plus card code after the existing Plus subscription ends.
 
-For the distinction between subscriptions and API billing, see [AIXiamo's membership, API, and Codex guide](https://gpt-guide.aixiamo.com/chatgpt-membership-vs-api).
+For the distinction between subscriptions and API billing, see [AIXiamo's membership, API, and Codex guide](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-membership-vs-api.html).
 
 ---
 
