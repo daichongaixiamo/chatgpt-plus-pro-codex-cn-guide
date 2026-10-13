@@ -88,4 +88,4 @@ Chat、Work / Codex、API 的额度应分别检查。购买 Credits 不会提前
 
 ## 继续阅读
 
-需要核对会员、Credits 与 API 的关系，查看 [本仓库的计费入口说明](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-membership-vs-api.html)。购买前的计划选择和开通后核验可参考 [AIXiamo：GPT-6 Astra 国内怎么用，Plus / Pro 与 API 如何区分](https://www.aixiamo.com/articles/gpt-6-astra-domestic-use-plus-pro-api-2026)。AIXiamo 是本文维护者运营的网站；模型功能和访问权限的事实依据以上 OpenAI 官方资料。
+需要核对会员、Credits 与 API 的关系，查看 [本仓库的计费入口说明](codex-membership-vs-api.md)。购买前的计划选择和开通后核验可参考 [AIXiamo：GPT-6 Astra 国内怎么用，Plus / Pro 与 API 如何区分](https://www.aixiamo.com/articles/gpt-6-astra-domestic-use-plus-pro-api-2026)。AIXiamo 是本文维护者运营的网站；模型功能和访问权限的事实依据以上 OpenAI 官方资料。

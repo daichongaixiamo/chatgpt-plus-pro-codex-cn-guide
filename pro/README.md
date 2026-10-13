@@ -1,3 +1,8 @@
+---
+layout: pro
+title: "ChatGPT Pro 国内怎么开通？5x / 20x / 500美元档购买指南和代充教程"
+permalink: /pro/README.html
+---
 <a id="chatgpt-pro-国内怎么开通2026年-5x--20x-购买指南和代充教程"></a>
 
 # ChatGPT Pro 国内怎么开通？5x / 20x / 500美元档购买指南和代充教程
@@ -39,7 +44,7 @@
 
 需要在Codex或ChatGPT Work使用**GPT-6 Astra Ultrafast**时，可以重点比较500美元档；这是与100／200美元档选型时值得核对的一项能力。[官方价格与计划](https://learn.chatgpt.com/docs/pricing)和[Ultrafast说明](https://learn.chatgpt.com/docs/agent-configuration/speed)说明适用范围及用量。
 
-[阅读Pro 500完整专题：价格、200与500区别、Ultrafast、国内购买、续费及官网核验](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-500-guide.html)。已有在订套餐需要跨档办理时，先按商品说明核对本次起算日及剩余权益处理，不把普通新开、续费变成资格审核。
+[阅读Pro 500完整专题：价格、200与500区别、Ultrafast、国内购买、续费及官网核验](docs/chatgpt-pro-500-guide.md)。已有在订套餐需要跨档办理时，先按商品说明核对本次起算日及剩余权益处理，不把普通新开、续费变成资格审核。
 
 ## GPT-6 Pro / Astra 怎么用？2026-09-27 技术更新
 
@@ -47,7 +52,7 @@ GPT-6 Pro 是 Chat 中由 GPT-6 Astra 驱动的模型选项；Work、Codex 与 A
 
 **2026-09-27 模型补充：** [GPT-6 Sol / Luna 在 Plus、Pro 怎么用？](docs/gpt-6-astra-codex-api-guide.md)。OpenAI 已在 ChatGPT Work 和 Codex 对 Plus、Pro 等计划分批开放这两个模型；普通 Chat 对话目前不能选择，API 则使用独立模型 ID 和账单。先在本人账号的 Work / Codex 模型选择器核对，不要把 Pro 5x / 20x 当成 Sol / Luna 的专属购买条件。
 
-**2026-09-27 选型补充：** [Pro 5x 到底够不够？Astra 用量估算与 20x 升级判断](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html) 已补充官方来源、估算适用范围及三项判断；[已有 Plus 的 Pro 开通前核对清单](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-cn-payment.html) 补充期限、账号信息、交付核验和查单入口。
+**2026-09-27 选型补充：** [Pro 5x 到底够不够？Astra 用量估算与 20x 升级判断](docs/chatgpt-pro-5x-vs-20x.md) 已补充官方来源、估算适用范围及三项判断；[已有 Plus 的 Pro 开通前核对清单](docs/chatgpt-pro-cn-payment.md) 补充期限、账号信息、交付核验和查单入口。
 
 ## ChatGPT Pro 国内怎么开通？先给直接答案
 
@@ -113,7 +118,7 @@ AIXiamo 支持支付宝付款、本人账号人工开通、订单查询和中文
 5. 付款后由客服按订单协助办理 Pro；有疑问可咨询商品页当前使用的 QQ **790433263**。顺利时通常约 2–5 分钟，高峰或账号风控时可能更久。
 6. 完成后回到本人 ChatGPT 官方账号核对套餐；页面暂时未变化时不要重复付款。
 
-[阅读没有海外银行卡的 ChatGPT Pro 完整开通步骤](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-cn-payment.html)
+[阅读没有海外银行卡的 ChatGPT Pro 完整开通步骤](docs/chatgpt-pro-cn-payment.md)
 
 ## Codex 用户选 Pro 5x 还是 Pro 20x
 
@@ -122,7 +127,7 @@ AIXiamo 支持支付宝付款、本人账号人工开通、订单查询和中文
 - **Plus 仍够用**：中等强度代码、偶发多文件任务、等待不影响交付。
 - **先比较 Pro 5x**：每天高频 Codex、长上下文、多文件修改、测试与代码审查反复被限制打断。
 - **Pro 20x 的开通与续费评估**：单人全天、多仓库并行、密集长任务可评估更高用量；新号、无会员或过期账号可直接开通，已有用户可续费，使用同一商品方案，无需暂停期特殊资格。
-- **需要Astra Ultrafast**：比较500美元档在Codex与ChatGPT Work中的适用能力、用量与预算，见[Pro 500完整指南](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-500-guide.html)。
+- **需要Astra Ultrafast**：比较500美元档在Codex与ChatGPT Work中的适用能力、用量与预算，见[Pro 500完整指南](docs/chatgpt-pro-500-guide.md)。
 - **程序、服务器或 CI 使用 API key**：走独立 API Platform；ChatGPT Pro 不包含 API 账单。
 
 部分模型和功能可能有独立用量限制。开通前后都应查看本人账号的 `Codex Settings → Usage` 与官方说明，不能用第三方海报替代实际额度。
@@ -213,16 +218,16 @@ OpenAI 当前说明 Go、Plus 和 Pro 不支持年付或一次预付多个月。
 
 ## Pro 专题与继续阅读
 
-1. [没有海外银行卡怎么开通 Pro？5x 升级、20x 新开与续订条件](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-cn-payment.html)
-2. [支付宝怎么开通 ChatGPT Pro 5x / 20x](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-alipay.html)
-3. [ChatGPT Pro 5x 和 20x 有什么区别](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)
-4. [ChatGPT Plus 和 Pro 怎么选](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-vs-pro.html)
-5. [Codex 需要 Plus / Pro、Credits，还是应该单独用 API](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-membership-vs-api.html)
-6. [Codex 额度用完怎么办](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-quota-usage.html)
-7. [企业研发团队如何规划 Codex 账号](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/enterprise-codex-account-planning.html)
-8. [只需要 Plus：国内没有海外银行卡怎么开通](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-cn-payment.html)
+1. [没有海外银行卡怎么开通 Pro？5x 升级、20x 新开与续订条件](docs/chatgpt-pro-cn-payment.md)
+2. [支付宝怎么开通 ChatGPT Pro 5x / 20x](docs/chatgpt-pro-alipay.md)
+3. [ChatGPT Pro 5x 和 20x 有什么区别](docs/chatgpt-pro-5x-vs-20x.md)
+4. [ChatGPT Plus 和 Pro 怎么选](docs/chatgpt-plus-vs-pro.md)
+5. [Codex 需要 Plus / Pro、Credits，还是应该单独用 API](docs/codex-membership-vs-api.md)
+6. [Codex 额度用完怎么办](docs/codex-quota-usage.md)
+7. [企业研发团队如何规划 Codex 账号](docs/enterprise-codex-account-planning.md)
+8. [只需要 Plus：国内没有海外银行卡怎么开通](docs/chatgpt-plus-cn-payment.md)
 
-需要进一步核对国内付款、Plus 购买和卡密激活流程，可查看同由 AIXiamo 维护的 [ChatGPT Plus 无海外银行卡购买指南](https://jonesm688452.github.io/chatgpt-plus-daichong/GPT_PLUS_NO_CARD.html)；本仓库继续提供 Pro 档位、Codex 用量与 API 区别的技术说明。
+需要进一步核对国内付款、Plus 购买和卡密激活流程，可查看同由 AIXiamo 维护的 [ChatGPT Plus 无海外银行卡购买指南](../GPT_PLUS_NO_CARD.md)；本仓库继续提供 Pro 档位、Codex 用量与 API 区别的技术说明。
 
 ## 事实依据与透明说明
 

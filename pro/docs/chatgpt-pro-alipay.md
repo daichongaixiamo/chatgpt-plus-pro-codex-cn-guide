@@ -10,7 +10,7 @@ last_modified_at: 2026-10-03
 
 ## 直接答案
 
-**没有海外银行卡，也可以通过 AIXiamo 用支付宝为您本人的官方 ChatGPT 账号办理 Pro 100、200或500美元档。** 500美元档已支持新开通与续费，2026-10-03价格快照为3350元；200美元档支持新开、续费和到期重新开通，无需历史Pro订阅资格。先核对档位和商品条件，再创建订单付款；Pro 由人工按订单处理，完成后在本人账号的“设置 → 我的套餐”核验套餐与有效期。还没确定档位时，可先看下方比较和 [Pro 500美元档详细指南](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-500-guide.html)。
+**没有海外银行卡，也可以通过 AIXiamo 用支付宝为您本人的官方 ChatGPT 账号办理 Pro 100、200或500美元档。** 500美元档已支持新开通与续费，2026-10-03价格快照为3350元；200美元档支持新开、续费和到期重新开通，无需历史Pro订阅资格。先核对档位和商品条件，再创建订单付款；Pro 由人工按订单处理，完成后在本人账号的“设置 → 我的套餐”核验套餐与有效期。还没确定档位时，可先看下方比较和 [Pro 500美元档详细指南](chatgpt-pro-500-guide.md)。
 
 **受理状态更新（2026-09-30，AIXiamo站长确认）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 Pro 5x 可以正常开通和续费，Plus 未到期也可按商品条件办理。下单后人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [查看当前开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_alipay_20x_conditions)。
 
@@ -31,10 +31,10 @@ AIXiamo 的三档 Pro 办理价格快照（2026-10-03）：**100美元档（5x�
 | 日常问答、写作、学习、普通代码 | Plus | 不为偶发高峰长期支付更高成本 |
 | 高频 Codex、长任务反复受限，但不是全天重度 | Pro 5x | 先用较低档验证真实工作量 |
 | 单人全天、多项目、密集长任务，5x 仍持续不足 | Pro 20x 开通与续订 | 新开、续费、到期重开使用同一商品，实时价格见商品页 |
-| 工作量更大，准备进一步比较500美元档 | Pro 500美元档 | 先阅读 [500档权益、速度与用量说明](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-500-guide.html)，按实际任务与预算选择；确定后可用支付宝办理新开或续费 |
+| 工作量更大，准备进一步比较500美元档 | Pro 500美元档 | 先阅读 [500档权益、速度与用量说明](chatgpt-pro-500-guide.md)，按实际任务与预算选择；确定后可用支付宝办理新开或续费 |
 | 程序、服务器或 CI 使用 API key | API Platform | ChatGPT 会员与 API 独立计费 |
 
-“5x / 20x”是100／200美元档保留的常用称呼；500美元档单独按美元档位标识，不为它另造固定倍数承诺。三档的当前权益与用量见 [Pro 100／200／500美元档比较](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)。
+“5x / 20x”是100／200美元档保留的常用称呼；500美元档单独按美元档位标识，不为它另造固定倍数承诺。三档的当前权益与用量见 [Pro 100／200／500美元档比较](chatgpt-pro-5x-vs-20x.md)。
 
 ## 支付宝开通 Pro 的完整步骤
 
@@ -90,7 +90,7 @@ AIXiamo 当前收银台支持支付宝；这是向 AIXiamo 的服务订单付款
 
 ## 继续细分问题
 
-- [ChatGPT Pro 500美元档：价格、权益、适用场景与官网核验](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-500-guide.html)
+- [ChatGPT Pro 500美元档：价格、权益、适用场景与官网核验](chatgpt-pro-500-guide.md)
 - [2026 ChatGPT 国内充值完整路线](./chatgpt-domestic-recharge-guide.html)
 - [没有海外银行卡，怎么开通 ChatGPT Pro？](./chatgpt-pro-cn-payment.html)
 - [ChatGPT Pro 5x 和 20x 怎么选？](./chatgpt-pro-5x-vs-20x.html)

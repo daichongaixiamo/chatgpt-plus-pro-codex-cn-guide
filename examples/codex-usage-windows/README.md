@@ -38,7 +38,7 @@ python3 -m unittest -v test_usage_windows.py
 ```bash
 python3 usage_windows.py \
   --as-of '2026-09-11T15:00:00+08:00' \
-  --records '[{"name":"示例窗口","usedPercent":80,"resetsAt":1799398800}]'
+  --records '[{"name":"示例窗口","usedPercent":80,"resetsAt":1789117200}]'
 ```
 
 输出中的北京时间为 `2026-09-11T17:00:00+08:00`，判定为“当前未用完”，该窗口剩余 20%。

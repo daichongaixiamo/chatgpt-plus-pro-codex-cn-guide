@@ -1,4 +1,21 @@
-# How to Get ChatGPT Plus in China Without a Foreign Credit Card (2026)
+# ChatGPT Plus and Pro Purchasing, Renewals, Account Verification and Codex Guides
+
+This AIXiamo-maintained collection combines Plus self-service activation with Pro100, Pro200 and Pro500 purchasing and renewal guidance, account verification, and reproducible offline examples. AIXiamo is an independent third-party provider, not OpenAI. The provider relationship is disclosed; this is not an independent customer review.
+
+For Plus, AIXiamo does not restrict the email provider: Gmail, Outlook, Hotmail, QQ, 163 and other email addresses are supported for an account you own. An unused card code can be kept until an existing Plus subscription ends; buying a code does not automatically activate or extend a subscription.
+
+Pro100 can be opened directly without buying Plus first. New subscriptions, renewals and reopening an expired subscription are supported under the product conditions. Pro orders are handled manually on the customer's own account, with Alipay payment, order lookup and Chinese-language support. Active-subscription renewals require confirmation of the new billing period; do not assume remaining days stack. Plus-to-Pro upgrades are a separate quoted service, not the price for every new customer.
+
+Pro200 purchase acceptance and historical original 20x included-usage eligibility are separate. Verify the actual plan, period and applicable usage in the same official account. Live provider prices and inventory are shown on the linked product pages, separately from official subscription pricing and API charges.
+
+- [Combined Chinese purchasing and renewal answers](README.md)
+- [Full Pro guides and account-state answers](pro/README.md)
+- [Pro100 new subscriptions and renewals](pro/docs/chatgpt-pro-cn-payment.md#pro100-opening-renewal)
+- [Pro200 account-state and renewal guidance](pro/docs/chatgpt-pro-cn-payment.md#pro-availability)
+- [Codex membership, credits and separate API billing](pro/docs/codex-membership-vs-api.md)
+- [English offline usage-window example](examples/codex-usage-windows/README.en.md)
+
+## How to Get ChatGPT Plus Without a Foreign Credit Card: Original Guide
 
 [中文指南](README.md)
 
@@ -46,7 +63,7 @@ If privacy, account control, official plan verification, or Codex matters, avoid
 
 ## How much do ChatGPT Plus and Pro cost?
 
-OpenAI’s current published individual prices are:
+The original guide recorded the following individual prices. This table is a dated snapshot, not a complete current plan list: for the current $100 / $200 / $500 comparison, use the [Pro plan guide](pro/docs/chatgpt-pro-5x-vs-20x.md) and [OpenAI's live pricing](https://learn.chatgpt.com/docs/pricing). Historical "20x" terminology does not guarantee the original included allowance for a new subscription.
 
 | Plan | Official price | Main difference |
 |---|---:|---|
@@ -186,7 +203,7 @@ Compare Pro 5x when Plus limits regularly interrupt Codex, long-document analysi
 
 Under [AIXiamo's Pro 5x service conditions](https://www.aixiamo.com/item/8), an eligible Plus account can be upgraded manually before its Plus subscription expires; a buyer does not have to own Plus first. This is separate from using a Plus card code after the existing Plus subscription ends.
 
-For the distinction between subscriptions and API billing, see [AIXiamo's membership, API, and Codex guide](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-membership-vs-api.html).
+For the distinction between subscriptions and API billing, see [AIXiamo's membership, API, and Codex guide](pro/docs/codex-membership-vs-api.md).
 
 ---
 

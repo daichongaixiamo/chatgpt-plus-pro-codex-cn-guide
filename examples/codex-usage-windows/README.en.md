@@ -38,7 +38,7 @@ The window names are example labels, not a universal schedule. Percentages from 
 ```sh
 python3 examples/codex-usage-windows/usage_windows.py \
   --as-of '2026-09-11T15:00:00+08:00' \
-  --records '[{"name":"example-window","usedPercent":80,"resetsAt":1799398800}]'
+  --records '[{"name":"example-window","usedPercent":80,"resetsAt":1789117200}]'
 ```
 
 This record yields a reset time of `2026-09-11T17:00:00+08:00`, with 20% remaining at the specified observation time.

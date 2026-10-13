@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const CONTENT_VERSION = "2026-10-03";
+  const CONTENT_VERSION = "2026-10-14";
   const STORAGE_KEY = "aixiamo-ai-choice-map-v1";
   const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
 
@@ -45,7 +45,7 @@
     }
   };
 
-  const PAGES_BASE = "https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide";
+  const PAGES_BASE = ".";
 
   const RESULTS = {
     keep: {
@@ -121,10 +121,10 @@
     },
     hybrid: {
       title: "会员与 API 分开评估",
-      summary: "网页端个人工作与程序化调用同时存在。两套入口、用量和账单应分别核算。",
+      summary: "交互界面工作与程序化调用同时存在。无论个人或团队，两套入口、用量和账单应分别核算；团队还需核对独立账号、席位和权限治理，不共享个人会员。",
       reasons: ["ChatGPT/Codex 界面和程序调用都有真实需求", "任意一边都不能自动覆盖另一边"],
-      changes: ["其中一条路径停止使用", "团队协作需要改看组织方案"],
-      verify: ["哪些任务放在交互界面", "哪些任务由脚本或服务器执行"],
+      changes: ["其中一条路径停止使用", "团队的界面使用需要另看组织方案，API仍单独计费"],
+      verify: ["哪些任务放在交互界面", "哪些任务由脚本或服务器执行", "团队的账号、席位、权限与两类账单归属"],
       links: [
         { label: "查看 Codex 会员、Credits 与 API 地图", url: `${PAGES_BASE}/docs/codex-membership-vs-api.html`, external: false },
         {
@@ -291,9 +291,9 @@
 
   function computeResult() {
     const { entry, scope, limits, intensity } = state.answers;
-    if (scope === "team") return "organization";
     if (entry === "both") return "hybrid";
     if (entry === "api") return "api";
+    if (scope === "team") return "organization";
     if (entry === "unsure" || limits === "unclear") return "diagnose";
     if (limits === "enough") return "keep";
     if (limits === "occasional") return entry === "codex_chatgpt" ? "credits_check" : "observe";
@@ -392,7 +392,7 @@
     { label: "支付宝怎么开通 ChatGPT Plus", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-plus-alipay.html`, terms: "支付宝 充值 购买 订阅 plus 本人账号" },
     { label: "国内怎么开通 ChatGPT Pro", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-cn-payment.html`, terms: "国内 充值 支付宝 usdt 没有海外银行卡 本人账号" },
     { label: "支付宝怎么开通 ChatGPT Pro", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-alipay.html`, terms: "支付宝 充值 购买 订阅 pro 5x 20x 本人账号" },
-    { label: "付款失败、支付成功未到账、退款与电子发票", meta: "排障", url: "https://jonesm688452.github.io/chatgpt-plus-daichong/CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.html", terms: "付款失败 支付成功 未到账 订单处理中 重复付款 退款 原路退款 秒到账 发票 电子发票 开票 售后" },
+    { label: "付款失败、支付成功未到账、退款与电子发票", meta: "排障", url: "../CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.html", terms: "付款失败 支付成功 未到账 订单处理中 重复付款 退款 原路退款 秒到账 发票 电子发票 开票 售后" },
     { label: "ChatGPT Plus 和 Pro 怎么选", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-plus-vs-pro.html`, terms: "会员 套餐" },
     { label: "ChatGPT Pro 5x / 20x / 500怎么选", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-5x-vs-20x.html`, terms: "pro 100 200 500 额度 区别 对比" },
     { label: "Codex 会员、Credits 与 API 的关系", meta: "指南", url: `${PAGES_BASE}/docs/codex-membership-vs-api.html`, terms: "codex credits api key plus pro" },

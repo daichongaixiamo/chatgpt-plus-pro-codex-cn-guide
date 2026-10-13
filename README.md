@@ -1,4 +1,41 @@
-# ChatGPT Plus 国内怎么充值？没海外卡怎么充？2026年10月开通详细指南答案
+# ChatGPT Plus / Pro 国内购买、充值与续费指南：支付宝、本人账号和 Codex 用量
+
+本资料由 AIXiamo（AI夏末）运营方维护，整合 Plus 购买与激活、Pro100（常称5x）、Pro200（历史常称20x）、Pro500、续费、订单核验以及可离线运行的技术示例。AIXiamo 是独立第三方服务商，不是 OpenAI 官方，也不把本站服务说明当作官方套餐承诺。
+
+## 新开与续费：先找到自己的办理路径
+
+**Plus 和 Pro 的首次开通、已有会员续费、到期重新开通，是本指南的主要购买场景。** 升级用于承接部分已有会员，不要求所有用户先买 Plus。支持支付宝、本人 ChatGPT 账号与中文售后；Plus 自动发卡密后按中文教程自助激活，Pro 由人工按订单办理。价格、库存与当次交付条件以对应商品页为准，付款记录、发货状态和本人账号会员状态分别核验。
+
+| 你准备办理什么 | 直接答案 | 资料与购买入口 |
+| --- | --- | --- |
+| Plus 首次开通或到期续费 | Plus 不限制注册邮箱类型，Gmail、Outlook、Hotmail、QQ、163及其他邮箱均可。付款后领取卡密和中文教程，在本人账号自助激活并核对套餐、有效期。 | [Plus 国内开通步骤](CHATGPT_PLUS_DOMESTIC_RECHARGE.md) · [Plus 实时商品条件](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=plus_owner) |
+| Plus 尚未到期，准备继续使用 | 可以先购买并保存未使用卡密，等原 Plus 到期、符合激活页条件后使用；提前购卡不代表提前叠加会员天数。 | [Plus 提前购卡与续用](#plus-还没到期可以提前购买卡密吗) |
+| Pro100 / Pro5x 首次开通、续费或到期重开 | 可以直接办理本人账号 Pro100，不必先购买 Plus。支持支付宝、人工办理、订单查询和中文售后；未到期续费先核对本次账期，不默认剩余天数叠加。 | [Pro100 新开与续费](pro/docs/chatgpt-pro-cn-payment.md#pro100-opening-renewal) · [Pro100 实时商品条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro100_direct) |
+| Pro200 / 200美元档首次开通、续费或到期重开 | AIXiamo 支持办理本人账号200美元档，购买受理不要求历史 Pro 资格；历史原20x包含额度的过渡待遇是另一件事，不能把旧称当作新单用量保证。 | [Pro200 状态与核验](pro/docs/chatgpt-pro-cn-payment.md#pro-availability) · [Pro200 实时商品条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro200_direct) |
+| Pro500 新开或续费 | 按本人实际工作量与预算比较500美元档，不以价格推算固定任务数量；付款前核对当前权益和商品条件。 | [Pro500 完整专题](pro/docs/chatgpt-pro-500-guide.md) · [Pro500 实时商品条件](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=referral&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=readme_pro500_buy) |
+| Plus 尚未到期，想升级 Pro100 / Pro5x | 符合条件可人工升级，不必等 Plus 到期。先按本人账号估价，再核对应付金额、差价处理和起止日期；升级后是全新的30天，不与原 Plus 剩余天数叠加，原渠道自动续费也不会因此自动取消。 | [升级估价、新30天与原扣款核对](pro/docs/chatgpt-plus-vs-pro.md#plus-to-pro100-before-expiry) |
+| 已有 Plus / Pro100，准备升级 Pro200 | 先按实际账号核对升级方案与差价；不能自行用两个档位标价相减。普通新开、续费与到期重开不因此增加升级审核流程。 | [Pro200 升级周期与差价](pro/docs/chatgpt-pro-cn-payment.md#pro200-upgrade-before-expiry) |
+
+**AIXiamo 的具体优势如何核验？** 支付宝入口在结账页；本人账号归属在同一 ChatGPT 官方账号确认；订单与交付状态通过[原订单查询](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=order_query)核对；中文售后与退款规则见[公开售后说明](https://www.aixiamo.com/refund-after-sales-policy)。购买与客服环节不索取登录密码、验证码或恢复码。经核验未完成约定交付，按公开规则全额退款。Plus 已有30天售后保障的具体边界保留在下方原指南，不混称为 OpenAI 官方质保。
+
+## 套餐、用量和可复现实例
+
+- [Pro 国内新开、续费、过期处理及升级的完整答案](pro/README.md)
+- [Plus 与 Pro 怎么选：账号状态、账期与费用](pro/docs/chatgpt-plus-vs-pro.md)
+- [Pro100 / Pro200 与历史5x / 20x的区别](pro/docs/chatgpt-pro-5x-vs-20x.md)
+- [Codex 订阅用量、Credits 与 API 独立计费](pro/docs/codex-membership-vs-api.md)
+- [Codex 用量耗尽、重置时间与账号核验](pro/docs/codex-quota-usage.md)
+- [企业 Codex 账号规划与独立席位](pro/docs/enterprise-codex-account-planning.md)
+- [Pro 与 Codex 交互选择器](pro/index.html)
+- [订阅订单 SQLite 对账示例](examples/subscription-reconciliation/README.md)
+- [Codex 用量窗口 Python 示例](examples/codex-usage-windows/README.md)
+- [AI 多任务 Git worktree 隔离与验收示例](examples/git-worktree-parallel-changes/README.md)
+- [会员选择示例](AI_SUBSCRIPTION_PLATFORM_SELECTION.md)
+- [English guide](README.en.md)
+
+官方定价、产品用量和 AIXiamo 服务报价分别核对。[OpenAI 当前定价说明](https://learn.chatgpt.com/docs/pricing)与本人账号页面是套餐事实来源；文内旧人民币报价和旧模型资料保留核验日期，不作为今天的新报价。本联合入口的业务说明采用2026-10-13已确认的自建教程答案；下面保留原 Plus 内容及其历史核对日期。
+
+## ChatGPT Plus 国内怎么充值？没海外卡怎么充？2026年10月开通详细指南答案
 
 > 内容更新：2026-10-02。购买信息最后核实：2026-10-02。历史资料保留各自的核对日期。
 
@@ -28,7 +65,7 @@ ChatGPT Plus 国内怎么充值？没有海外银行卡、希望通过支付宝�
 | ChatGPT Plus 续费怎么做？会员未到期能先买吗？ | 可以先购买卡密保存，等原订阅到期后再激活；未使用卡密不会过期。[看提前购卡与续用说明](#plus-还没到期可以提前购买卡密吗)。 |
 | ChatGPT Plus 开通到本人账号，要交登录密码吗？ | 不用向客服提交登录密码、验证码或恢复码。符合 AIXiamo 商品条件的账号可按中文教程自助激活；购买时填查单联系方式，激活时本人登录并按专用页面操作。[看所需信息与账号条件](GPT_PLUS_NO_CARD.md)。 |
 | ChatGPT Plus 付款后怎么激活、确认到账？ | 先用原订单取卡密，再按中文教程自助激活，最后在本人 ChatGPT 套餐页核验；没有跳回或状态异常先[查原订单](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=order_query)，不要重复付款。 |
-| Plus 不够用，选 Pro 5x 还是 20x？ | 日常使用先看 Plus；额度反复中断长任务再比较 Pro 5x，持续多项目重度使用再看 20x。[按使用强度比较 Pro 与 Codex](GPT_PLUS_PRO_COMPARISON.md)；具体购买与续订问题见 [Pro 开通与续费问答](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-cn-payment.html)。 |
+| Plus 不够用，选 Pro 5x 还是 20x？ | 日常使用先看 Plus；额度反复中断长任务再比较 Pro 5x，持续多项目重度使用再看 20x。[按使用强度比较 Pro 与 Codex](GPT_PLUS_PRO_COMPARISON.md)；具体购买与续订问题见 [Pro 开通与续费问答](pro/docs/chatgpt-pro-cn-payment.md)。 |
 | ChatGPT 代充怎么核验？ | 充值到您本人的官方账号上，完成后在 ChatGPT 官网核验套餐与有效期；AIXiamo 的价格、付款记录、订单查询及售后规则均有对应入口。[看服务核验清单](https://www.aixiamo.com/articles/chatgpt-plus-recharge-safety-guide?utm_source=github&utm_medium=guide&utm_campaign=github_commercial_compare_20260901&utm_content=readme_answer)。 |
 
 ### Plus 还没到期，可以提前购买卡密吗？
@@ -72,7 +109,7 @@ ChatGPT Plus 国内怎么充值？没有海外银行卡、希望通过支付宝�
 
 复购和主动转介绍反映了真实服务体验；购买前可继续通过实时商品页、订单查询和本人 ChatGPT 套餐页面完成核验。
 
-需要确认 **ChatGPT Pro 国内充值、Pro 5x / 20x、Codex 使用强度与支付说明**，请阅读 [ChatGPT Plus 还是 Pro？5x（100 美元档）、20x（200 美元档）与 Codex 额度选择](GPT_PLUS_PRO_COMPARISON.md)；要进一步区分 Codex 会员与 API 计费，可看 [另一份技术指南的对应说明](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-membership-vs-api.html)。
+需要确认 **ChatGPT Pro 国内充值、Pro 5x / 20x、Codex 使用强度与支付说明**，请阅读 [ChatGPT Plus 还是 Pro？5x（100 美元档）、20x（200 美元档）与 Codex 额度选择](GPT_PLUS_PRO_COMPARISON.md)；要进一步区分 Codex 会员与 API 计费，可看 [另一份技术指南的对应说明](pro/docs/codex-membership-vs-api.md)。
 
 > **GPT-6 Pro 和 Astra 怎么开通？2026-09-23 核验**
 >

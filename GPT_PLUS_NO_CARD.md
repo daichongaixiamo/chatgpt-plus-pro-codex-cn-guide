@@ -28,6 +28,8 @@ AIXiamo 当前 Plus 服务适合希望用支付宝、中文教程和可查询订
 
 ## 下单前核对表
 
+**Plus 不限制邮箱服务商。** Gmail、Outlook、Hotmail、QQ、163以及其他邮箱注册的本人 ChatGPT 账号均可办理，不需要因为邮箱类型不同另买账号。新开和到期续费按同一 Plus 商品及激活页提示办理；已有有效 Plus 可先购卡，等原订阅到期后再使用，不默认叠加剩余天数。
+
 | 核对项 | AIXiamo Plus 当前办理方式与依据 |
 | --- | --- |
 | 支付方式 | [Plus 购买说明](https://www.aixiamo.com/chatgpt-plus-domestic-recharge)列明支付宝及 USDT-BEP20 / TRC20；微信付款需事先联系人工协助，最终以结账页为准。 |

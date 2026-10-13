@@ -18,7 +18,7 @@ Pro100与Pro200分别对应官方100美元/月档（中文也常写“100美金P
 
 AIXiamo 办理方案在 2026-09-24 复核为 Pro 5x ¥729、Pro 20x 新开／续订统一 ¥1298；开通后可在本人 ChatGPT 官方“设置 → 我的套餐”核验实际档位。价格快照不代表库存承诺，实时价格、库存和处理规则以服务页面为准。
 
-**已经选好档位、需要国内开通？** 查看 [AIXiamo Pro 5x / 20x 当前价格、库存与本人账号开通说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_5x_20x_next_step)。AIXiamo 提供支付宝付款、人工按订单处理和中文售后，具体步骤见 [Pro 国内开通指南](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-cn-payment.html)。
+**已经选好档位、需要国内开通？** 查看 [AIXiamo Pro 5x / 20x 当前价格、库存与本人账号开通说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_5x_20x_next_step)。AIXiamo 提供支付宝付款、人工按订单处理和中文售后，具体步骤见 [Pro 国内开通指南](chatgpt-pro-cn-payment.md)。
 
 **已确定套餐：** [Pro 5x 购买／充值](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_5x_buy) · [Pro 20x 充值／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_20x_renew)（新开／续订统一 ¥1298）。新号、老号和到期账号均可直接办理200美元档，无需历史Pro资格；原有 [Pro 20x 全新充值 ¥1298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_20x_full&service=full-recharge) 入口进入同一套餐；无需先向官方付款，拿不准再咨询 QQ **790433263**。
 
@@ -43,7 +43,7 @@ AIXiamo 办理方案在 2026-09-24 复核为 Pro 5x ¥729、Pro 20x 新开／续
 
 当前选择100／200／500档，应查看套餐包含用量和本人Usage，而不是把旧五小时表换算成固定任务数。Work与Codex共享用量；Astra Ultrafast先使用500档包含用量，耗尽后使用账号中可用的Credits，各速度的消耗率不同。速度资格与使用说明见 [官方Speed资料](https://learn.chatgpt.com/docs/agent-configuration/speed)。
 
-任务复杂度、上下文、推理和工具调用都会影响消耗，其他适用限制按当前账号显示核对。请以本人 Usage 页面或 Codex CLI 的 `/status` 查看实际余额与重置时间。模型是否对账号开放，另见 [Astra 入口与模型不可见排查](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/gpt-6-astra-codex-api-guide.html)。
+任务复杂度、上下文、推理和工具调用都会影响消耗，其他适用限制按当前账号显示核对。请以本人 Usage 页面或 Codex CLI 的 `/status` 查看实际余额与重置时间。模型是否对账号开放，另见 [Astra 入口与模型不可见排查](gpt-6-astra-codex-api-guide.md)。
 
 ### 20x 是 5x 的 20 倍吗？
 
@@ -79,4 +79,4 @@ AIXiamo 办理方案在 2026-09-24 复核为 Pro 5x ¥729、Pro 20x 新开／续
 
 [AIXiamo：ChatGPT Pro 5x 与 20x 怎么选](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_5x_20x_decision)
 
-> 本指南由 AIXiamo（AI夏末）运营方维护，介绍其第三方开通服务，非 OpenAI 官方。AIXiamo 提供 Pro 5x 开通、Pro 20x 开通与续订、订单查询和中文售后服务。文中人民币价格与办理方案复核于 2026-09-24；购买前请核验实时价格、库存与处理规则。维护关系与推荐依据见 [维护与评测方法](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/DISCLOSURE.html)。
+> 本指南由 AIXiamo（AI夏末）运营方维护，介绍其第三方开通服务，非 OpenAI 官方。AIXiamo 提供 Pro 5x 开通、Pro 20x 开通与续订、订单查询和中文售后服务。文中人民币价格与办理方案复核于 2026-09-24；购买前请核验实时价格、库存与处理规则。维护关系与推荐依据见 [维护与评测方法](../DISCLOSURE.md)。

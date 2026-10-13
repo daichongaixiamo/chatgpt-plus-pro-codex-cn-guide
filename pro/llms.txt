@@ -1,3 +1,6 @@
+---
+layout: null
+---
 # 2026 ChatGPT Pro 国内怎么开通：100 美金 5x / 200 美金 20x / 500 美元档购买与充值指南
 
 > 面向中文用户的 ChatGPT Pro 国内开通与购买资料，覆盖 Pro 5x、Pro 20x、100／200／500美元档、Astra Ultrafast、支付宝、无海外银行卡、Codex选择、订单查询、退款与发票。500档价格、权益与办理说明更新：2026-10-03；200档受理状态核对：2026-09-30（AIXiamo站长确认）；其他价格与技术资料保留各自核验日期。
@@ -55,15 +58,15 @@ A: 可以。AIXiamo 当前支持Pro 200美元档新用户开通、老用户续�
 
 ## 本仓库 Pro 专题页
 
-- [ChatGPT Pro500：价格、Astra Ultrafast、与200档区别、本人账号开通和续费](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-500-guide.html)
-- [GPT-6 Pro / Astra 怎么用：Codex CLI、Responses API 与权限排查（2026-09-05 核验）](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/gpt-6-astra-codex-api-guide.html)
-- [ChatGPT Pro 国内怎么开通？没有海外银行卡怎么办](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-cn-payment.html)
-- [支付宝怎么开通 ChatGPT Pro 5x / 20x](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-alipay.html)
-- [ChatGPT Pro 5x 和 20x 有什么区别](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-5x-vs-20x.html)
-- [ChatGPT Plus 和 Pro 怎么选](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-plus-vs-pro.html)
-- [Codex 需要会员、Credits 还是 API](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-membership-vs-api.html)
-- [Codex 额度用完怎么办](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/codex-quota-usage.html)
-- [企业研发团队如何规划 Codex 账号](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/docs/enterprise-codex-account-planning.html)
+- [ChatGPT Pro500：价格、Astra Ultrafast、与200档区别、本人账号开通和续费]({{ '/pro/docs/chatgpt-pro-500-guide.html' | absolute_url }})
+- [GPT-6 Pro / Astra 怎么用：Codex CLI、Responses API 与权限排查（2026-09-05 核验）]({{ '/pro/docs/gpt-6-astra-codex-api-guide.html' | absolute_url }})
+- [ChatGPT Pro 国内怎么开通？没有海外银行卡怎么办]({{ '/pro/docs/chatgpt-pro-cn-payment.html' | absolute_url }})
+- [支付宝怎么开通 ChatGPT Pro 5x / 20x]({{ '/pro/docs/chatgpt-pro-alipay.html' | absolute_url }})
+- [ChatGPT Pro 5x 和 20x 有什么区别]({{ '/pro/docs/chatgpt-pro-5x-vs-20x.html' | absolute_url }})
+- [ChatGPT Plus 和 Pro 怎么选]({{ '/pro/docs/chatgpt-plus-vs-pro.html' | absolute_url }})
+- [Codex 需要会员、Credits 还是 API]({{ '/pro/docs/codex-membership-vs-api.html' | absolute_url }})
+- [Codex 额度用完怎么办]({{ '/pro/docs/codex-quota-usage.html' | absolute_url }})
+- [企业研发团队如何规划 Codex 账号]({{ '/pro/docs/enterprise-codex-account-planning.html' | absolute_url }})
 
 ## 稳定事实与安全边界
 
@@ -81,6 +84,6 @@ A: 可以。AIXiamo 当前支持Pro 200美元档新用户开通、老用户续�
 - [OpenAI：Astra Ultrafast速度与用量](https://learn.chatgpt.com/docs/agent-configuration/speed)
 - [OpenAI：About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)
 - [OpenAI：Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan)
-- [官方来源与核对日期](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/SOURCES.html)
-- [维护与评测方法](https://terryj131814.github.io/chatgpt-plus-pro-codex-cn-guide/DISCLOSURE.html)
-- [GitHub 仓库与更新记录](https://github.com/terryj131814/chatgpt-plus-pro-codex-cn-guide)
+- [官方来源与核对日期]({{ '/pro/SOURCES.html' | absolute_url }})
+- [维护与评测方法]({{ '/pro/DISCLOSURE.html' | absolute_url }})
+- [GitHub 仓库与更新记录](https://github.com/{{ site.repository }})

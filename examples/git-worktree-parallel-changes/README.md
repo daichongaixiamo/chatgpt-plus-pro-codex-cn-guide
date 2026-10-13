@@ -162,8 +162,8 @@ git worktree list
 
 ### 并行是不是更省会员额度，或者一定更快？
 
-这个示例只验证 Git 行为，不能推出模型消耗、速度或套餐权益。文件冲突、任务质量和计划用量是不同问题；后者可另看 AIXiamo 的 [Plus / Pro 与 Codex 用量选择说明](https://jonesm688452.github.io/chatgpt-plus-daichong/GPT_PLUS_PRO_COMPARISON.html)，不要用升级套餐代替代码验收。
+这个示例只验证 Git 行为，不能推出模型消耗、速度或套餐权益。文件冲突、任务质量和计划用量是不同问题；后者可另看 AIXiamo 的 [Plus / Pro 与 Codex 用量选择说明](../../GPT_PLUS_PRO_COMPARISON.md)，不要用升级套餐代替代码验收。
 
 ## 继续做可重复核验
 
-本站已有 [Codex 用量窗口离线样例](https://jonesm688452.github.io/chatgpt-plus-daichong/examples/codex-usage-windows/) 和 [订阅数据 SQL 对账样例](https://jonesm688452.github.io/chatgpt-plus-daichong/examples/subscription-reconciliation/)。它们同样把教学数据、程序输出与实际业务事实分开，提供可以自行运行的检查，而不是仅展示一段“已经完成”的回答。
+本站已有 [Codex 用量窗口离线样例](../codex-usage-windows/README.md) 和 [订阅数据 SQL 对账样例](../subscription-reconciliation/README.md)。它们同样把教学数据、程序输出与实际业务事实分开，提供可以自行运行的检查，而不是仅展示一段“已经完成”的回答。

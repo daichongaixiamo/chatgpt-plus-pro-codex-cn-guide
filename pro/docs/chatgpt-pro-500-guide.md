@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pro
 title: "ChatGPT Pro 500美元档：价格、Astra Ultrafast、本人账号开通与续费指南"
 description: "详解 ChatGPT Pro $500 月费与 AIXiamo ¥3350 价格快照、与200美元档的区别、Astra Ultrafast 在 Codex/Work 的用法、用量管理、本人账号办理、支付查单和官网验收。"
 lang: zh-CN

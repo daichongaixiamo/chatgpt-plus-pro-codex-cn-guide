@@ -1,0 +1,12 @@
+.DS_Store
+.playwright-cli/
+_site/
+.jekyll-cache/
+.bundle/
+vendor/
+output/
+node_modules/
+.env
+.env.*
+*.har
+private-backup/

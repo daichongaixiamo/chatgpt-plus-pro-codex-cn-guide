@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'zh-CN' }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+    {% assign search_title = page.search_title | default: page.title %}
+    <title>{% if search_title %}{{ search_title | escape }}{% unless search_title contains 'AIXiamo' %} | AIXiamo{% endunless %}{% else %}{{ site.pro_title | escape }}{% endif %}</title>
+    {% seo title=false %}
+    <link rel="stylesheet" href="{{ '/pro/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      <nav aria-label="教程入口">
+        <a href="{{ '/' | relative_url }}">Plus / Pro 完整指南</a>
+        · <a href="{{ '/pro/' | relative_url }}">选择器与 Pro 教程</a>
+      </nav>
+      {{ content }}
+    </div>
+  </body>
+</html>
