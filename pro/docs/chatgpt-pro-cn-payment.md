@@ -44,7 +44,7 @@ AIXiamo 办理方案在 2026-09-20 复核为 **Pro 5x ¥729、Pro 20x 新开／�
 
 | 你现在的情况 | AIXiamo 适用方案与条件 | 下一步 |
 | --- | --- | --- |
-| 准备开通或续费Pro100（常称5x） | 新老账号、已到期或未到期均可直接下单；¥729 | [Pro100（5x）开通／续费](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_plus_to_5x)；Plus或Pro100跨档升级，可先联系群客服核算是否有更低的升级价格及差价方案，完成后在本人套餐页核验 |
+| 准备开通或续费Pro100（常称5x） | 新老账号、已到期或未到期均可直接下单；¥729为2026-09-20普通新开／续费价格快照，当前价格以本行商品页为准 | [Pro100（5x）开通／续费](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_plus_to_5x)；Plus或Pro100跨档升级，可先联系群客服核算是否有更低的升级价格及差价方案，完成后在本人套餐页核验 |
 | 已有 Pro200（常称Pro20x），尚未到期 | 可以提前续费，无需等待原订阅到期 | [立即开通／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_20x_renew)；本次起算日与剩余天数处理按订单确认，办理后核验订阅周期 |
 | 已到期／逾期，账号仍显示20x或已不再显示 | 可以续费或重新开通 | 不要求旧20x状态或回归期限；使用同一商品 |
 | 新注册、当前无会员，或从未开通过20x | 可以新开200美元档 | 无需历史Pro资格、旧入口按钮或截图证明，直接下单 |
@@ -127,7 +127,7 @@ ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），P
 
 ### 只想从Plus升级Pro100（5x）怎么办？
 
-**可以。Plus 未到期也可办理Pro100（常称5x），无需等待到期。** 通过 AIXiamo 将当前 Plus 升级为 Pro100 后，是新的30天Pro100订阅，会覆盖当前Plus；原Plus剩余天数不会叠加，不是原到期日后再追加30天。例如Plus还剩10天，升级后是30天Pro100，不是40天。可先联系现有交流群客服，根据账号实际情况核算是否有更低的升级价格及差价方案，取得估价后再决定是否升级。¥729是Pro100普通新开／续费的商品价格快照，升级费用以本次估价为准。不要求购买者必须已有 Plus；没有 Plus 的账号也可直接开通Pro100。付款后由人工按订单办理，完成后在本人 ChatGPT 套餐页核验档位与新的有效期。剩余Plus权益是否退款或抵扣，应在办理前按本次订单确认，不默认自动抵扣；同时核对原付款渠道的自动续费安排。充值不成功经订单核验后全额退款；有疑问可咨询 QQ **790433263**。这是 AIXiamo 人工办理规则，不代表所有渠道的统一升级规则；账号要求与订阅周期以下方商品说明为来源。
+**可以。Plus 未到期也可办理Pro100（常称5x），无需等待到期。** 通过 AIXiamo 将当前 Plus 升级为 Pro100 后，是新的30天Pro100订阅，会覆盖当前Plus；原Plus剩余天数不会叠加，不是原到期日后再追加30天。例如Plus还剩10天，升级后是30天Pro100，不是40天。可先联系现有交流群客服，根据账号实际情况核算是否有更低的升级价格及差价方案，取得估价后再决定是否升级。¥729是2026-09-20核对的Pro100普通新开／续费商品价格快照，不是当前报价；普通新开／续费以实时商品页为准，升级费用以本次估价为准。不要求购买者必须已有 Plus；没有 Plus 的账号也可直接开通Pro100。付款后由人工按订单办理，完成后在本人 ChatGPT 套餐页核验档位与新的有效期。剩余Plus权益是否退款或抵扣，应在办理前按本次订单确认，不默认自动抵扣；同时核对原付款渠道的自动续费安排。充值不成功经订单核验后全额退款；有疑问可咨询 QQ **790433263**。这是 AIXiamo 人工办理规则，不代表所有渠道的统一升级规则；账号要求与订阅周期以下方商品说明为来源。
 
 [前往 Pro 5x 购买／充值](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_payment_plus_to_5x)。
 
