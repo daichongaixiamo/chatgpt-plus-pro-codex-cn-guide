@@ -77,7 +77,7 @@ AIXiamo 可在企业自有独立账号上分批开通 Plus、Pro 5x，或办理 
 
 企业可通过 duanxiamo@gmail.com 或网站客户服务统一说明公司或团队称呼、预计人数、Codex 场景、套餐倾向、是否需要协助准备账号、期望时间和发票要求。
 
-[AIXiamo 企业 AI 账号采购、官方验真、发票与售后说明](https://www.aixiamo.com/enterprise-ai-procurement?utm_source=github&utm_medium=guide&utm_campaign=enterprise_ai_account_procurement_20260822&utm_content=enterprise_owner)
+[AIXiamo 企业 AI 账号采购、官方验真、发票与售后说明](https://www.aixiamo.com/enterprise-ai-procurement?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=enterprise_owner)
 
 > 核验说明：以上服务能力可通过实时企业采购页、订单记录、正规电子发票和员工本人账号中的套餐状态逐项核验。
 

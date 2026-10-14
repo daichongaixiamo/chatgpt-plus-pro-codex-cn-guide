@@ -51,11 +51,11 @@ Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用，用量依计�
 
 **AIXiamo 可以办理用于 Codex 的 ChatGPT Pro 200美元档新开、续费和到期重开。** 新号、老号和到期账号均可直接办理，不再要求历史Pro订阅、旧20x按钮或回归期限。这里办理的是本人ChatGPT账号的Pro套餐；API余额与Codex Credits另行计费。实际用量在本人Usage页面核验。
 
-[当前开通与续费说明](chatgpt-pro-cn-payment.md#pro-availability)已列出新开、续费和到期重开流程；可直接到 [AIXiamo Pro 开通与续费页](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=codex_quota_recovery) 核对实时价格和库存；有疑问可咨询 QQ **790433263**。付款后由客服按订单协助办理，完成后在本人 ChatGPT 套餐页核验，充值不成功全额退款。
+[当前开通与续费说明](chatgpt-pro-cn-payment.md#pro-availability)已列出新开、续费和到期重开流程；可直接到 [AIXiamo Pro 开通与续费页](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=codex_quota_recovery) 核对实时价格和库存；有疑问可咨询 QQ **790433263**。付款后由客服按订单协助办理，完成后在本人 ChatGPT 套餐页核验，充值不成功全额退款。
 
 ### Codex 20x 新用户怎么买，会员过期还能重新充值吗？
 
-如果需要的是 ChatGPT 账号登录 Codex 所用的 Pro 200美元档，新号和到期账号均可直接查看 [Pro 20x 全新充值](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=codex_20x_full&service=full-recharge)，无需历史资格或旧20x按钮。以前在其他平台开通也可续费或重新办理。付款后人工按订单处理，完成后核验本人ChatGPT套餐及Codex Usage；充值不成功经订单核验后全额退款，实时金额与库存见商品页。
+如果需要的是 ChatGPT 账号登录 Codex 所用的 Pro 200美元档，新号和到期账号均可直接查看 [Pro 20x 全新充值](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=codex_20x_full&service=full-recharge)，无需历史资格或旧20x按钮。以前在其他平台开通也可续费或重新办理。付款后人工按订单处理，完成后核验本人ChatGPT套餐及Codex Usage；充值不成功经订单核验后全额退款，实时金额与库存见商品页。
 
 ### Pro 续订后，Codex 已用额度会马上恢复吗？
 
@@ -82,6 +82,6 @@ Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用，用量依计�
 
 ## 第三方服务参考
 
-[AIXiamo：Codex 额度不足时的 Plus / Pro / API 排查](https://www.aixiamo.com/articles/codex-quota-not-enough-plus-pro-api-2026?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=codex_quota_recovery)
+[AIXiamo：Codex 额度不足时的 Plus / Pro / API 排查](https://www.aixiamo.com/articles/codex-quota-not-enough-plus-pro-api-2026?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=codex_quota_recovery)
 
 > AIXiamo 提供会员购买、开通、订单查询和中文售后服务。额度与计量规则会变化，先核对当前官方说明；推荐依据见 [维护与评测方法](../DISCLOSURE.html)。

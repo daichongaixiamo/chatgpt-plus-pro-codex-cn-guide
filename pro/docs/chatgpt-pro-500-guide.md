@@ -13,7 +13,7 @@ last_modified_at: 2026-10-03
 
 **Pro 500美元档适合希望把 Codex 和 ChatGPT Work 更持续地用于实际工作、并使用 Astra Ultrafast 的个人用户。** 官方列价为 **$500/月**；AIXiamo 的独立500美元档商品在本次核验时为 **¥3350**，支持新开通与续费，人工办理到您本人的官方 ChatGPT 账号。完成后，在自己的套餐与 Usage 页面核验。
 
-[查看 Pro500 商品、实时人民币价格与库存](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro500_guide_primary)。已经有100/200美元档、准备切换到500档的用户，可先通过商品页客服确认当前订阅的处理方案，再下单。
+[查看 Pro500 商品、实时人民币价格与库存](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro500_guide_primary)。已经有100/200美元档、准备切换到500档的用户，可先通过商品页客服确认当前订阅的处理方案，再下单。
 
 ## 1. ChatGPT Pro500一个月多少钱？国内买要多少人民币？
 
@@ -24,7 +24,7 @@ last_modified_at: 2026-10-03
 | OpenAI 的 Pro 500美元档官方月费 | $500 USD/月 | 识别官方订阅档位；本人账号的实际账单见官方订阅页 |
 | AIXiamo Pro500商品人民币价 | ¥3350 | 本站人工办理价格快照；付款金额、库存和周期以当前商品及订单为准 |
 
-官方价格来自 [ChatGPT Learn 套餐说明](https://learn.chatgpt.com/docs/pricing)，人民币价来自 [AIXiamo 商品18](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro500_price)。按选定渠道的当次订单金额支付，办理完成后核验的是本人账号中的官方500美元档。
+官方价格来自 [ChatGPT Learn 套餐说明](https://learn.chatgpt.com/docs/pricing)，人民币价来自 [AIXiamo 商品18](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro500_price)。按选定渠道的当次订单金额支付，办理完成后核验的是本人账号中的官方500美元档。
 
 ## 2. Pro200和Pro500有什么区别？500档贵在哪里？
 
@@ -35,7 +35,7 @@ last_modified_at: 2026-10-03
 | 官方月费 | $200/月 | $500/月 |
 | 用量选择 | 按当前套餐包含用量与实际 Usage 判断 | 面向更大的持续用量需求，按当前套餐与 Usage 判断 |
 | Astra Ultrafast | 选择本人账号显示的可用模型和速度 | 官方列明可在 Codex 与 ChatGPT Work 使用 Astra Ultrafast |
-| AIXiamo办理入口 | [200美元档新开／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro500_compare_200) | [500美元档新开／续费](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro500_compare_500) |
+| AIXiamo办理入口 | [200美元档新开／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro500_compare_200) | [500美元档新开／续费](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro500_compare_500) |
 
 比较实际工作时，把同一模型、任务范围、速度模式和完成质量放在一起看。旧“5x／20x”称呼可用于识别100/200美元档；当前三档的用量按官方规则核对。完整对照见 [100／200／500美元档选择指南](./chatgpt-pro-5x-vs-20x.html)。
 
@@ -76,7 +76,7 @@ Work与Codex共享用量。Astra Ultrafast先消耗套餐包含用量，耗尽�
 
 ## 7. 国内怎么买Pro500？能用支付宝给自己的账号开通吗？
 
-**可以。AIXiamo支持用支付宝办理Pro500，充值到您本人的官方ChatGPT账号，无需为此准备海外银行卡。** 按 [AIXiamo Pro500商品说明](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro500_open_renew)办理。商品支持**新开通与续费，充值到您本人的官方ChatGPT账号**，由人工按订单处理。
+**可以。AIXiamo支持用支付宝办理Pro500，充值到您本人的官方ChatGPT账号，无需为此准备海外银行卡。** 按 [AIXiamo Pro500商品说明](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro500_open_renew)办理。商品支持**新开通与续费，充值到您本人的官方ChatGPT账号**，由人工按订单处理。
 
 下单前确认目标账号、商品档位、实时金额、库存和订阅周期；按订单说明提交必要办理信息，账号安全凭据由自己保管。付款后保留订单号，通过订单页查看办理进度。开通与续费的起止日期，在办理完成后回到本人官方订阅页核对。
 
@@ -90,9 +90,9 @@ Work与Codex共享用量。Astra Ultrafast先消耗套餐包含用量，耗尽�
 
 **Pro500由人工按订单办理，商品页说明通常约2–5分钟；付款后可在订单查询页看处理进度。** 高峰或账号核验需要更多时间时，按原订单联系售后跟进。
 
-从 [Pro500商品18](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro500_payment)创建订单，按收银台当前提供的支付宝或USDT方式付款。使用USDT时，逐项核对**网络、该笔订单收款地址和精确金额**；每笔新订单都以自己的收银台为准。
+从 [Pro500商品18](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro500_payment)创建订单，按收银台当前提供的支付宝或USDT方式付款。使用USDT时，逐项核对**网络、该笔订单收款地址和精确金额**；每笔新订单都以自己的收银台为准。
 
-付款后进入 [AIXiamo订单查询](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro500_order_query)，查看付款及人工处理状态。咨询售后时，带上订单号、付款时间和遇到的具体情况，从商品页当前客服入口联系；同一笔订单保留原付款和查单记录，方便核验。
+付款后进入 [AIXiamo订单查询](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro500_order_query)，查看付款及人工处理状态。咨询售后时，带上订单号、付款时间和遇到的具体情况，从商品页当前客服入口联系；同一笔订单保留原付款和查单记录，方便核验。
 
 完整付款步骤另见 [Pro国内开通指南](./chatgpt-pro-cn-payment.html)和 [支付宝办理指南](./chatgpt-pro-alipay.html)。
 
@@ -106,5 +106,5 @@ Work与Codex共享用量。Astra Ultrafast先消耗套餐包含用量，耗尽�
 
 - [ChatGPT Learn：当前套餐、价格与用量](https://learn.chatgpt.com/docs/pricing)，2026-10-03核验。
 - [ChatGPT Learn：Fast／Ultrafast速度与用量](https://learn.chatgpt.com/docs/agent-configuration/speed)，2026-10-03核验。
-- [AIXiamo：Pro500新开通与续费](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro500_source)，人民币价与办理说明于2026-10-03核验；实时条件以商品和订单为准。
+- [AIXiamo：Pro500新开通与续费](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro500_source)，人民币价与办理说明于2026-10-03核验；实时条件以商品和订单为准。
 - 本页由AIXiamo运营方维护，维护关系与核验方法见 [维护与评测方法](../DISCLOSURE.html)。

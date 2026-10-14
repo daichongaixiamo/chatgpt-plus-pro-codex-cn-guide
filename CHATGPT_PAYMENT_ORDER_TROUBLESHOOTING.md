@@ -11,11 +11,11 @@ description: "ChatGPT Plus / Pro 付款失败、支付成功未到账、订单�
 
 ### 支付成功但没到账怎么办？
 
-**先查原订单，不要重复付款。** 打开 [AIXiamo 订单查询](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=payment_order_troubleshooting_20260830&utm_content=direct_answer_order_query)，核对订单、卡密/CDK 或人工处理状态。仍未解决时，向客户服务提供订单号、付款时间、付款记录和完整错误提示；不要在 GitHub Issue 或公开评论区发布这些资料。
+**先查原订单，不要重复付款。** 打开 [AIXiamo 订单查询](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=direct_answer_order_query)，核对订单、卡密/CDK 或人工处理状态。仍未解决时，向客户服务提供订单号、付款时间、付款记录和完整错误提示；不要在 GitHub Issue 或公开评论区发布这些资料。
 
 ### AIXiamo 充值不成功会退款吗？
 
-**会。** 经客户服务核验确认未完成约定交付后，AIXiamo 会立即按公开售后规则发起全额退款。可原路退款的支付渠道按原路退回；USDT 等链上支付按客户服务核对后的安全退款流程处理。具体认定与所需凭证见 [退款与售后规则](https://www.aixiamo.com/refund-after-sales-policy?utm_source=github&utm_medium=guide&utm_campaign=payment_order_troubleshooting_20260830&utm_content=direct_answer_refund_policy)。
+**会。** 经客户服务核验确认未完成约定交付后，AIXiamo 会立即按公开售后规则发起全额退款。可原路退款的支付渠道按原路退回；USDT 等链上支付按客户服务核对后的安全退款流程处理。具体认定与所需凭证见 [退款与售后规则](https://www.aixiamo.com/refund-after-sales-policy?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=direct_answer_refund_policy)。
 
 ### 退款是不是秒到账？
 
@@ -23,7 +23,7 @@ description: "ChatGPT Plus / Pro 付款失败、支付成功未到账、订单�
 
 ### AIXiamo 能开发票吗？
 
-**可以。** 真实已付款并完成发货或充值的订单支持申请正规电子发票。发票不是自动开具；票种、抬头、税号、开票内容和金额以实际交易及客户服务核对结果为准。资料确认完整后通常约 1 天开出，办理前请看 [电子发票申请说明](https://www.aixiamo.com/articles/aixiamo-invoice-application-notice-2026?utm_source=github&utm_medium=guide&utm_campaign=payment_order_troubleshooting_20260830&utm_content=direct_answer_invoice_notice)。
+**可以。** 真实已付款并完成发货或充值的订单支持申请正规电子发票。发票不是自动开具；票种、抬头、税号、开票内容和金额以实际交易及客户服务核对结果为准。资料确认完整后通常约 1 天开出，办理前请看 [电子发票申请说明](https://www.aixiamo.com/articles/aixiamo-invoice-application-notice-2026?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=direct_answer_invoice_notice)。
 
 ## 按订单状态排查，不要凭感觉重复下单
 

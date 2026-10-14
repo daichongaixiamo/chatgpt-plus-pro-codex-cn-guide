@@ -87,7 +87,7 @@
       links: [
         {
           label: "查看 AIXiamo Plus 价格与购买",
-          url: "https://www.aixiamo.com/item/10?utm_source=github&utm_medium=pages&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_first_result",
+          url: "https://www.aixiamo.com/item/10?utm_source=github&utm_medium=pages&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_first_result",
           external: true
         },
         { label: "查看 Plus / Pro 完整对照", url: `${PAGES_BASE}/docs/chatgpt-plus-vs-pro.html`, external: false }
@@ -102,7 +102,7 @@
       links: [
         {
           label: "查看 AIXiamo Pro 5x / 20x 办理入口",
-          url: "https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=pages&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_result",
+          url: "https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=pages&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_compare_result",
           external: true
         },
         { label: "比较5x / 20x / 500三档", url: `${PAGES_BASE}/docs/chatgpt-pro-5x-vs-20x.html`, external: false },
@@ -129,7 +129,7 @@
         { label: "查看 Codex 会员、Credits 与 API 地图", url: `${PAGES_BASE}/docs/codex-membership-vs-api.html`, external: false },
         {
           label: "打开 AIXiamo Codex 延伸说明",
-          url: "https://www.aixiamo.com/articles/codex-and-gpt-membership-relation-2026?utm_source=github&utm_medium=pages&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=hybrid_result",
+          url: "https://www.aixiamo.com/articles/codex-and-gpt-membership-relation-2026?utm_source=github&utm_medium=pages&utm_campaign=daichongaixiamo_ab_20261014&utm_content=hybrid_result",
           external: true
         }
       ]
@@ -144,7 +144,7 @@
         { label: "查看 Codex 额度与 Credits 排查", url: `${PAGES_BASE}/docs/codex-quota-usage.html`, external: false },
         {
           label: "打开 AIXiamo 中文排查说明",
-          url: "https://www.aixiamo.com/articles/codex-quota-not-enough-plus-pro-api-2026?utm_source=github&utm_medium=pages&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=diagnose_result",
+          url: "https://www.aixiamo.com/articles/codex-quota-not-enough-plus-pro-api-2026?utm_source=github&utm_medium=pages&utm_campaign=daichongaixiamo_ab_20261014&utm_content=diagnose_result",
           external: true
         }
       ]

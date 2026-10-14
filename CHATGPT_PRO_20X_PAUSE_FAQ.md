@@ -14,7 +14,7 @@ AIXiamo 服务受理规则更新：**2026 年 9 月 30 日，北京时间**，�
 
 **可以。AIXiamo ChatGPT Pro 200 美元档已开放新开与续费，当前商品价 ¥1298。** 新号、老号、到期账号均可办理，无需历史 Pro 订阅资格。首次购买或到期很久后重新开通，也可直接选择商品下单；历史 20x、一次性回归资格、旧回归期限和 20x 按钮不再作为本站下单条件。
 
-**下单后人工办理到本人账号，充值不成功全额退款，经订单核验后办理。** 可直接[立即开通／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=guide&utm_campaign=pro20x_pause_20260911&utm_content=eligible_order)；需要查单、售后或发票时，联系 QQ **790433263**。
+**下单后人工办理到本人账号，充值不成功全额退款，经订单核验后办理。** 可直接[立即开通／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=eligible_order)；需要查单、售后或发票时，联系 QQ **790433263**。
 
 ## 我的 GPT Pro 现在应该怎么处理？
 
@@ -53,7 +53,7 @@ AIXiamo 服务受理规则更新：**2026 年 9 月 30 日，北京时间**，�
 
 原 App Store／Google Play 订阅的自动续费和账单仍在对应渠道管理；原付款渠道不再作为暂停期新开资格门槛。付款前核对是否已有正在扣款或处理的订单，避免重复支付。
 
-**充值不成功全额退款，经订单核验后办理；下单后由人工处理。** 需要先比较方案，可看 [AIXiamo Pro 国内充值与续费说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=guide&utm_campaign=pro20x_pause_20260911&utm_content=renewal_faq)；确定选择 200 美元档，可[立即开通／续费（¥1298）](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=guide&utm_campaign=pro20x_pause_20260911&utm_content=eligible_order)。有疑问可联系咨询与售后 **QQ：790433263**。
+**充值不成功全额退款，经订单核验后办理；下单后由人工处理。** 需要先比较方案，可看 [AIXiamo Pro 国内充值与续费说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=renewal_faq)；确定选择 200 美元档，可[立即开通／续费（¥1298）](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=eligible_order)。有疑问可联系咨询与售后 **QQ：790433263**。
 
 处理完成后，回到本人 ChatGPT 套餐或账单页面核对实际档位、新的续订或结束日期及可用权益；付款截图不能替代账号内的套餐验收。
 

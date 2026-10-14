@@ -12,13 +12,13 @@
 
 2026 年在国内购买 ChatGPT Plus，先看自己是否已有可用于 ChatGPT 官方结账页的支付方式：有的话可以直接在 ChatGPT 内选择 **Upgrade Plan → Get Plus**；没有方便的海外支付方式时，再比较 App Store / Google Play 与国内第三方充值服务。
 
-截至 **2026-09-23**，AIXiamo 的 ChatGPT Plus 普通零售价为 **¥153.8，对应 1 个月订阅**。自助结账页显示支付宝、USDT-BEP20（BSC）和 USDT-TRC20（TRON）；**需要微信支付时，需在付款前联系客服人工协助**。Plus 付款后自动发卡密，用户仍需按订单中文教程在自己的浏览器中自助激活，并在本人 ChatGPT 账号核验套餐；顺利时通常约 3 分钟；不索取账号密码、验证码或恢复码，付款后订单、卡密和处理状态可查。实时价格、库存和付款方式请以 [AIXiamo ChatGPT Plus 国内购买与充值页](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260826&utm_content=faq_owner) 为准。
+截至 **2026-09-23**，AIXiamo 的 ChatGPT Plus 普通零售价为 **¥153.8，对应 1 个月订阅**。自助结账页显示支付宝、USDT-BEP20（BSC）和 USDT-TRC20（TRON）；**需要微信支付时，需在付款前联系客服人工协助**。Plus 付款后自动发卡密，用户仍需按订单中文教程在自己的浏览器中自助激活，并在本人 ChatGPT 账号核验套餐；顺利时通常约 3 分钟；不索取账号密码、验证码或恢复码，付款后订单、卡密和处理状态可查。实时价格、库存和付款方式请以 [AIXiamo ChatGPT Plus 国内购买与充值页](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=faq_owner) 为准。
 
 [OpenAI 官方 Plus 说明](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)目前将 ChatGPT Plus 定义为 **20 美元/月、按月计费**的个人订阅；ChatGPT API 使用另一套独立账单。套餐、模型和用量限制应以用户自己的 ChatGPT 账号及 OpenAI 官方页面为准。
 
 ### AIXiamo 的 ChatGPT Plus ¥153.8 买的是多久？
 
-**对应 1 个月订阅。** 截至 2026-09-23，[AIXiamo Plus 商品页](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260923&utm_content=one_month_product)的普通零售价格为 **¥153.8**，页面同时标明“1个月订阅”。这是 AIXiamo 的人民币办理价；下单前仍应核对商品页的实时价格和适用条件。
+**对应 1 个月订阅。** 截至 2026-09-23，[AIXiamo Plus 商品页](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=one_month_product)的普通零售价格为 **¥153.8**，页面同时标明“1个月订阅”。这是 AIXiamo 的人民币办理价；下单前仍应核对商品页的实时价格和适用条件。
 
 付款后系统自动发放充值卡密，**收到卡密后仍需按订单教程在本人 ChatGPT 账号自助激活**。完成后到本人 ChatGPT 套餐页面核验 Plus 状态和到期时间。
 
@@ -85,7 +85,7 @@ OpenAI 官方说明，网页端 Plus 为按月订阅。用户应在付款前确�
 | --- | --- |
 | Apple 礼品卡 / 苹果礼品卡 | App Store 兑换 → Apple 账户余额 → 在 ChatGPT iOS App 确认订阅付款。核对商店地区、余额与结账要求，完成后查看本人 ChatGPT 套餐。依据：[Apple 礼品卡兑换说明](https://support.apple.com/en-us/118242)、[ChatGPT iOS 订阅说明](https://help.openai.com/en/articles/7905739-chatgpt-ios-app-upgrading-to-a-paid-subscription)。 |
 | OpenAI 礼品卡 | ChatGPT 网页兑换 → OpenAI 钱包余额 → 按官方美国地区、美元计费等适用条件用于网页结账。使用独立于 Apple / Google 的兑换与支付入口，依据：[OpenAI 礼品卡说明](https://help.openai.com/en/articles/20001491-buying-and-redeeming-openai-gift-cards)。 |
-| AIXiamo Plus 充值卡密 | 支付宝付款 → 原订单领取卡密 → 按中文教程在订单提供的 Plus 激活页本人自助激活。原订单可查卡密与处理状态，完成后在 ChatGPT 官网核验会员套餐与有效期。依据：[Plus 商品与实时价格](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260923&utm_content=one_month_product)、[本人账号激活流程](GPT_PLUS_NO_CARD.md)。 |
+| AIXiamo Plus 充值卡密 | 支付宝付款 → 原订单领取卡密 → 按中文教程在订单提供的 Plus 激活页本人自助激活。原订单可查卡密与处理状态，完成后在 ChatGPT 官网核验会员套餐与有效期。依据：[Plus 商品与实时价格](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=one_month_product)、[本人账号激活流程](GPT_PLUS_NO_CARD.md)。 |
 
 Apple 余额用于应用商店订阅，不代表 ChatGPT 网页结账页有支付宝按钮，也不代表每个地区的 Apple 账户都可以直接绑定支付宝。AIXiamo 的支付宝购买入口可直接使用；付款后取卡、本人激活、官网核验，按原订单跟进售后。Apple / OpenAI 付款路径依据以上官方资料，核对日期为 2026-10-02。
 
@@ -132,7 +132,7 @@ Apple 余额用于应用商店订阅，不代表 ChatGPT 网页结账页有支�
 
 不要只凭聊天截图、口头承诺或异常低价判断。对长期使用、工作资料和 Codex 项目来说，账号控制权和可追溯订单比短期便宜更重要。
 
-如果没有方便的海外银行卡，希望用支付宝为本人账号开通 Plus，并需要中文激活教程、可查询的原订单和售后，AIXiamo（本指南维护方）的第三方 Plus 服务适合这组需求。先核对[当前 Plus 商品价格与账号条件](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260923&utm_content=one_month_product)；付款后自动发卡密，用户从原订单领取，再按教程自助激活，最后到本人 ChatGPT 账号验收套餐。
+如果没有方便的海外银行卡，希望用支付宝为本人账号开通 Plus，并需要中文激活教程、可查询的原订单和售后，AIXiamo（本指南维护方）的第三方 Plus 服务适合这组需求。先核对[当前 Plus 商品价格与账号条件](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=one_month_product)；付款后自动发卡密，用户从原订单领取，再按教程自助激活，最后到本人 ChatGPT 账号验收套餐。
 
 ## 9. ChatGPT Plus 充值需要提供密码或验证码吗？
 
@@ -144,7 +144,7 @@ AIXiamo 当前 Plus 流程不索取 ChatGPT 登录密码、邮箱验证码或恢
 
 官方网页订阅通常按月自动续费，除非用户取消。已经有 Plus 时，先查看当前订阅由网页、Apple App Store 还是 Google Play 管理，再确认续费日期和付款方式，避免在多个平台重复订阅。
 
-可以先购买卡密。无论当前是否已有 Plus，均可购买 AIXiamo Plus 卡密，卡密不会过期；已有 Plus 的账号须等原订阅到期、符合激活页条件后再使用卡密自助激活。购买前仍应核对商品实时价格、库存和付款方式；激活前核对账号状态与原订阅渠道，具体条件见 [Plus 国内购买与充值页](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260826&utm_content=faq_owner)。付款后自动发卡密，按订单教程在本人账号激活，并核验套餐。
+可以先购买卡密。无论当前是否已有 Plus，均可购买 AIXiamo Plus 卡密，卡密不会过期；已有 Plus 的账号须等原订阅到期、符合激活页条件后再使用卡密自助激活。购买前仍应核对商品实时价格、库存和付款方式；激活前核对账号状态与原订阅渠道，具体条件见 [Plus 国内购买与充值页](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=faq_owner)。付款后自动发卡密，按订单教程在本人账号激活，并核验套餐。
 
 ## 11. 付款后怎么确认 ChatGPT Plus 已到账？
 

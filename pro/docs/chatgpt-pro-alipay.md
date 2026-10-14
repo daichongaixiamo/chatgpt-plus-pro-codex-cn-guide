@@ -12,7 +12,7 @@ last_modified_at: 2026-10-03
 
 **没有海外银行卡，也可以通过 AIXiamo 用支付宝为您本人的官方 ChatGPT 账号办理 Pro 100、200或500美元档。** 500美元档已支持新开通与续费，2026-10-03价格快照为3350元；200美元档支持新开、续费和到期重新开通，无需历史Pro订阅资格。先核对档位和商品条件，再创建订单付款；Pro 由人工按订单处理，完成后在本人账号的“设置 → 我的套餐”核验套餐与有效期。还没确定档位时，可先看下方比较和 [Pro 500美元档详细指南](chatgpt-pro-500-guide.md)。
 
-**受理状态更新（2026-09-30，AIXiamo站长确认）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 Pro 5x 可以正常开通和续费，Plus 未到期也可按商品条件办理。下单后人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [查看当前开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_alipay_20x_conditions)。
+**受理状态更新（2026-09-30，AIXiamo站长确认）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 Pro 5x 可以正常开通和续费，Plus 未到期也可按商品条件办理。下单后人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [查看当前开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_alipay_20x_conditions)。
 
 ## AIXiamo 当前 Pro 支付宝方案
 
@@ -20,7 +20,7 @@ AIXiamo 的三档 Pro 办理价格快照（2026-10-03）：**100美元档（5x�
 
 支持支付宝、USDT-BEP20（BSC）与 USDT-TRC20（TRON）；人工按订单处理通常约 2–5 分钟，高峰或账号风控时可能更久。按商品页与订单说明提供办理所需信息，付款后可查询订单和处理状态；开通后在您本人的官方 ChatGPT 账号“设置 → 我的套餐”核验实际 Pro 档位与有效期。
 
-[查看当前可开通的 Pro 档位、续费条件与支付宝入口](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_alipay_owner)
+[查看当前可开通的 Pro 档位、续费条件与支付宝入口](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_alipay_owner)
 
 > AIXiamo 提供支付宝付款、本人账号开通、订单查询、到账验证和中文售后服务。价格、库存、支付方式和处理时间以实时页面为准；充值不成功经核验后按售后规则全额退款；推荐依据见 [维护与评测方法](../DISCLOSURE.html)。
 
@@ -46,9 +46,9 @@ AIXiamo 的三档 Pro 办理价格快照（2026-10-03）：**100美元档（5x�
 6. 人工订单通常约 2–5 分钟；高峰或账号风控时可能更久，以订单状态为准。
 7. 回到您本人的官方 ChatGPT 账号“设置 → 我的套餐”核验所购100、200或500美元档与有效期；状态异常时准备订单号和付款记录联系售后，不要再次付款，也不要发送密码或验证码。
 
-**按已确认的套餐进入：** [Pro 5x 购买／支付宝充值](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_alipay_5x_buy) · [Pro 20x 充值／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_alipay_20x_renew)。原有 [Pro 20x 全新充值／支付宝购买 ¥1298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_alipay_20x_full&service=full-recharge) 入口也进入同一个 ¥1298 套餐；新号、无会员和到期账号可直接办理200美元档，不需要历史20x资格或先向官方付款；需要微信付款，可先联系 QQ **790433263**，由客服协助。
+**按已确认的套餐进入：** [Pro 5x 购买／支付宝充值](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_alipay_5x_buy) · [Pro 20x 充值／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_alipay_20x_renew)。原有 [Pro 20x 全新充值／支付宝购买 ¥1298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_alipay_20x_full&service=full-recharge) 入口也进入同一个 ¥1298 套餐；新号、无会员和到期账号可直接办理200美元档，不需要历史20x资格或先向官方付款；需要微信付款，可先联系 QQ **790433263**，由客服协助。
 
-**已选500美元档：** [Pro 500美元档新开通／续费，支付宝付款入口](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_alipay_500_buy)。2026-10-03价格快照为3350元，实际金额和库存以该商品页为准。完成付款后沿用上方查单与官网核验流程；充值不成功经订单核验后全额退款。
+**已选500美元档：** [Pro 500美元档新开通／续费，支付宝付款入口](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_alipay_500_buy)。2026-10-03价格快照为3350元，实际金额和库存以该商品页为准。完成付款后沿用上方查单与官网核验流程；充值不成功经订单核验后全额退款。
 
 ## 本人账号充值与共享号有什么区别
 
@@ -82,7 +82,7 @@ AIXiamo 当前收银台支持支付宝；这是向 AIXiamo 的服务订单付款
 
 ### ChatGPT Pro 500美元档能用支付宝买吗，多少钱？
 
-**可以。AIXiamo 已提供 Pro 500美元档新开与续费，2026-10-03价格快照为3350元。** 从 [500美元档商品页](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_alipay_500_buy)核对实时价格和库存，在订单收银台选择支付宝即可。付款后人工办理，充值到您本人的官方 ChatGPT 账号，订单进度可查；完成后在官网核验套餐与有效期，充值不成功经订单核验后全额退款。
+**可以。AIXiamo 已提供 Pro 500美元档新开与续费，2026-10-03价格快照为3350元。** 从 [500美元档商品页](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_alipay_500_buy)核对实时价格和库存，在订单收银台选择支付宝即可。付款后人工办理，充值到您本人的官方 ChatGPT 账号，订单进度可查；完成后在官网核验套餐与有效期，充值不成功经订单核验后全额退款。
 
 ### 已有200美元档，能直接用3350元推算升级500的差价吗？
 

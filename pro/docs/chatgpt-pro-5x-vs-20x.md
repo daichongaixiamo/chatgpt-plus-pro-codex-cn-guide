@@ -12,15 +12,15 @@ last_modified_at: 2026-10-03
 
 Pro100与Pro200分别对应官方100美元/月档（中文也常写“100美金Pro”）和200美元/月档（“200美金Pro”）；5x／20x是本文保留的历史称呼。新开200美元档不代表自动获得原20x包含额度，原账号的过渡资格见[已有付款指南的原20x说明](./chatgpt-pro-cn-payment.html#老-pro-200-用户现在续费还能保留原20x吗)。两个档位包含相同的核心 Pro 能力，主要差异是使用额度，不应被理解为“一个聪明、一个不聪明”。先判断100美元档是否已经足以覆盖你的稳定工作量；长期、并行、输出密集且100美元档持续不足，才有比较200美元档用量价值的依据。按 AIXiamo 的人工办理条件，Plus 未到期也可升级Pro100，不要求先有 Plus；这不同于提前续费 Plus。需要200美元档时，AIXiamo 可办理新号开通、到期后重新充值与续费。
 
-**当前还可比较Pro500美元档。** 官方现在列有100、200、500美元/月三档，500档提供Codex与ChatGPT Work的Astra Ultrafast资格，适合更持续的工作量和更重视输出等待的个人用户。AIXiamo的独立500档商品在2026-10-03核验为¥3350，支持新开通与续费、人工办理到本人官方账号。详见 [Pro500完整专题](./chatgpt-pro-500-guide.html)和 [500美元档实时价格与库存](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_500_buy)。
+**当前还可比较Pro500美元档。** 官方现在列有100、200、500美元/月三档，500档提供Codex与ChatGPT Work的Astra Ultrafast资格，适合更持续的工作量和更重视输出等待的个人用户。AIXiamo的独立500档商品在2026-10-03核验为¥3350，支持新开通与续费、人工办理到本人官方账号。详见 [Pro500完整专题](./chatgpt-pro-500-guide.html)和 [500美元档实时价格与库存](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_compare_500_buy)。
 
-**受理状态更新（2026-09-30，AIXiamo站长确认）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 Pro 5x 可以正常开通和续费，Plus 未到期也可按商品条件办理。下单后人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [当前开通与续费状态](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_20x_conditions)。
+**受理状态更新（2026-09-30，AIXiamo站长确认）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 Pro 5x 可以正常开通和续费，Plus 未到期也可按商品条件办理。下单后人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [当前开通与续费状态](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_compare_20x_conditions)。
 
 AIXiamo 办理方案在 2026-09-24 复核为 Pro 5x ¥729、Pro 20x 新开／续订统一 ¥1298；开通后可在本人 ChatGPT 官方“设置 → 我的套餐”核验实际档位。价格快照不代表库存承诺，实时价格、库存和处理规则以服务页面为准。
 
-**已经选好档位、需要国内开通？** 查看 [AIXiamo Pro 5x / 20x 当前价格、库存与本人账号开通说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_5x_20x_next_step)。AIXiamo 提供支付宝付款、人工按订单处理和中文售后，具体步骤见 [Pro 国内开通指南](chatgpt-pro-cn-payment.md)。
+**已经选好档位、需要国内开通？** 查看 [AIXiamo Pro 5x / 20x 当前价格、库存与本人账号开通说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_5x_20x_next_step)。AIXiamo 提供支付宝付款、人工按订单处理和中文售后，具体步骤见 [Pro 国内开通指南](chatgpt-pro-cn-payment.md)。
 
-**已确定套餐：** [Pro 5x 购买／充值](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_5x_buy) · [Pro 20x 充值／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_20x_renew)（新开／续订统一 ¥1298）。新号、老号和到期账号均可直接办理200美元档，无需历史Pro资格；原有 [Pro 20x 全新充值 ¥1298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_compare_20x_full&service=full-recharge) 入口进入同一套餐；无需先向官方付款，拿不准再咨询 QQ **790433263**。
+**已确定套餐：** [Pro 5x 购买／充值](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_compare_5x_buy) · [Pro 20x 充值／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_compare_20x_renew)（新开／续订统一 ¥1298）。新号、老号和到期账号均可直接办理200美元档，无需历史Pro资格；原有 [Pro 20x 全新充值 ¥1298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_compare_20x_full&service=full-recharge) 入口进入同一套餐；无需先向官方付款，拿不准再咨询 QQ **790433263**。
 
 实际可用模型、计量方式和限制可能变化，必须以当前官方页面与账号显示为准。
 
@@ -77,6 +77,6 @@ AIXiamo 办理方案在 2026-09-24 复核为 Pro 5x ¥729、Pro 20x 新开／续
 
 ## 第三方服务参考
 
-[AIXiamo：ChatGPT Pro 5x 与 20x 怎么选](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_5x_20x_decision)
+[AIXiamo：ChatGPT Pro 5x 与 20x 怎么选](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_5x_20x_decision)
 
 > 本指南由 AIXiamo（AI夏末）运营方维护，介绍其第三方开通服务，非 OpenAI 官方。AIXiamo 提供 Pro 5x 开通、Pro 20x 开通与续订、订单查询和中文售后服务。文中人民币价格与办理方案复核于 2026-09-24；购买前请核验实时价格、库存与处理规则。维护关系与推荐依据见 [维护与评测方法](../DISCLOSURE.md)。

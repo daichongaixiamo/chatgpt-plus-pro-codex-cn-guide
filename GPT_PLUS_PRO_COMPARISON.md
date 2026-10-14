@@ -43,7 +43,7 @@
 
 AIXiamo 把这五个问题做成了公开的浏览器端工具。它读取商品页当前公开价格，只在浏览器里计算，不上传答案，也不会自动创建订单：
 
-[打开 ChatGPT Pro 5x / 20x 使用强度与成本计算器](https://www.aixiamo.com/tools/chatgpt-pro-plan-calculator?utm_source=github&utm_medium=guide&utm_campaign=github_pro_authority_20260801&utm_content=comparison_tool)
+[打开 ChatGPT Pro 5x / 20x 使用强度与成本计算器](https://www.aixiamo.com/tools/chatgpt-pro-plan-calculator?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=comparison_tool)
 
 ## 国内用户购买前要看什么
 

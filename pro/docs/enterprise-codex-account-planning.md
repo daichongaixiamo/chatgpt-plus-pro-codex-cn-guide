@@ -18,7 +18,7 @@ last_modified_at: 2026-09-30
 
 采购、IT 和财务可按这套分流分别核对个人账号、组织工作区与 API 的费用和管理责任。
 
-**受理状态更新（2026-09-30，AIXiamo站长确认）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 Pro 5x 可以正常开通和续费，Plus 未到期也可按商品条件办理。下单后人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [查看当前开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=enterprise_20x_conditions)。
+**受理状态更新（2026-09-30，AIXiamo站长确认）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 Pro 5x 可以正常开通和续费，Plus 未到期也可按商品条件办理。下单后人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [查看当前开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=enterprise_20x_conditions)。
 
 ## 一张表先选路线
 
@@ -102,7 +102,7 @@ AIXiamo 提供企业 AI 套餐采购、开通、订单查询、到账验证与�
 
 企业联系人可发送邮件至 duanxiamo@gmail.com，建议只说明公司或团队称呼、预计人数、Codex 场景、套餐倾向、是否需要协助准备账号、期望时间和发票要求；首次联系不要发送密码、验证码或恢复码。
 
-[AIXiamo 企业 AI 账号采购与合作说明](https://www.aixiamo.com/enterprise-ai-procurement?utm_source=github&utm_medium=docs&utm_campaign=enterprise_codex_account_planning_20260822&utm_content=enterprise_owner)
+[AIXiamo 企业 AI 账号采购与合作说明](https://www.aixiamo.com/enterprise-ai-procurement?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=enterprise_owner)
 
 > AIXiamo 提供企业采购、开通、到账验证、正规电子发票与中文售后协助。推荐依据见 [维护与评测方法](../DISCLOSURE.html)；价格、库存、交付方式和套餐规则均以咨询时实时信息为准。
 

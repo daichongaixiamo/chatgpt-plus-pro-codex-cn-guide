@@ -43,6 +43,6 @@ Windows 原生还是 WSL2，决定命令在哪种系统环境执行；完全访�
 
 ## 第三方服务参考
 
-[AIXiamo：Codex 与 ChatGPT 会员、API 的关系](https://www.aixiamo.com/articles/codex-and-gpt-membership-relation-2026?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=codex_membership_api)
+[AIXiamo：Codex 与 ChatGPT 会员、API 的关系](https://www.aixiamo.com/articles/codex-and-gpt-membership-relation-2026?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=codex_membership_api)
 
 > AIXiamo 提供会员购买、开通、订单查询和中文售后服务。会员、API 与模型可用范围以当前官方说明为准；推荐依据见 [维护与评测方法](../DISCLOSURE.html)。

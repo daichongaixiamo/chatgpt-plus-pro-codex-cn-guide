@@ -24,10 +24,10 @@ last_modified_at: 2026-09-30
 | ChatGPT Pro 5x | ¥729 | 高频 Codex、深度研究与长任务；人工按订单处理 |
 | ChatGPT Pro 20x | 新开／续订统一 ¥1298 | 200美元档新开、续费、到期重开均可直接办理，无需历史Pro资格 |
 
-**受理状态更新（2026-09-30，AIXiamo站长确认）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 Pro 5x 可以正常开通和续费，Plus 未到期也可按商品条件办理。下单后人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [查看当前开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_20x_conditions)。
+**受理状态更新（2026-09-30，AIXiamo站长确认）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 Pro 5x 可以正常开通和续费，Plus 未到期也可按商品条件办理。下单后人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [查看当前开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=broad_20x_conditions)。
 
-- [立即查看 ChatGPT Plus 国内充值、库存与支付方式](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_plus_early)
-- [查看当前可开通的 Pro 档位、续费条件与支付方式](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_pro_early)
+- [立即查看 ChatGPT Plus 国内充值、库存与支付方式](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=broad_plus_early)
+- [查看当前可开通的 Pro 档位、续费条件与支付方式](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=broad_pro_early)
 
 当前支持支付宝、USDT-BEP20（BSC）与 USDT-TRC20（TRON），不需要海外银行卡；不索取登录密码、验证码或恢复码；必要账号信息按商品页与订单说明提供，先核对接收页面和用途。Plus 付款后自动发充值卡密，客户使用卡密自助激活，顺利时通常约 3 分钟，Pro 人工处理通常约 2–5 分钟；付款后订单、卡密或处理状态可查。充值不成功经核验后按售后规则全额退款。价格、库存、付款方式和处理时间以实时页面为准。
 
@@ -137,8 +137,8 @@ ChatGPT 会员主要面向网页、App 和支持的账号登录入口；API key 
 ## 第三方服务与核验入口
 
 - [在 GitHub 阅读并提交事实修正](../../README.md)：国内充值问题库与更新记录。
-- [ChatGPT Plus 国内充值：实时支付、本人账号流程与订单说明](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_plus_owner)
-- [ChatGPT Pro 国内开通：实时支付、5x / 20x 与订单说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=broad_pro_owner)
+- [ChatGPT Plus 国内充值：实时支付、本人账号流程与订单说明](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=broad_plus_owner)
+- [ChatGPT Pro 国内开通：实时支付、5x / 20x 与订单说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=broad_pro_owner)
 
 > 核验说明：AIXiamo 的推荐依据与证据标准见 [维护与评测方法](../DISCLOSURE.html)；实时价格、库存、付款方式、处理时间与售后规则以页面当前显示为准。
 
