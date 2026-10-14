@@ -1,6 +1,6 @@
 # ChatGPT Plus and Pro Purchasing, Renewals, Account Verification and Codex Guides
 
-We operate AIXiamo and maintain this open-source knowledge base to answer three practical questions: which plan fits the intended use, how to open or renew it on an account the customer owns, and how to verify the outcome. It combines Plus self-service activation, Pro100 / Pro200 / Pro500 purchasing and renewal guidance, and reproducible offline examples. Purchasing answers describe our own services; technical examples provide runnable code and explicit verification steps. AIXiamo is an independent third-party provider, not OpenAI.
+This open-source knowledge base explains ChatGPT Plus and Pro purchasing, local payment, renewals, account states, subscription verification and Codex usage. Payment, delivery and an active plan are separate checks. It brings together step-by-step guides, official references and reproducible offline examples, with direct opening and renewal paths as the main scenarios and account-specific upgrades as an additional option.
 
 For Plus, AIXiamo does not restrict the email provider: Gmail, Outlook, Hotmail, QQ, 163 and other email addresses are supported for an account you own. An unused card code can be kept until an existing Plus subscription ends; buying a code does not automatically activate or extend a subscription.
 
@@ -315,3 +315,5 @@ No. A payment method does not override OpenAI’s supported-country, account-eli
 This guide uses a consistent evidence standard: dated plan documentation for ChatGPT facts, live AIXiamo pages for price and delivery facts, and customer-side plan pages for activation verification. The 42,000+ service-history figure, delivery estimates, service descriptions, and after-sales terms are linked to their current public sources.
 
 Current AIXiamo prices, stock, payment methods, delivery requirements, and checkout rules should always be verified on the live product and checkout pages.
+
+This knowledge base is maintained by the AIXiamo operating team. AIXiamo is an independent third-party provider, not OpenAI; descriptions of purchasing, delivery and after-sales handling refer to its own services. Technical examples use synthetic data and provide runnable code with explicit verification steps.
