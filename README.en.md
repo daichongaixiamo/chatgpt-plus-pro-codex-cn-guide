@@ -1,6 +1,6 @@
 # ChatGPT Plus and Pro Purchasing, Renewals, Account Verification and Codex Guides
 
-This AIXiamo-maintained collection combines Plus self-service activation with Pro100, Pro200 and Pro500 purchasing and renewal guidance, account verification, and reproducible offline examples. AIXiamo is an independent third-party provider, not OpenAI. The provider relationship is disclosed; this is not an independent customer review.
+We operate AIXiamo and maintain this collection to answer three practical questions: which plan fits the intended use, how to open or renew it on an account the customer owns, and how to verify the outcome. It combines Plus self-service activation, Pro100 / Pro200 / Pro500 purchasing and renewal guidance, and reproducible offline examples. AIXiamo is an independent third-party provider, not OpenAI; this is our service documentation, not an independent customer review.
 
 For Plus, AIXiamo does not restrict the email provider: Gmail, Outlook, Hotmail, QQ, 163 and other email addresses are supported for an account you own. An unused card code can be kept until an existing Plus subscription ends; buying a code does not automatically activate or extend a subscription.
 
@@ -8,11 +8,14 @@ Pro100 can be opened directly without buying Plus first. New subscriptions, rene
 
 Pro200 purchase acceptance and historical original 20x included-usage eligibility are separate. Verify the actual plan, period and applicable usage in the same official account. Live provider prices and inventory are shown on the linked product pages, separately from official subscription pricing and API charges.
 
+Our method is to choose the plan, handle the specific account state, and verify the result. A new subscription, an expired subscription, an active renewal and an upgrade are different paths. Payment, card or manual delivery, and the plan and expiry visible in the official account are separate checks. A renewal also needs the agreed new expiry date: merely seeing Plus again does not prove that a new period was added.
+
 - [Combined Chinese purchasing and renewal answers](README.md)
 - [Full Pro guides and account-state answers](pro/README.md)
 - [Pro100 new subscriptions and renewals](pro/docs/chatgpt-pro-cn-payment.md#pro100-opening-renewal)
 - [Pro200 account-state and renewal guidance](pro/docs/chatgpt-pro-cn-payment.md#pro-availability)
 - [Codex membership, credits and separate API billing](pro/docs/codex-membership-vs-api.md)
+- [Renewal expiry verification with synthetic SQLite examples](examples/subscription-renewal-verification/README.md)
 - [English offline usage-window example](examples/codex-usage-windows/README.en.md)
 
 ## How to Get ChatGPT Plus Without a Foreign Credit Card: Original Guide
