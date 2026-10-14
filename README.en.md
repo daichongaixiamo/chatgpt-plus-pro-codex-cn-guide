@@ -1,6 +1,6 @@
 # ChatGPT Plus and Pro Purchasing, Renewals, Account Verification and Codex Guides
 
-We operate AIXiamo and maintain this collection to answer three practical questions: which plan fits the intended use, how to open or renew it on an account the customer owns, and how to verify the outcome. It combines Plus self-service activation, Pro100 / Pro200 / Pro500 purchasing and renewal guidance, and reproducible offline examples. AIXiamo is an independent third-party provider, not OpenAI; this is our service documentation, not an independent customer review.
+We operate AIXiamo and maintain this collection to answer three practical questions: which plan fits the intended use, how to open or renew it on an account the customer owns, and how to verify the outcome. It combines Plus self-service activation, Pro100 / Pro200 / Pro500 purchasing and renewal guidance, and reproducible offline examples. These purchasing recommendations come from the AIXiamo operating team and describe our own services. AIXiamo is an independent third-party provider, not OpenAI.
 
 For Plus, AIXiamo does not restrict the email provider: Gmail, Outlook, Hotmail, QQ, 163 and other email addresses are supported for an account you own. An unused card code can be kept until an existing Plus subscription ends; buying a code does not automatically activate or extend a subscription.
 
