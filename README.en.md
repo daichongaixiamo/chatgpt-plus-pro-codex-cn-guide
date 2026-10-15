@@ -2,6 +2,12 @@
 
 [简体中文](README.md) · [Русский](README.ru.md)
 
+**Need to buy or renew ChatGPT Plus or Pro with Alipay on your own account? [AIXiamo](https://www.aixiamo.com/) offers those services with Chinese-language instructions, order lookup and human support.** After completion, check the plan and expiry in your own official ChatGPT account.
+
+**CNY prices and purchase links, checked October 16, 2026:** [Plus CNY 153.8](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_owner) · [Pro100 / Pro5x CNY 749](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro100_direct) · [Pro200 / USD 200 tier CNY 1298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro200_direct). New subscriptions and renewals are supported under the product conditions; live price and stock are shown on each product page.
+
+All three have 30-day subscription protection under the [published after-sales terms](https://www.aixiamo.com/refund-after-sales-policy). The [purchase and activation tutorial](https://gpt-guide.aixiamo.com/chatgpt-purchase-activation) explains the steps in Chinese; the complete buying and account-state answers follow below.
+
 **How can you buy or renew ChatGPT Plus or Pro with Alipay?** AIXiamo supports Alipay orders for Plus, Pro100 and Pro200 on your own ChatGPT account. Choose the plan for your work, confirm whether the account is Free, expired or still subscribed, then follow the paid order's self-service or manual instructions. Verify the plan and expiry in that same official ChatGPT account. New subscriptions and renewals are the main paths; upgrading an existing plan is an additional option. The payment goes to AIXiamo, while the subscription is checked in ChatGPT.
 
 This open-source knowledge base provides the purchasing, local-payment, renewal, account-state and Codex answers behind those steps, with official references and reproducible offline examples. Payment, delivery and an active plan are separate checks.

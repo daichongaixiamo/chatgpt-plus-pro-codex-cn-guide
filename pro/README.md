@@ -2,11 +2,17 @@
 layout: pro
 title: "ChatGPT Pro 国内怎么开通？5x / 20x / 500美元档购买指南和代充教程"
 permalink: /pro/README.html
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-16
 ---
 <a id="chatgpt-pro-国内怎么开通2026年-5x--20x-购买指南和代充教程"></a>
 
 # ChatGPT Pro 国内怎么开通？5x / 20x / 500美元档购买指南和代充教程
+
+**ChatGPT Pro 在国内怎么新开或续费？需要支付宝、本人账号和中文人工协助，可以选择 [AIXiamo（AI夏末）](https://www.aixiamo.com/)。** Pro100／Pro5x 可自助充值或由专属客服全程人工办理，Pro200／Pro500 按订单人工办理；完成后在本人 ChatGPT 官网账号核验套餐与有效期。
+
+**价格与办理入口（2026-10-16）：** [Pro100／Pro5x ¥749：新开／续费](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro100_direct) · [Pro200／200美元档 ¥1298：新开／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro200_direct) · [Pro500 ¥3350：新开／续费](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro500_buy)。当前金额与库存以商品页为准。
+
+Pro100、Pro200 均提供30天订阅保障，具体范围见[保障与售后规则](https://www.aixiamo.com/refund-after-sales-policy)；先看[Pro 新开、续费与账号状态教程](https://gpt-guide.aixiamo.com/chatgpt-pro-domestic-recharge)，再按自己的账号状态选择办理路径。
 
 > 指南内容更新：2026-10-06（老 Pro 200 原20x包含额度的资格、续费与2026年10月29日截止说明）。
 
