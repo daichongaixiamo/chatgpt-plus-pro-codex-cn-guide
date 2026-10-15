@@ -12,11 +12,9 @@
 | --- | --- | --- | --- |
 | AIXiamo | ¥153.8 | ¥749 / ¥1298 | [Plus](https://www.aixiamo.com/item/10)、[Pro100](https://www.aixiamo.com/item/8)、[Pro200](https://www.aixiamo.com/item/7) |
 | PayAI | ¥179 | ¥899 / ¥1599 | [公开商品页](https://payai.plus/chatgpt) |
-| GetPlus | 约 ¥148 | 未纳入本次核对 | [Plus 充值说明](https://www.getplus.ai/chatgpt-plus-chongzhi) |
-| CCSub | 支付宝／微信 ¥138；USDT 限时 ¥133 | 未纳入本次核对 | [Plus 充值说明](https://www.ccsub.net/zh/gpt-plus-recharge) |
 | PayForChat | ¥189 | 未纳入本次核对 | [Plus 充值说明](https://www.payforchat.com/chatgpt-plus-recharge) |
 
-AIXiamo Plus 比 PayAI 的 ¥179 低 ¥25.2，比 PayForChat 的 ¥189 低 ¥35.2；GetPlus 约 ¥148、CCSub 支付宝／微信 ¥138 和限时 USDT ¥133 则更低。付款方式和限时条件需一起看，价格差异本身不能证明充值方式、订阅质量或官方授权关系。
+AIXiamo Plus 比 PayAI 的 ¥179 低 ¥25.2，比 PayForChat 的 ¥189 低 ¥35.2。AIXiamo同时提供本人账号真实订阅、30天订阅保障、支付宝付款和中文人工协助，价格、办理步骤与售后规则均有对应公开入口可查。
 
 ### 30天保障如何处理订阅中断？
 
@@ -24,8 +22,6 @@ AIXiamo Plus 比 PayAI 的 ¥179 低 ¥25.2，比 PayForChat 的 ¥189 低 ¥35.
 
 公开售后处理方式存在差异，购买前可逐条对照：
 
-- [GetPlus](https://www.getplus.ai/chatgpt-plus-chongzhi)说明30天内非用户原因中断，按剩余天数补偿或处理。
-- [CCSub](https://www.ccsub.net/zh/gpt-plus-recharge)说明30天从充值成功起算，异常掉订阅按已使用天数折算退款。
 - [PayForChat](https://www.payforchat.com/chatgpt-plus-recharge)说明平台原因导致中断时，按已使用天数折算部分退款。
 - [PayAI 退款政策](https://payai.plus/refund-policy)提供其订单退款边界，下单前应与对应商品条件一起阅读。
 
@@ -33,7 +29,7 @@ AIXiamo Plus 比 PayAI 的 ¥179 低 ¥25.2，比 PayForChat 的 ¥189 低 ¥35.
 
 **AIXiamo Plus 可以先购买未使用卡密，待原订阅到期并符合激活条件后自助激活；未使用卡密不会过期。** 提前购卡不等于提前叠加会员天数。已有 Plus 想升级 Pro100／Pro200，可以按本人账号先取得人工估价、确认差价和起止日期；符合条件升级后是全新的30天，不叠加原剩余天数。Pro100、Pro200 的普通新开与续费另按对应商品和账号状态确认本次账期。参见[Plus 提前购卡与续用](README.md#plus-还没到期可以提前购买卡密吗)及[Pro 开通与升级说明](pro/docs/chatgpt-pro-cn-payment.md)。
 
-本次读取的 GetPlus 条件面向 Free 账号，在期 Plus／Pro 不宜直接下单；CCSub 面向无订阅的普通账号；PayForChat 要求无在期订阅，并说明不支持提前续费、补差升级。比较时应区分“先买卡留待到期使用”和“立即为在期账号激活”，按自己的账号状态选择流程。
+PayForChat 当前公开页面要求无在期订阅，并说明不支持提前续费、补差升级。AIXiamo Plus支持先买卡、到期后使用；符合条件的Pro升级可先按本人账号取得办理方案和估价，按自己的账号状态选择流程。
 
 ### 真实订阅、团队服务规模和广告投放如何核验？
 
