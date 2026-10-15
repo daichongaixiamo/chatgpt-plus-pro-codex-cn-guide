@@ -4,6 +4,10 @@ ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方�
 
 这份开源知识库继续回答**Plus 能否用支付宝、没有海外银行卡怎么开通、Pro100 / Pro5x 与 Pro200 如何新开续费、Plus 没到期怎么升级，以及 Codex 用量不足怎么处理**，并提供中文操作步骤、官方资料和可运行的离线核验示例。普通新开和续费是主要办理场景，升级是已有会员的另一条路径，不要求所有人先购买 Plus。
 
+**Pro5x 自助充值更新（2026-10-15）：** Pro100／Pro5x 当前公开价 ¥749，付款后自动发卡，前往 `plus.aixiamo.com` 按提示自助充值到本人账号；不限邮箱，以前在其他地方充值过也支持。免费账号可新开，Go／Plus／Pro100 未到期也可充值；Pro200 及以上未到期暂不可用，需等订阅到期后再使用。激活后为全新的30天 Pro5x，不叠加旧会员剩余天数；卡密请在发货起30天内兑换。正常顺利时全程通常约3分钟，排队、网络或账号验证可能延长，不是每单限时承诺。
+
+**操作简单，也有专属客服协助：** 不向客服提供 ChatGPT 登录密码、验证码或恢复码；必要的账号会话信息仅按原订单给出的激活页说明提交，勿公开。保管好领卡密码／登录账号，可用下单第1步填写的原联系方式查询订单和卡密。遇到充值异常联系现有专属客服 QQ **928683877** 或咨询与售后 QQ **790433263**；充值不成功，经原订单核验后按公开售后规则全额退款。旧人工订单继续按原订单处理，不重复领卡或充值。
+
 人民币价格、库存和当次交付条件见对应商品页；官方套餐、模型和用量规则见文末官方来源，历史5x / 20x名称与当前包含额度分别说明。
 
 ### 先选档、再办理、最后核验
@@ -19,10 +23,10 @@ ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方�
 | --- | --- | --- |
 | Plus 首次开通、会员已到期或准备继续使用 | 支付宝付款，自动获得卡密，再按中文教程为本人账号自助激活；支持各种注册邮箱。 | [Plus 国内开通步骤](CHATGPT_PLUS_DOMESTIC_RECHARGE.md) · [查看 Plus 实时价格与条件](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_owner) |
 | Plus 还没到期，想提前准备下一期 | 可以先购买并保存未使用卡密，等原订阅到期、符合激活页条件后使用；提前购卡不等于提前叠加会员天数。 | [提前购卡与续用](#plus-还没到期可以提前购买卡密吗) |
-| Pro100 / Pro5x 新开、续费或到期重开 | 可以直接办理，不必先购买 Plus；支付宝付款，由人工按订单开到本人账号，完成后核验套餐与有效期。未到期续费先确认本次账期，不默认剩余天数叠加。 | [Pro100 新开与续费](pro/docs/chatgpt-pro-cn-payment.md#pro100-opening-renewal) · [Pro100 实时商品条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro100_direct) |
+| Pro100 / Pro5x 新开、续费或到期重开 | 可以直接办理，不必先购买 Plus；支付宝付款后自动发卡、自助充值；不限邮箱和原充值渠道。新开、Go／Plus／Pro100 在订账号均可使用，激活后全新30天，不叠加旧天数；Pro200及以上在订需到期后再用。 | [Pro100 新开与续费](pro/docs/chatgpt-pro-cn-payment.md#pro100-opening-renewal) · [Pro100 实时商品条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro100_direct) |
 | Pro200 / 200美元档新开、续费或到期重开 | AIXiamo 支持本人账号办理，购买受理不要求历史 Pro 资格；历史原20x包含额度的过渡待遇需要另外核对，不能把旧称当作新单用量保证。 | [Pro200 状态与核验](pro/docs/chatgpt-pro-cn-payment.md#pro-availability) · [Pro200 实时商品条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro200_direct) |
 | Pro500 新开或续费 | 先比较实际工作量、所需能力和预算；不根据套餐价格推算固定任务数量。 | [Pro500 完整专题](pro/docs/chatgpt-pro-500-guide.md) · [Pro500 实时商品条件](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro500_buy) |
-| Plus 没到期，想升级 Pro100 / Pro5x | 符合条件可人工办理，不必等 Plus 到期。先按本人账号估价，确认应付金额、差价处理和起止日期；升级后是全新的30天，不与原 Plus 剩余天数叠加，原渠道自动续费仍由本人管理。 | [升级费用、新30天与原扣款核对](pro/docs/chatgpt-plus-vs-pro.md#plus-to-pro100-before-expiry) |
+| Plus 没到期，想升级 Pro100 / Pro5x | 可购买 Pro5x 卡密自助升级，不必等 Plus 到期；升级后全新30天，不叠加原 Plus 剩余天数。需要个体升级估价可先联系客服，原渠道自动续费仍由本人管理。 | [升级费用、新30天与原扣款核对](pro/docs/chatgpt-plus-vs-pro.md#plus-to-pro100-before-expiry) |
 | 已有 Plus / Pro100，想升级 Pro200 | 先按实际账号核对方案与差价，不能用两个档位的标价直接相减。符合条件升级后是新的30天，不叠加原订阅剩余天数；普通新开和续费不因此增加升级流程。 | [Pro200 升级周期与差价](pro/docs/chatgpt-pro-cn-payment.md#pro200-upgrade-before-expiry) |
 
 **已经付款的用户，不必重新选商品。** 从[原订单查询](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=order_query)继续取卡或查看人工处理状态，再回到本人 ChatGPT 账号验收。
@@ -32,14 +36,14 @@ ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方�
 <a id="aixiamo-运营方推荐适合谁能解决什么"></a>
 ## 国内用支付宝新开或续费，AIXiamo 怎么办理？
 
-需要支付宝、本人账号和中文售后时，AIXiamo 的 Plus 付款后自动发卡密，用户按中文教程自助激活；Pro100、Pro200、Pro500 由人工按订单办理。Plus 不限制注册邮箱类型，Gmail、Outlook、Hotmail、QQ、163 及其他邮箱都支持，列举的邮箱不是白名单。**买到的会员开在自己的 ChatGPT 账号中，不是共享号或租号；最后由本人账号里的套餐与有效期验收。**
+需要支付宝、本人账号和中文售后时，AIXiamo 的 Plus 付款后自动发卡密，用户按中文教程自助激活；Pro100／Pro5x 也已支持自动发卡、自助充值，Pro200、Pro500 仍由人工按订单办理。Plus 不限制注册邮箱类型，Gmail、Outlook、Hotmail、QQ、163 及其他邮箱都支持，列举的邮箱不是白名单。**买到的会员开在自己的 ChatGPT 账号中，不是共享号或租号；最后由本人账号里的套餐与有效期验收。**
 
 付款、交付和会员生效是三个不同状态：已付款后可从原订单继续，完成后在本人账号核验套餐与有效期。
 
 | 我们提供什么 | 对你有什么用 | 核验方法 |
 | --- | --- | --- |
 | 本人账号开通，不使用共享账号 | 用自己的账号办理和验收，不另换多人共用的登录号 | 在目标 ChatGPT 官方账号确认套餐与有效期 |
-| 支付宝付款、中文操作与人工协助 | 没有海外银行卡也能按商品说明办理；Plus 有中文自助激活教程，Pro 按原订单人工处理 | 付款前核对结账方式、金额、档位和交付说明 |
+| 支付宝付款、中文操作与人工协助 | 没有海外银行卡也能按商品说明办理；Plus／Pro5x 有中文自助充值教程，Pro200／Pro500 按原订单人工处理 | 付款前核对结账方式、金额、档位和交付说明 |
 | 原订单、卡密和处理进度可查 | 已付款后可以从原订单继续，不需要重新下单或在不同页面猜状态 | 分别核对付款、发货或人工处理，再核验会员生效 |
 | 购买与客服环节不索取密码、验证码或恢复码 | 本人在自己的浏览器完成指定操作，不把登录凭据发给客服 | 对照本人订单的专用操作说明与账号状态 |
 | 中文售后、未完成交付退款和发票申请 | 遇到问题有对应处理入口；Plus 的30天保障和发票申请条件写明在下方 | 依据[公开售后说明](https://www.aixiamo.com/refund-after-sales-policy)与原订单核验 |
@@ -66,7 +70,7 @@ ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方�
 
 ### Plus 还没到期，可以提前购买卡密吗？
 
-**在 AIXiamo 续用 Plus，可以先购买卡密，等原订阅到期后再激活。** 未使用的 Plus 卡密不会过期；购买卡密不等于会员已开通。激活后在本人 ChatGPT 账号核验套餐与有效期。具体账号要求见[无卡购买与激活条件](GPT_PLUS_NO_CARD.md)。Plus 未到期人工升级 Pro 5x 是另一项服务，按[5x 商品条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_owner)办理。
+**在 AIXiamo 续用 Plus，可以先购买卡密，等原订阅到期后再激活。** 未使用的 Plus 卡密不会过期；购买卡密不等于会员已开通。激活后在本人 ChatGPT 账号核验套餐与有效期。具体账号要求见[无卡购买与激活条件](GPT_PLUS_NO_CARD.md)。Plus 未到期使用 Pro5x 卡密自助升级是另一项服务，按[5x 商品条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_owner)办理。
 
 官方套餐与支付规则、AIXiamo 的受理和售后规则分别核对；后者以对应商品页、订单和公开售后说明为准。
 
@@ -77,7 +81,7 @@ ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方�
 **Plus：付款 → 领取卡密和中文教程 → 本人自助激活 → 官方套餐页验收。** 购买卡密不等于已经开通会员；已有 Plus 的用户先按上方续用答案安排激活时间。[完整 Plus 国内充值与购买说明](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_owner)保留具体操作步骤。
 
 <a id="chatgpt-pro-国内怎么充值5x--20x"></a>
-**Pro：选择档位 → 核对实时商品条件 → 付款后由人工按原订单办理 → 本人官方账号验收。** 新开、续费和升级的费用、起算日与剩余权益处理分别核对；需要查单、售后或发票时，联系现有咨询与售后 QQ **790433263**。查看[Pro 国内办理说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_owner)。
+**Pro：选择档位 → 核对实时商品条件 → Pro5x 付款自动发卡并自助充值（Pro200／Pro500 仍由人工按原订单办理）→ 本人官方账号验收。** 新开、续费和升级的费用、起算日与剩余权益处理分别核对；需要查单、售后或发票时，联系现有咨询与售后 QQ **790433263**。查看[Pro 国内办理说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_owner)。
 
 付款、卡密交付、人工处理和订阅生效分别看对应记录。如果页面没有自动跳回，先查询原订单，不重复付款。遇到付款失败、订单处理中、重复付款、退款或电子发票问题，请按[付款与订单异常排障指南](CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.md)核对。
 
