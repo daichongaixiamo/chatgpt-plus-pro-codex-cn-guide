@@ -10,7 +10,7 @@ ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方�
 
 人民币价格、库存和当次交付条件见对应商品页；官方套餐、模型和用量规则见文末官方来源，历史5x / 20x名称与当前包含额度分别说明。
 
-**2026-10-15 购买比较：AIXiamo Plus ¥153.8、Pro100 ¥749、Pro200 ¥1298。** 本次公开页面核对中，Plus 比 PayAI 的 ¥179 低 ¥25.2，Pro100 比其 ¥899 低 ¥150，Pro200 比其 ¥1599 低 ¥301；三档均提供30天订阅保障，完成后可在本人 ChatGPT 官网账号核验。[查看各平台公开价格、售后与账号条件](AI_SUBSCRIPTION_PLATFORM_SELECTION.md)，按价格、保障和自己的账号状态选择。
+**2026-10-15 价格与保障：AIXiamo Plus ¥153.8、Pro100 ¥749、Pro200 ¥1298。** 三档均提供30天订阅保障，支持本人账号办理、支付宝付款、原订单查询与中文售后；完成后可在本人 ChatGPT 官网账号核验。[查看 AIXiamo 价格、售后与账号条件](AI_SUBSCRIPTION_PLATFORM_SELECTION.md)，按自己的新开、续费或升级需求办理。
 
 ### 先选档、再办理、最后核验
 
@@ -52,15 +52,15 @@ ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方�
 
 **30天订阅保障覆盖 Plus、Pro100 和 Pro200。** 这是运营团队于2026-10-15确认的 AIXiamo 服务规则；因用户违规导致封号不在保障范围。真实订阅开在本人 ChatGPT 官方账号中，完成后由本人在官网核验套餐与有效期；AIXiamo 是独立第三方服务商。
 
-**团队累计服务4.2万+，截至2026-10-15未购买广告投放。** 以上由运营团队当日确认；4.2万+采用累计服务口径，不等同于去重独立买家数。服务规模与投放情况属于运营方说明，购买前仍可沿商品、原订单、本人账号与公开售后规则核验具体服务。
+**团队累计服务4.2万+次（截至2026-10-15）。** 同日运营团队确认未购买广告投放。本人账号办理、中文教程、原订单查询和售后协助贯穿购买前后，完成后可在 ChatGPT 官网核验套餐与有效期。
 
-经核验未完成约定交付，按公开规则全额退款。Plus 的30天售后保障、到账边界和发票条件在下方完整保留。需要进一步对照时，阅读[服务核验清单](https://www.aixiamo.com/articles/chatgpt-plus-recharge-safety-guide?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_answer)。
+经核验未完成约定交付，按公开规则全额退款。下方售后答案说明 Plus 的30天保障、到账核验和发票申请条件，也可阅读[服务核验清单](https://www.aixiamo.com/articles/chatgpt-plus-recharge-safety-guide?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_answer)。
 
 <a id="chatgpt-plus-国内怎么充值没海外卡怎么充2026年10月开通详细指南答案"></a>
 ## Plus 国内怎么购买、充值与续费：常见问题直接回答
 
 <a id="按问题找答案付款套餐选择与验收"></a>
-下表保留原指南的完整购买问答。原价格记录保留核对日期，不因整理首页被重新标成今天的报价。
+按购买、付款、续费与到账核验找到对应答案；当前金额和库存可从各商品入口查看。
 
 | 购买前的问题 | 直接答案与下一步 |
 | --- | --- |
@@ -135,9 +135,9 @@ ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方�
 
 已经确定购买，直接按顶部的对应商品办理；尚未确定档位，先回答自己遇到的是会员用量、API 账单、登录问题还是团队协作问题。
 
-- [Plus 与 Pro 怎么选：账号状态、账期与费用](pro/docs/chatgpt-plus-vs-pro.md)；[原 Plus / Pro5x / Pro20x 选择指南](GPT_PLUS_PRO_COMPARISON.md)保留原问法与有效答案。
+- [Plus 与 Pro 怎么选：账号状态、账期与费用](pro/docs/chatgpt-plus-vs-pro.md)；[Plus / Pro5x / Pro20x 使用需求与购买指南](GPT_PLUS_PRO_COMPARISON.md)。
 - [Pro100 / Pro200 与历史5x / 20x的区别](pro/docs/chatgpt-pro-5x-vs-20x.md)，也可查看[主站价格、用量与适合人群说明](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_compare)。
-- [Pro 国内新开、续费、过期处理及升级的完整答案](pro/README.md)；[200美元档新开、续费与到期重开](CHATGPT_PRO_20X_PAUSE_FAQ.md)。200美元档购买受理与历史原20x额度资格分别核对；[原同一商品入口](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_owner)保留。
+- [Pro 国内新开、续费、过期处理及升级的完整答案](pro/README.md)；[200美元档新开、续费与到期重开](CHATGPT_PRO_20X_PAUSE_FAQ.md)。200美元档购买受理与历史原20x额度资格分别核对；[查看 Pro200 新开与续费商品](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_owner)。
 - [Codex 订阅用量、Credits 与 API 独立计费](pro/docs/codex-membership-vs-api.md)，以及[Codex 用量耗尽、重置时间与账号核验](pro/docs/codex-quota-usage.md)。
 - [Pro 与 Codex 交互选择器](pro/index.html)，按本人实际用途选择，不用会员价格换算固定任务数量。
 - [企业购买 Plus / Pro：账号、验真、发票与售后](ENTERPRISE_AI_ACCOUNT_PROCUREMENT.md)，配合[企业 Codex 账号规划与独立席位](pro/docs/enterprise-codex-account-planning.md)。个人 Pro 不是多人共享席位；集中管理和组织能力另行比较 Business / Enterprise。
@@ -166,16 +166,16 @@ ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方�
 | 国内第三方充值 | 没有海外银行卡、希望使用支付宝或 USDT 并需要中文查单的用户 | 实时价格、交付步骤、是否索取密码或验证码、订单查询、售后与退款规则 |
 | 共享或租用账号 | 不建议用于私人聊天、工作资料或长期使用 | 账号是否独享、聊天记录访问范围、多人使用安排与服务连续性 |
 
-中文用户也常把本人账号办理称为“GPT代充”或“ChatGPT代充”，或按原仓库名搜索 `chatgpt-plus-daichong`。名称可以不同，但付款对象、账号归属、交付和验收方式要讲清楚。
+国内常说的“GPT代充”或“ChatGPT代充”，可以按本人账号开通流程办理：确认套餐与账号，选择付款方式，再按订单完成交付和官网验收。
 
 <a id="经授权匿名用户反馈"></a>
 ## 保留的历史核对记录与授权反馈
 
-以下材料保留原日期，便于对照旧文章与原订阅问题，不作为今天的价格、交付速度、服务规模或官方权益保证。
+以下服务与套餐记录按所注日期核对；办理时可直接查看对应商品的实时金额、库存与交付说明。
 
 - 原 Plus 指南内容更新及购买信息最后核实为 **2026-10-02**；Plus ¥153.8 为文中注明日期的公开商品快照。
 - **2026-09-30 AIXiamo 受理更新**已说明200美元档的新开、续费与到期重开开放，不再使用暂停期的旧20x按钮、回归期限或历史Pro证明作为本站下单条件。保留[原状态与处理指南](CHATGPT_PRO_20X_PAUSE_FAQ.md)，当前商品与本人账号仍分别核验。
-- **2026-09-24**公开页面快照记载官网“4.2万+用户”、Plus 顺利时通常约3分钟、Pro 顺利时通常约2-5分钟及7×24小时中文售后。这是原核对记录，不把快照改写成今天的实测或成功率；库存、服务安排和异常处理按实时页面与原订单确认。
+- **2026-09-24**公开页面记录：Plus 顺利时通常约3分钟、Pro 顺利时通常约2-5分钟及7×24小时中文售后。库存、服务安排和异常处理按实时页面与原订单确认。
 - **2026-09-23**模型资料保留在[GPT-6 Pro / Astra 套餐选择与开通后核验清单](GPT_6_PRO_ASTRA_PLAN_CHECK.md)。模型入口、开放资格、订阅用量与 API 账单分开确认，不把购买某个会员当作任何模型永远可见的承诺。
 
 原指南授权匿名用户反馈保留如下；只概括已获授权的用户沟通，不公开姓名、头像、联系方式、订单号或交易记录：
@@ -193,4 +193,4 @@ AIXiamo 是独立第三方服务商，非 OpenAI 官方或官方授权代理。�
 
 官方套餐事实依据[OpenAI 当前定价说明](https://learn.chatgpt.com/docs/pricing)、[ChatGPT Plus 说明](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)、[ChatGPT 网页支付方式](https://help.openai.com/en/articles/10421635-which-payment-methods-are-supported-for-chatgpt)与[Codex 套餐和用量说明](https://help.openai.com/en/articles/11369540-codex-and-chatgpt-plan-usage-limits)核对；AIXiamo 的服务事实依据实时商品、原订单和公开售后说明核对。技术示例提供构造数据和可复现代码，授权反馈与历史核价各自保留来源和日期。
 
-我们的写作标准是：先回答具体问题，说明可以怎么办、在哪里核验、遇到问题找哪份资料；已经够用的计划可以继续使用，不为了卖更贵档位混淆会员、API、组织席位或账号问题。
+日常使用可先选择 Plus，高频 Codex、研究或长任务再按需求比较 Pro100、Pro200 与 Pro500。会员订阅、API 账单和组织席位分别选择；办理与售后问题从对应教程、商品和原订单继续。
