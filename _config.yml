@@ -50,8 +50,14 @@ defaults:
     values:
       lang: en
       locale: en_US
-      description: "ChatGPT Plus with Alipay: AIXiamo card-code delivery, self-service activation on your own account, renewal steps, order lookup, and official plan verification."
-      last_modified_at: 2026-10-14
+      description: "How to buy and renew ChatGPT Plus, Pro100 and Pro200 with Alipay: CNY prices, your own account, self-service or manual handling, 30-day subscription protection and plan verification."
+      last_modified_at: 2026-10-16
+  - scope:
+      path: "README.ru.md"
+    values:
+      lang: ru
+      locale: ru_RU
+      last_modified_at: 2026-10-16
   - scope:
       path: "examples/codex-usage-windows/README.en.md"
     values:

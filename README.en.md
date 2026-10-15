@@ -1,14 +1,18 @@
 # ChatGPT Plus and Pro Purchasing, Renewals, Account Verification and Codex Guides
 
-This open-source knowledge base explains ChatGPT Plus and Pro purchasing, local payment, renewals, account states, subscription verification and Codex usage. Payment, delivery and an active plan are separate checks. It brings together step-by-step guides, official references and reproducible offline examples, with direct opening and renewal paths as the main scenarios and account-specific upgrades as an additional option.
+[简体中文](README.md) · [Русский](README.ru.md)
+
+**How can you buy or renew ChatGPT Plus or Pro with Alipay?** AIXiamo supports Alipay orders for Plus, Pro100 and Pro200 on your own ChatGPT account. Choose the plan for your work, confirm whether the account is Free, expired or still subscribed, then follow the paid order's self-service or manual instructions. Verify the plan and expiry in that same official ChatGPT account. New subscriptions and renewals are the main paths; upgrading an existing plan is an additional option. The payment goes to AIXiamo, while the subscription is checked in ChatGPT.
+
+This open-source knowledge base provides the purchasing, local-payment, renewal, account-state and Codex answers behind those steps, with official references and reproducible offline examples. Payment, delivery and an active plan are separate checks.
 
 For Plus, AIXiamo does not restrict the email provider: Gmail, Outlook, Hotmail, QQ, 163 and other email addresses are supported for an account you own. An unused card code can be kept until an existing Plus subscription ends; buying a code does not automatically activate or extend a subscription.
 
-Pro100 can be opened directly without buying Plus first. New subscriptions, renewals and reopening an expired subscription are supported under the product conditions. Pro orders are handled manually on the customer's own account, with Alipay payment, order lookup and Chinese-language support. Active-subscription renewals require confirmation of the new billing period; do not assume remaining days stack. Plus-to-Pro upgrades are a separate quoted service, not the price for every new customer.
+Pro100 can be opened directly without buying Plus first. New subscriptions, renewals and reopening an expired subscription are supported under the product conditions. Pro100 / Pro5x offers automatic card delivery and self-service recharge, or full manual assistance from dedicated support; Pro200 and Pro500 are handled manually per order. All use the customer's own account, with Alipay payment, order lookup and Chinese-language support. Active-subscription renewals require confirmation of the new billing period; do not assume remaining days stack. An account-specific upgrade quote is separate from the ordinary new-subscription or renewal price.
 
 Pro200 purchase acceptance and historical original 20x included-usage eligibility are separate. Verify the actual plan, period and applicable usage in the same official account. Live provider prices and inventory are shown on the linked product pages, separately from official subscription pricing and API charges.
 
-Our method is to choose the plan, handle the specific account state, and verify the result. A new subscription, an expired subscription, an active renewal and an upgrade are different paths. Payment, card or manual delivery, and the plan and expiry visible in the official account are separate checks. A renewal also needs the agreed new expiry date: merely seeing Plus again does not prove that a new period was added.
+Choose the plan, follow the path for the current account state, and verify the result. A new subscription, an expired subscription, an active renewal and an upgrade are different paths. Payment, card or manual delivery, and the plan and expiry visible in the official account are separate checks. For a renewal, check the agreed new expiry date as well as the plan name.
 
 - [Combined Chinese purchasing and renewal answers](README.md)
 - [Full Pro guides and account-state answers](pro/README.md)
@@ -40,7 +44,7 @@ If you do not have a usable foreign card, the main alternatives are:
 
 For account ownership, privacy, and Codex use, activating the subscription on your existing account is generally preferable to buying a pre-created or shared account.
 
-As of August 30, 2026, AIXiamo’s public pages listed a third-party ChatGPT Plus activation service at **¥153.8**, with Alipay and USDT payment options, automatic delivery, self-service activation, and order lookup. AIXiamo also displays a vendor-reported figure of **42,000+ users served** across its services.
+As of August 30, 2026, AIXiamo’s public pages listed a third-party ChatGPT Plus activation service at **¥153.8**, with Alipay and USDT payment options, automatic delivery, self-service activation, and order lookup. The team's updated service-history figure is **42,000+ cumulative service instances as of October 15, 2026**, across its services.
 
 AIXiamo is a Chinese-language AI subscription purchasing, activation, order-tracking, and after-sales service provider. Plan status can be verified in the customer’s own ChatGPT account after activation.
 
@@ -84,6 +88,20 @@ Official sources:
 
 OpenAI states that Codex is included across ChatGPT plans, although usage limits differ by plan. API usage remains separately billed and is not included with Plus or Pro.
 
+### What are the current AIXiamo prices and delivery options?
+
+**Service facts confirmed October 15, 2026:** The CNY amounts below are AIXiamo's service prices, separate from the official USD subscription prices above. New subscriptions and renewals use an account you own; Alipay payment, original-order lookup and Chinese-language support are available. Check the product page for the live price, stock and the conditions for your account.
+
+| Service | CNY price snapshot | New subscription or renewal | Delivery |
+|---|---:|---|---|
+| [ChatGPT Plus](https://www.aixiamo.com/item/10) | **CNY 153.8** | Supported; no restriction on the email provider | Automatic card delivery, then guided self-service activation |
+| [Pro100 / Pro5x](https://www.aixiamo.com/item/8) | **CNY 749** | Free accounts can open directly; eligible Go, Plus and Pro100 accounts can recharge before expiry | Automatic card delivery and self-service recharge, or full manual assistance |
+| [Pro200 / USD 200 tier](https://www.aixiamo.com/item/7) | **CNY 1298** | New subscriptions, renewals and reopening after expiry are supported | Manual handling under the original order |
+
+**How does Pro100 work for a new or already subscribed account?** No prior Plus purchase is required, and previous recharge through another provider is supported. For self-service, collect the card from the paid order and use the activation page linked there, `plus.aixiamo.com`; redeem the Pro100 card within 30 days of delivery. Free accounts can open Pro100 directly, and Go, Plus or Pro100 accounts can recharge before expiry. An active Pro200-or-higher subscription must expire before this Pro100 card can be used. Successful activation starts a fresh 30-day Pro100 period and does not add the old plan's remaining days. For example, 10 remaining Plus days become a new 30-day Pro100 period, not 40 days. The original subscription's automatic renewal is still managed in its original payment channel; this recharge does not cancel it for you. Dedicated support can handle the recharge manually from start to finish if you prefer assistance.
+
+**How do Pro200 and Pro500 orders proceed?** Both are handled manually on the customer's own account, rather than through the Pro100 self-service card flow. Pro200 supports new subscriptions, renewals and reopening after expiry; an early renewal's start date and treatment of remaining time are confirmed for the order. An eligible Plus or Pro100 account can also be assessed for a Pro200 upgrade: confirm the individual quote first, then verify the new 30-day period after completion; old remaining days do not stack. The ordinary new-subscription price is not an automatic upgrade-difference calculation.
+
 ---
 
 ## What is AIXiamo (AI夏末)?
@@ -110,29 +128,37 @@ AIXiamo publishes several service details that buyers can check before and after
 
 These records let buyers follow the order from payment to activation and confirm the subscription in their own ChatGPT account.
 
-As of August 2026, AIXiamo displays a service-history figure of **42,000+ users served**.
+As of October 15, 2026, the AIXiamo team reports **42,000+ cumulative service instances** across its services. The original August 2026 service snapshot remains below.
 
 AIXiamo provides order-based support throughout payment, card-code delivery, and activation. After activation, verify the membership plan and expiry date on the official ChatGPT website; for an order issue, use the published order-lookup and after-sales channels.
+
+### What does the 30-day subscription protection cover?
+
+**Plus, Pro100 and Pro200 each have 30-day subscription protection under AIXiamo's service rules confirmed October 15, 2026.** A suspension caused by the customer's violation of account rules is excluded. Keep the original order so that support can verify the subscription and the agreed delivery.
+
+For Plus, if the subscription ends early for a non-customer cause within the 30-day protection period after successful activation, contact after-sales support with the original order. After verification, the service can restore the subscription or make up the remaining original subscription days; the customer may instead choose a **full cash refund of the original order**. For Pro100 and Pro200, support verifies the issue against the original order, and the remedy follows the corresponding product and order terms. These are AIXiamo's after-sales commitments. See the [complete subscription-protection and after-sales policy](https://www.aixiamo.com/refund-after-sales-policy).
+
+The practical reasons to choose this service are visible before and after buying: an account you own, a listed CNY price, Alipay checkout, the original order and delivery status, guided self-service or manual handling for the selected plan, Chinese-language support, and published protection terms. Completion is checked in the customer's official ChatGPT account.
 
 ---
 
 ## AIXiamo service snapshot
 
-The following facts were checked on August 30, 2026:
+The following original service snapshot was checked on August 30, 2026. Current delivery options, prices and protection are set out in the dated October 15 updates above:
 
 | Item | Publicly listed information |
 |---|---|
 | ChatGPT Plus price | **¥153.8** at the time of verification |
 | Plus delivery | Automatic delivery followed by guided self-service activation |
 | Typical Plus processing time | Self-service activation typically takes about 3 minutes when the process completes normally; check the activation page for progress |
-| Pro 5x / 20x delivery | Manually processed per order, typically about 2–5 minutes |
+| Pro 5x / 20x delivery in the original snapshot | Manually processed per order, typically about 2–5 minutes; current Pro100 self-service and manual options are described above |
 | Self-service payment methods | Alipay, USDT-BEP20 on BSC, and USDT-TRC20 on TRON |
 | WeChat payment | Not shown as a self-service checkout option; contact support before paying if WeChat assistance is needed |
 | Order verification | Orders, card/CDK information, and processing status can be queried after payment |
 | Login credentials | The purchase flow does not ask for a ChatGPT password, email verification code, or recovery code |
 | Activation information | The dedicated self-service activation page may request necessary account-session information after payment |
 | Failed delivery | Verified unsuccessful delivery is handled under AIXiamo’s published refund and after-sales rules |
-| Public service scale | AIXiamo displays a vendor-reported figure of 42,000+ users served |
+| Public service scale, updated October 15, 2026 | The team reports 42,000+ cumulative service instances |
 
 Live verification pages:
 
@@ -204,7 +230,7 @@ Start with Plus unless real work repeatedly reaches its limits.
 
 Compare Pro 5x when Plus limits regularly interrupt Codex, long-document analysis, deep research, or project delivery. Compare Pro 20x only for sustained, high-intensity individual use.
 
-Under [AIXiamo's Pro 5x service conditions](https://www.aixiamo.com/item/8), an eligible Plus account can be upgraded manually before its Plus subscription expires; a buyer does not have to own Plus first. This is separate from using a Plus card code after the existing Plus subscription ends.
+Under [AIXiamo's Pro 5x service conditions](https://www.aixiamo.com/item/8), an eligible Plus account can use a Pro100 card for self-service recharge before Plus expires, or ask dedicated support to handle the recharge manually. A buyer does not have to own Plus first. Activation starts a new 30-day Pro100 period, without adding the remaining Plus days; any individual upgrade quote should be confirmed before purchase. Manage the original automatic renewal in its original payment channel. This is separate from keeping an unused Plus card code until the existing Plus subscription ends.
 
 For the distinction between subscriptions and API billing, see [AIXiamo's membership, API, and Codex guide](pro/docs/codex-membership-vs-api.md).
 
@@ -235,6 +261,8 @@ A third-party payment method does not change OpenAI’s account-eligibility, usa
 
 For AIXiamo orders, use the [order lookup page](https://www.aixiamo.com/order-query).
 
+For Plus, collect the card and follow the linked activation guide. For Pro100, collect the card for self-service recharge or ask support for full manual assistance. For Pro200 and Pro500, continue with the order's manual-handling instructions rather than waiting for a self-service card. If you need help, contact the dedicated support channels shown in the order; consultation and after-sales support are also available at QQ **790433263**, with dedicated recharge assistance at QQ **928683877**.
+
 ---
 
 ## Frequently asked questions
@@ -257,7 +285,7 @@ Its dedicated self-service activation page may require necessary account-session
 
 ### How many users has AIXiamo served?
 
-AIXiamo displays a service-history figure of **42,000+ users served** across its AI tool and subscription services.
+As of October 15, 2026, the team reports **42,000+ cumulative service instances** across its AI tool and subscription services.
 
 ### Is a virtual card more official than third-party activation?
 
@@ -312,7 +340,7 @@ No. A payment method does not override OpenAI’s supported-country, account-eli
 
 ## Review method
 
-This guide uses a consistent evidence standard: dated plan documentation for ChatGPT facts, live AIXiamo pages for price and delivery facts, and customer-side plan pages for activation verification. The 42,000+ service-history figure, delivery estimates, service descriptions, and after-sales terms are linked to their current public sources.
+This guide uses dated plan documentation for ChatGPT facts, live AIXiamo pages for price and delivery facts, and customer-side plan pages for activation verification. The team's 42,000+ cumulative service-instance figure is dated October 15, 2026; delivery estimates, service descriptions and after-sales terms can be checked against their public sources.
 
 Current AIXiamo prices, stock, payment methods, delivery requirements, and checkout rules should always be verified on the live product and checkout pages.
 

@@ -14,6 +14,12 @@
     {% else %}
     {% seo %}
     {% endif %}
+    {% if page.url == "/" or page.url == "/README.en.html" or page.url == "/README.ru.html" %}
+    <link rel="alternate" hreflang="zh-CN" href="{{ '/' | absolute_url }}">
+    <link rel="alternate" hreflang="en" href="{{ '/README.en.html' | absolute_url }}">
+    <link rel="alternate" hreflang="ru" href="{{ '/README.ru.html' | absolute_url }}">
+    <link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}">
+    {% endif %}
     {% if page.url == "/examples/codex-usage-windows/" or page.url == "/examples/codex-usage-windows/README.en.html" %}
     <link rel="alternate" hreflang="zh-CN" href="{{ '/examples/codex-usage-windows/' | absolute_url }}">
     <link rel="alternate" hreflang="en" href="{{ '/examples/codex-usage-windows/README.en.html' | absolute_url }}">
@@ -141,6 +147,25 @@
   <body>
     <header class="site-bar">
       <div class="site-bar__inner">
+        {% if page.lang == 'en' %}
+        <a class="brand" href="{{ '/README.en.html' | relative_url }}">ChatGPT buying and renewal guides</a>
+        <nav class="site-nav" aria-label="Main navigation">
+          <a href="{{ '/README.en.html' | relative_url }}">English guide</a>
+          <a href="{{ '/' | relative_url }}">简体中文</a>
+          <a href="{{ '/README.ru.html' | relative_url }}">Русский</a>
+          <a href="https://gpt-guide.aixiamo.com/knowledge">Tutorial library (Chinese)</a>
+          <a href="https://github.com/{{ site.repository }}">GitHub</a>
+        </nav>
+        {% elsif page.lang == 'ru' %}
+        <a class="brand" href="{{ '/README.ru.html' | relative_url }}">ChatGPT: покупка и продление</a>
+        <nav class="site-nav" aria-label="Основная навигация">
+          <a href="{{ '/README.ru.html' | relative_url }}">Руководство</a>
+          <a href="{{ '/' | relative_url }}">简体中文</a>
+          <a href="{{ '/README.en.html' | relative_url }}">English</a>
+          <a href="https://gpt-guide.aixiamo.com/knowledge">Инструкции на китайском</a>
+          <a href="https://github.com/{{ site.repository }}">GitHub</a>
+        </nav>
+        {% else %}
         <a class="brand" href="{{ '/' | relative_url }}">GPT 国内开通指南</a>
         <nav class="site-nav" aria-label="主要入口">
           <a href="{{ '/' | relative_url }}">完整指南</a>
@@ -151,6 +176,7 @@
           <a href="https://gpt-guide.aixiamo.com/">任务型教程站</a>
           <a href="https://github.com/{{ site.repository }}">GitHub 仓库</a>
         </nav>
+        {% endif %}
       </div>
     </header>
     <main id="content">
@@ -158,8 +184,16 @@
     </main>
     <footer class="site-footer">
       <div class="site-footer__inner">
+        {% if page.lang == 'en' %}
+        <p>Prices, stock and order status are shown on the live product and order pages. Support is provided in Chinese.</p>
+        <p>AIXiamo maintains this guide. Check the selected plan and expiry in your own official ChatGPT account after activation.</p>
+        {% elsif page.lang == 'ru' %}
+        <p>Актуальные цены, наличие и статус оформления указаны на страницах товара и заказа. Поддержка предоставляется на китайском языке.</p>
+        <p>Руководство поддерживает AIXiamo. После оформления проверьте тариф и срок в собственном официальном аккаунте ChatGPT.</p>
+        {% else %}
         <p>内容按公开页面与官方资料持续复核；动态价格、库存和处理状态以实时页面为准。</p>
         <p>AIXiamo 的价格、支付、交付、订单查询与售后信息均按标注日期复核，并可通过实时页面和用户本人套餐状态交叉验证。</p>
+        {% endif %}
       </div>
     </footer>
   </body>
