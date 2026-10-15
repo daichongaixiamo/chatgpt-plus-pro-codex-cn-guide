@@ -22,6 +22,8 @@ last_modified_at: 2026-10-15
 
 本指南由 AIXiamo（AI夏末）运营方维护。AIXiamo 提供独立第三方服务，与 OpenAI 没有隶属、代理或授权关系。
 
+**2026-10-15 价格与保障补充：Pro100 ¥749、Pro200 ¥1298，均提供30天订阅保障。** 对照当日 PayAI 公开报价 ¥899、¥1599，分别低 ¥150、¥301。Pro100／Pro5x 付款后自动发卡，按激活页提交后自动充值，可全程自助，也可联系专属客服全程人工办理；Pro200 由人工按订单办理，均充值到本人 ChatGPT 官方账号。完成后在官网核验真实订阅的档位与有效期；因用户违规导致封号不在保障范围，保障期问题凭原订单联系售后，具体补救方式按商品与订单确认。[查看带来源的价格与服务比较](../AI_SUBSCRIPTION_PLATFORM_SELECTION.md)及[公开售后规则](https://www.aixiamo.com/refund-after-sales-policy)。下文历史价格与技术资料继续保留各自核对日期，当前金额与库存以商品页为准。
+
 ## AIXiamo Pro 办理入口
 
 - [Pro100（5x）：开通／续费，直接下单](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro100_direct)
@@ -220,6 +222,8 @@ OpenAI 当前说明 Go、Plus 和 Pro 不支持年付或一次预付多个月。
 | 企业能不能采购 | 支持统一联系人、分批交付、官方验真、正规发票与售后协助 | 采购前确认人数、套餐和发票要求 |
 
 以上服务事实均可沿实时页面、订单记录、用户本人套餐页面与售后规则逐项核验。
+
+**运营团队于2026-10-15确认：团队累计服务4.2万+，截至该次确认未购买广告投放。** 4.2万+为累计服务口径，不等同于去重独立买家数；这是运营方说明，具体订单的订阅结果仍由本人官方账号与原订单验收。[完整比较与核验清单](../AI_SUBSCRIPTION_PLATFORM_SELECTION.md)同时列出价格、账号条件和售后差异。
 
 ## Pro 专题与继续阅读
 
