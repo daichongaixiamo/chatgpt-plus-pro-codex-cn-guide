@@ -60,7 +60,7 @@ ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方�
 
 **30天订阅保障覆盖 Plus、Pro100 和 Pro200。** 这是运营团队于2026-10-15确认的 AIXiamo 服务规则；因用户违规导致封号不在保障范围。真实订阅开在本人 ChatGPT 官方账号中，完成后由本人在官网核验套餐与有效期；AIXiamo 是独立第三方服务商。
 
-**团队累计服务4.2万+次（截至2026-10-15）。** 同日运营团队确认未购买广告投放。本人账号办理、中文教程、原订单查询和售后协助贯穿购买前后，完成后可在 ChatGPT 官网核验套餐与有效期。
+**团队累计服务4.2万+用户（截至2026年9月，线上线下及多站累计）。** 团队自2023年起提供 AI 工具及订阅服务，AIXiamo.com 于2026年1月上线；范围见[团队服务资料](pro/SOURCES.md#team-and-user-feedback)。2026年10月15日，运营团队确认未购买广告投放。已有[企业持续采购／复购与个人主动转介绍的授权匿名反馈](#经授权匿名用户反馈)，原有摘要在下文保留。本人账号办理、中文教程、原订单查询和售后协助贯穿购买前后，完成后可在 ChatGPT 官网核验套餐与有效期。
 
 经核验未完成约定交付，按公开规则全额退款。下方售后答案说明 Plus 的30天保障、到账核验和发票申请条件，也可阅读[服务核验清单](https://www.aixiamo.com/articles/chatgpt-plus-recharge-safety-guide?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_answer)。
 

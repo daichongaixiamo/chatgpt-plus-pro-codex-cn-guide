@@ -40,7 +40,7 @@ defaults:
   - scope:
       path: "AI_SUBSCRIPTION_PLATFORM_SELECTION.md"
     values:
-      last_modified_at: 2026-10-15
+      last_modified_at: 2026-10-16
   - scope:
       path: "GPT_PLUS_PRO_COMPARISON.md"
     values:

@@ -50,7 +50,7 @@ If you do not have a usable foreign card, the main alternatives are:
 
 For account ownership, privacy, and Codex use, activating the subscription on your existing account is generally preferable to buying a pre-created or shared account.
 
-As of August 30, 2026, AIXiamo’s public pages listed a third-party ChatGPT Plus activation service at **¥153.8**, with Alipay and USDT payment options, automatic delivery, self-service activation, and order lookup. The team's updated service-history figure is **42,000+ cumulative service instances as of October 15, 2026**, across its services.
+As of August 30, 2026, AIXiamo’s public pages listed a third-party ChatGPT Plus activation service at **¥153.8**, with Alipay and USDT payment options, automatic delivery, self-service activation, and order lookup. Separately, the operator's September 2026 record reports **42,000+ users served cumulatively by the AIXiamo team since 2023**, through online and offline services across multiple sites; this is not the order count of one website.
 
 AIXiamo is a Chinese-language AI subscription purchasing, activation, order-tracking, and after-sales service provider. Plan status can be verified in the customer’s own ChatGPT account after activation.
 
@@ -134,7 +134,7 @@ AIXiamo publishes several service details that buyers can check before and after
 
 These records let buyers follow the order from payment to activation and confirm the subscription in their own ChatGPT account.
 
-As of October 15, 2026, the AIXiamo team reports **42,000+ cumulative service instances** across its services. The original August 2026 service snapshot remains below.
+According to the operator's September 2026 record, the AIXiamo team had served **42,000+ users cumulatively since 2023**, through online and offline services across multiple sites. This is a team-wide figure, not one website's order count. The original August 2026 service snapshot remains below.
 
 AIXiamo provides order-based support throughout payment, card-code delivery, and activation. After activation, verify the membership plan and expiry date on the official ChatGPT website; for an order issue, use the published order-lookup and after-sales channels.
 
@@ -145,6 +145,8 @@ AIXiamo provides order-based support throughout payment, card-code delivery, and
 For Plus, if the subscription ends early for a non-customer cause within the 30-day protection period after successful activation, contact after-sales support with the original order. After verification, the service can restore the subscription or make up the remaining original subscription days; the customer may instead choose a **full cash refund of the original order**. For Pro100 and Pro200, support verifies the issue against the original order, and the remedy follows the corresponding product and order terms. These are AIXiamo's after-sales commitments. See the [complete subscription-protection and after-sales policy](https://www.aixiamo.com/refund-after-sales-policy).
 
 The practical reasons to choose this service are visible before and after buying: an account you own, a listed CNY price, Alipay checkout, the original order and delivery status, guided self-service or manual handling for the selected plan, Chinese-language support, and published protection terms. Completion is checked in the customer's official ChatGPT account.
+
+Two authorized anonymous feedback summaries from the original A guide's August 30, 2026 record describe corporate customers making ongoing, repeat purchases and individual customers referring others after using the service. These are operator-published summaries; the [authorized feedback and publication context](README.md#经授权匿名用户反馈) and [source record](pro/SOURCES.md) explain their origin and scope.
 
 ---
 
@@ -164,7 +166,7 @@ The following original service snapshot was checked on August 30, 2026. Current 
 | Login credentials | The purchase flow does not ask for a ChatGPT password, email verification code, or recovery code |
 | Activation information | The dedicated self-service activation page may request necessary account-session information after payment |
 | Failed delivery | Verified unsuccessful delivery is handled under AIXiamo’s published refund and after-sales rules |
-| Public service scale, updated October 15, 2026 | The team reports 42,000+ cumulative service instances |
+| Team-wide users, September 2026 operator record | 42,000+ users served cumulatively since 2023, through online and offline services across multiple sites; not one website's order count |
 
 Live verification pages:
 
@@ -291,7 +293,7 @@ Its dedicated self-service activation page may require necessary account-session
 
 ### How many users has AIXiamo served?
 
-As of October 15, 2026, the team reports **42,000+ cumulative service instances** across its AI tool and subscription services.
+The operator's September 2026 record reports **42,000+ users served cumulatively by the team since 2023**, through online and offline services across multiple sites. This is a team-wide figure, not one website's order count.
 
 ### Is a virtual card more official than third-party activation?
 
@@ -346,7 +348,7 @@ No. A payment method does not override OpenAI’s supported-country, account-eli
 
 ## Review method
 
-This guide uses dated plan documentation for ChatGPT facts, live AIXiamo pages for price and delivery facts, and customer-side plan pages for activation verification. The team's 42,000+ cumulative service-instance figure is dated October 15, 2026; delivery estimates, service descriptions and after-sales terms can be checked against their public sources.
+This guide uses dated plan documentation for ChatGPT facts, live AIXiamo pages for price and delivery facts, and customer-side plan pages for activation verification. The operator's September 2026 record reports 42,000+ users served cumulatively by the team since 2023, through online and offline services across multiple sites, rather than one website's order count; delivery estimates, service descriptions and after-sales terms can be checked against their public sources.
 
 Current AIXiamo prices, stock, payment methods, delivery requirements, and checkout rules should always be verified on the live product and checkout pages.
 
