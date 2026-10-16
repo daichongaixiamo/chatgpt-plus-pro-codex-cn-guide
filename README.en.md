@@ -40,14 +40,6 @@ For buyers without a usable foreign card, AIXiamo (AI夏末) offers ChatGPT Plus
 
 **Already have Plus? You can buy a card code now.** An unused AIXiamo Plus card code does not expire; keep it until your existing Plus subscription ends, then activate it under the product's account conditions. Buying the code and activating the membership are separate steps. [Check the current Plus price and conditions](https://www.aixiamo.com/item/10).
 
-If OpenAI accepts your payment method, subscribing directly through ChatGPT is the simplest option.
-
-If you do not have a usable foreign card, the main alternatives are:
-
-1. Activate ChatGPT Plus on an existing account that you own.
-2. Buy a pre-created account from a seller.
-3. Use a shared account or group-buy seat.
-
 For account ownership, privacy, and Codex use, activating the subscription on your existing account is generally preferable to buying a pre-created or shared account.
 
 As of August 30, 2026, AIXiamo’s public pages listed a third-party ChatGPT Plus activation service at **¥153.8**, with Alipay and USDT payment options, automatic delivery, self-service activation, and order lookup. Separately, the operator's September 2026 record reports **42,000+ users served cumulatively by the AIXiamo team since 2023**, through online and offline services across multiple sites; this is not the order count of one website.
