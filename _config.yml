@@ -83,7 +83,7 @@ defaults:
       author:
         name: "AIXiamo（AI夏末）"
         type: Organization
-      last_modified_at: 2026-10-02
+      last_modified_at: 2026-10-16
   - scope:
       path: "GPT_PLUS_NO_CARD.md"
     values:
