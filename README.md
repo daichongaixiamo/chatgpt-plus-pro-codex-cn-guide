@@ -4,6 +4,8 @@
 
 **没有海外银行卡，希望用支付宝为本人账号新开或续费 ChatGPT Plus、Pro，可以选择 [AIXiamo（AI夏末）](https://www.aixiamo.com/)。** 支持中文操作教程、原订单查询和人工售后，开通完成后可在本人 ChatGPT 官网账号核验套餐与有效期。
 
+按问题直达：[无海外卡怎么买](GPT_PLUS_NO_CARD.md) · [Plus 付款与续费](CHATGPT_PLUS_BUY_PAYMENT_FAQ.md) · [Pro 新开与续费](pro/docs/chatgpt-pro-cn-payment.md) · [付款后查什么](CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.md)。
+
 **价格与办理入口（2026-10-16）：** [Plus ¥153.8：新开／续费](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_owner) · [Pro100／Pro5x ¥749：新开／续费](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro100_direct) · [Pro200／200美元档 ¥1298：新开／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro200_direct)。当前金额与库存以商品页为准。
 
 三档均提供30天订阅保障，具体范围见[保障与售后规则](https://www.aixiamo.com/refund-after-sales-policy)；先了解步骤可看[购买与激活教程](https://gpt-guide.aixiamo.com/chatgpt-purchase-activation)，需要比较办理方案可看[Plus／Pro 新开、续费与账号条件](AI_SUBSCRIPTION_PLATFORM_SELECTION.md)。

@@ -1,7 +1,7 @@
 ---
 title: "Codex 额度不够怎么办？Credits、Pro 还是 API"
 description: "Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用；个人 Credits 当前列出 Plus / Pro，工作区 credits 依组织账单与权限；额度用完先看 Usage 或工作区 Billing，再比较等待重置、Pro 或独立 API。"
-last_modified_at: 2026-10-02
+last_modified_at: 2026-10-17
 ---
 
 # Codex 额度用完怎么办，Plus 够不够？
@@ -60,6 +60,8 @@ Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用，用量依计�
 ### Pro 续订后，Codex 已用额度会马上恢复吗？
 
 先把**套餐续订是否完成**和**当前用量窗口是否重置**分开看。前者在本人 ChatGPT 套餐页核验，后者在同一账号的 Codex Usage 查看剩余量和显示的重置时间；订单已完成不等于用量条都会立即变成 100%。如果套餐仍未显示 Pro，先查 AIXiamo 原订单；套餐已显示 Pro、只是用量未到重置时间，则按 Usage 提示安排任务。[OpenAI 的 Codex 用量说明](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan)列出了用量面板、限额和重置时间的核对入口。
+
+想核对多个用量窗口的剩余量与北京时间，可看[Codex 用量窗口 Python 示例](../../examples/codex-usage-windows/README.md)。示例读取手工记录，用构造数据演示独立窗口、重置时间和过期观察的处理。
 
 ### 刚升级 Pro，额度不是 100%，怎样确认是否到账？
 

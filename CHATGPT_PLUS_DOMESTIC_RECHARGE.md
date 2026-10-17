@@ -65,4 +65,6 @@ AIXiamo 将实时商品说明、付款、订单查询、卡密/CDK 状态和中�
 | 3. 激活操作 | [自助激活页](https://plus.aixiamo.com/)返回的处理状态 | 确认本次操作结果；异常时保留必要提示并查询原订单。 | 回到本人 ChatGPT 账号核验。 |
 | 4. 订阅生效 | 本人 ChatGPT 账号中的订阅状态 | 确认开通的是目标账号和 ChatGPT Plus 套餐。 | 有疑问先查原订单，再按[售后规则](https://www.aixiamo.com/refund-after-sales-policy)联系售后，不重复购买。 |
 
+**Plus 续费后怎么确认新增期限？** 核对同一账号、续费前后到期时间和本次订单约定的目标期限。需要复现核验方法，可看[Plus 续费有效期 SQLite 示例](examples/subscription-renewal-verification/README.md)，用构造数据区分到期重开、期限足额与需要补充记录的情况；提前购买 Plus 卡密仍按上文到期后激活的条件办理。
+
 准备购买时，[查看 Plus 当前价格与账号条件](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_owner)；已付款则从原订单和上表对应阶段继续。
