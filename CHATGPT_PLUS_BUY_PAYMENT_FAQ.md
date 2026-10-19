@@ -168,7 +168,7 @@ AIXiamo 当前 Plus 流程不索取 ChatGPT 登录密码、邮箱验证码或恢
 
 AIXiamo 会按订单跟进交付。最终经订单、卡密或处理状态核验确认未完成约定交付时，按公开售后规则全额退款。
 
-**AIXiamo 的 Plus 保障30天。** 保障期内，成功激活后，如因非用户原因导致订阅提前中断，请凭原订单联系售后；经核验后，我们会补一个全新的月订阅，不是只补原订阅剩余几天，客户也可选择原订单全额退款。这是 AIXiamo 的 Plus 售后保障，不是 OpenAI 官方质保；因用户违规导致 OpenAI 封号，需由本人通过官方渠道申诉，本站不能承诺解封。Plus 与 Pro 适用同一售后原则，具体保障期与范围分别按对应商品和原订单确认。详见 [Plus 30天保障规则](https://www.aixiamo.com/refund-after-sales-policy#plus-30-day-guarantee)。
+**AIXiamo 的 Plus 保障30天。** 保障期内，成功激活后，如因非用户原因导致订阅提前中断，请凭原订单联系售后；经核验后，我们会补一个全新的月订阅，不是只补原订阅剩余几天，客户也可选择原订单全额退款。这是 AIXiamo 的 Plus 售后保障，不是 OpenAI 官方质保。Plus 与 Pro 适用同一售后原则，具体保障期与范围分别按对应商品和原订单确认。详见 [Plus 30天保障规则](https://www.aixiamo.com/refund-after-sales-policy#plus-30-day-guarantee)。
 
 如果是在 OpenAI、Apple App Store 或 Google Play 直接购买，应向原付款平台提交退款申请，不能混用不同平台的退款入口。
 

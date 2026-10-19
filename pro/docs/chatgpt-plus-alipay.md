@@ -18,7 +18,7 @@ AIXiamo 当前 ChatGPT Plus 公开价为 **¥153.8**，支持支付宝、USDT-BE
 
 > AIXiamo 提供支付宝付款、本人账号开通、订单查询、到账验证和中文售后服务。价格、库存、支付方式和处理时间以实时页面为准；充值不成功经核验后按售后规则全额退款；推荐依据见 [维护与评测方法](../DISCLOSURE.html)。
 
-**AIXiamo Plus 30天保障：** 保障期内，成功激活后，如因非用户原因导致订阅提前中断，可凭原订单联系售后。经核实补一个全新的月订阅，不是只补原剩余几天；客户选择现金退款时，按原订单全额退款。这是AIXiamo的Plus售后规则，不是OpenAI官方质保；因用户违规导致 OpenAI 封号，须由本人通过官方渠道申诉，本站不能承诺解封。Plus 与 Pro 适用同一售后原则，具体保障期与范围分别按对应商品和原订单确认。[查看Plus保障与售后规则](https://www.aixiamo.com/refund-after-sales-policy#plus-30-day-guarantee)。
+**AIXiamo Plus 30天保障：** 保障期内，成功激活后，如因非用户原因导致订阅提前中断，可凭原订单联系售后。经核实补一个全新的月订阅，不是只补原剩余几天；客户选择现金退款时，按原订单全额退款。这是AIXiamo的Plus售后规则，不是OpenAI官方质保。Plus 与 Pro 适用同一售后原则，具体保障期与范围分别按对应商品和原订单确认。[查看Plus保障与售后规则](https://www.aixiamo.com/refund-after-sales-policy#plus-30-day-guarantee)。
 
 **Plus 支持哪些注册邮箱？** AIXiamo 不限制本人 ChatGPT 账号的注册邮箱服务商，Gmail、Outlook、Hotmail、QQ、163 及其他邮箱均支持，列举的邮箱不是白名单；不需要因为邮箱类型不同更换账号。[查看邮箱与账号条件的完整说明](../../GPT_PLUS_NO_CARD.md#下单前核对表)。
 
