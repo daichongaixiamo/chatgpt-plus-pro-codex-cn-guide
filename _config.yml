@@ -36,7 +36,7 @@ defaults:
   - scope:
       path: "README.md"
     values:
-      last_modified_at: 2026-10-19
+      last_modified_at: 2026-10-20
   - scope:
       path: "AI_SUBSCRIPTION_PLATFORM_SELECTION.md"
     values:
