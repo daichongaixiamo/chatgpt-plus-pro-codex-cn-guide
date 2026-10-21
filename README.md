@@ -1,4 +1,4 @@
-# ChatGPT Plus / Pro国内怎么购买、没有海外卡怎么开通，充值与开通续费指南：支付宝、本人账号和 Codex 开通的详细教程10月18日
+# ChatGPT Plus / Pro国内怎么购买、没有海外卡怎么开通，充值与开通续费指南：支付宝、本人账号和 Codex 开通的详细教程10月21日
 
 [English buying and renewal guide](README.en.md) · [Руководство по покупке и продлению](README.ru.md)
 
