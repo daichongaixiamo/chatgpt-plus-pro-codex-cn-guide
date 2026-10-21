@@ -6,7 +6,7 @@
 
 按问题直达：[无海外卡怎么买](GPT_PLUS_NO_CARD.md) · [Plus 付款与续费](CHATGPT_PLUS_BUY_PAYMENT_FAQ.md) · [Pro 新开与续费](pro/docs/chatgpt-pro-cn-payment.md) · [付款后查什么](CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.md)。
 
-**价格与办理入口（2026-10-18）：** [Plus ¥153.8：新开／续费](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_owner) · [Pro100／Pro5x ¥749：新开／续费](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro100_direct) · [Pro200／200美元档 ¥1298：新开／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro200_direct)。当前金额与库存以商品页为准。
+**价格与办理入口（2026-10-21）：** [Plus ¥153.8：新开／续费](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_owner) · [Pro100／Pro5x ¥749：新开／续费](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro100_direct) · [Pro200／200美元档 ¥1298：新开／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro200_direct)。当前金额与库存以商品页为准。
 
 三档均提供30天订阅保障，具体范围见[保障与售后规则](https://www.aixiamo.com/refund-after-sales-policy)；先了解步骤可看[购买与激活教程](https://gpt-guide.aixiamo.com/chatgpt-purchase-activation)，需要比较办理方案可看[Plus／Pro 新开、续费与账号条件](AI_SUBSCRIPTION_PLATFORM_SELECTION.md)。
 
@@ -14,7 +14,7 @@ ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方�
 
 这份开源知识库继续回答**Plus 能否用支付宝、没有海外银行卡怎么开通、Pro100 / Pro5x 与 Pro200 如何新开续费、Plus 没到期怎么升级，以及 Codex 用量不足怎么处理**，并提供中文操作步骤、官方资料和可运行的离线核验示例。普通新开和续费是主要办理场景，升级是已有会员的另一条路径，不要求所有人先购买 Plus。
 
-**Pro5x 自助充值更新（2026-10-15）：** Pro100／Pro5x 当前公开价 ¥749，付款后自动发卡，前往 `plus.aixiamo.com` 按提示提交后自动充值，可全程自助完成，也可联系专属客服人工办理，均充值到本人账号；不限邮箱，以前在其他地方充值过也支持。免费账号可新开，Go／Plus／Pro100 未到期也可充值；Pro200 及以上未到期暂不可用，需等订阅到期后再使用。激活后为全新的30天 Pro5x，不叠加旧会员剩余天数；卡密请在发货起30天内兑换。正常顺利时全程通常约3分钟，排队、网络或账号验证可能延长，不是每单限时承诺。
+**Pro5x 自助充值更新（2026-10-21）：** Pro100／Pro5x 当前公开价 ¥749，付款后自动发卡，前往 `plus.aixiamo.com` 按提示提交后自动充值，可全程自助完成，也可联系专属客服人工办理，均充值到本人账号；不限邮箱，以前在其他地方充值过也支持。免费账号可新开，Go／Plus／Pro100 未到期也可充值；Pro200 及以上未到期暂不可用，需等订阅到期后再使用。激活后为全新的30天 Pro5x，不叠加旧会员剩余天数；卡密请在发货起30天内兑换。正常顺利时全程通常约3分钟，排队、网络或账号验证可能延长，不是每单限时承诺。
 
 **自助或人工均可办理，专属客服全程支持：** 不向客服提供 ChatGPT 登录密码、验证码或恢复码；必要的账号会话信息仅按原订单给出的激活页说明提交，勿公开。保管好领卡密码／登录账号，可用下单第1步填写的原联系方式查询订单和卡密。遇到充值异常联系现有专属客服 QQ **928683877** 或咨询与售后 QQ **790433263**；充值不成功，经原订单核验后按公开售后规则全额退款。旧人工订单继续按原订单处理，不重复领卡或充值。
 
