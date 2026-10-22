@@ -1,14 +1,14 @@
 ---
 title: "Codex 需要什么会员？Plus、Pro、Credits 与 API 的区别"
-description: "Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用；个人 Credits 当前列出 Plus / Pro，工作区 credits 依组织账单与权限；使用 API key、脚本或服务器时看独立 API 账户与账单。"
-last_modified_at: 2026-08-30
+description: "Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用；个人 Credits 当前列出 Plus / Pro，工作区 credits 依组织账单与权限；计费先看 ChatGPT 账号或 API key 的实际认证方式，脚本、服务器或非交互模式本身不决定账单。"
+last_modified_at: 2026-10-22
 ---
 
 # Codex 需要 Plus / Pro，还是应该单独用 API？
 
 ## 直接答案
 
-Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用，使用 ChatGPT 账号登录时先看当前计划与用量；使用 API key、在脚本或服务器里调用时，主要看 API 账户与独立账单。
+Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用。先核对实际认证方式：使用 ChatGPT 账号登录时，看当前计划与用量；使用 API key 时，看对应 API 账户与独立账单。本机、脚本、服务器或非交互模式是运行方式，不单独决定属于哪一套计费。
 
 Codex 是工具入口，不是一个可以脱离登录方式单独判断的“会员商品”。个人账号的 Codex Credits 当前官方说明列出 Plus / Pro 用户，个人资格和支持功能以 `Codex Settings → Usage` 为准。Business 工作区由有权限的角色在 `Workspace settings → Billing` 购买或管理共享 workspace credits；Enterprise / Edu 的共享 credits 按合同层级购买或分配，Billing 用于查看余额、用量与控制，不能把 Billing 当作直接购买入口。其他组织计划、Codex seats、权限和可用功能以 Usage、工作区 Billing、合同和管理员角色为准。个人 Credits 与 workspace credits 都不是 API 余额。
 
@@ -28,14 +28,14 @@ Codex 是工具入口，不是一个可以脱离登录方式单独判断的“�
 
 ## 什么时候优先看 API
 
-- 在程序、脚本、服务器或 CI 中自动调用。
+- 需要将 API 调用嵌入程序、脚本、服务器或 CI，并按 API 项目管理密钥、预算与账单；官方建议自动化默认使用 API key。
 - 需要明确的 API key、模型参数、用量和账单控制。
 - 要把模型接入自己的产品或内部工作流。
 - 不依赖 ChatGPT 网页端会员权益。
 
 ## 什么时候两边都需要
 
-个人交互式工作放在 ChatGPT/Codex，自动化或服务器任务走 API。这两部分需要分开核算：个人 Credits 与 workspace credits 都不是 API 余额；有会员不能假设 API 免费，买了 API 余额也不会让 ChatGPT 自动升级。
+同一个人既用 ChatGPT 账号运行 Codex，也通过 API key 调用 API 时，两边分别核算。非交互式 Codex 可以复用已保存的 CLI 认证，但自动化默认优先按官方建议使用 API key；受管的 ChatGPT 认证只应在可信私有环境使用，不能提供给公开仓库工作流或不可信任务。个人 Credits 与 workspace credits 都不是 API 余额；有会员不能假设 API 免费，买了 API 余额也不会让 ChatGPT 自动升级。
 
 ## Windows、WSL 和完全访问权限不是套餐
 
