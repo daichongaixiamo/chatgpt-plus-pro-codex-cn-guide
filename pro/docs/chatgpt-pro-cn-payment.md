@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Pro 国内怎么开通或购买？100 / 200 / 500 美元档付款指南"
-description: "ChatGPT Pro 国内购买与充值步骤：100 美元 5x、200 美元（又名20x）、500 美元档怎么选，支付宝办理、本人官方账号充值、订单查询与官网核验。"
-last_modified_at: 2026-10-23
+description: "ChatGPT Pro国内开通与续费：文中核价Pro5x749元、Pro2001298元；支持支付宝、本人账号。Pro5x自动发卡自助或人工协助，Pro200人工办理；核价日期、账号条件与售后保障见正文。"
+last_modified_at: 2026-10-24
 ---
 
 # ChatGPT Pro 国内怎么开通或购买？没有海外银行卡怎么办
