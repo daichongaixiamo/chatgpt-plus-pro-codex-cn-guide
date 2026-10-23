@@ -36,6 +36,8 @@ defaults:
   - scope:
       path: "README.md"
     values:
+      title: "ChatGPT Plus、Pro5x、Pro200 国内会员购买与续费指南｜AIXiamo"
+      search_title: "ChatGPT Plus、Pro5x、Pro200 国内会员购买与续费指南｜AIXiamo"
       last_modified_at: 2026-10-24
   - scope:
       path: "AI_SUBSCRIPTION_PLATFORM_SELECTION.md"

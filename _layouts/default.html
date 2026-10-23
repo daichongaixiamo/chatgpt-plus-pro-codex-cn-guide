@@ -6,7 +6,7 @@
     <meta name="google-site-verification" content="Wq3d0m040ocbjk9CBYT_beJhTCf5F-Pz4xXFqvob1YE">
     <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
     {% if page.url == "/" %}
-    <title>{{ site.title | escape }}</title>
+    <title>{{ page.search_title | default: site.title | escape }}</title>
     {% seo title=false %}
     {% elsif page.search_title %}
     <title>{{ page.search_title | escape }}</title>
