@@ -20,6 +20,8 @@ def describe_limit(value):
 """
 
 VALIDATED_CODE = """def normalize_limit(value):
+    if isinstance(value, bool) or not isinstance(value, (int, str)):
+        raise ValueError("limit must be a whole-number count")
     result = int(value)
     if result < 0:
         raise ValueError("limit must not be negative")
@@ -43,9 +45,17 @@ class BudgetTests(unittest.TestCase):
 """
 
 EXTRA_TEST = """
-    def test_negative_count(self):
-        with self.assertRaises(ValueError):
-            normalize_limit(-1)
+    def test_invalid_count(self):
+        for value in (-1, -0.1, -0.9, 1.9, 0.0, 1.0, True, False,
+                      float("nan"), float("inf"), float("-inf"),
+                      None, b"3", "-1", "1.9", ""):
+            with self.subTest(value=value):
+                with self.assertRaises(ValueError):
+                    normalize_limit(value)
+        for value, expected in ((0, 0), (3, 3), ("0", 0), ("3", 3),
+                                (" 3 ", 3), ("+3", 3)):
+            with self.subTest(value=value):
+                self.assertEqual(normalize_limit(value), expected)
 """
 
 BASE_README = "# Synthetic fixture\n\nparallel-owner: unset\n"
