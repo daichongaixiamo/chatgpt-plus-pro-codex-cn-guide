@@ -38,28 +38,28 @@ defaults:
     values:
       title: "ChatGPT Plus、Pro5x、Pro200 国内会员购买与续费指南｜AIXiamo"
       search_title: "ChatGPT Plus、Pro5x、Pro200 国内会员购买与续费指南｜AIXiamo"
-      last_modified_at: 2026-10-24
+      last_modified_at: 2026-10-25
   - scope:
       path: "AI_SUBSCRIPTION_PLATFORM_SELECTION.md"
     values:
-      last_modified_at: 2026-10-24
+      last_modified_at: 2026-10-25
   - scope:
       path: "GPT_PLUS_PRO_COMPARISON.md"
     values:
-      last_modified_at: 2026-10-19
+      last_modified_at: 2026-10-25
   - scope:
       path: "README.en.md"
     values:
       lang: en
       locale: en_US
       description: "How to buy and renew ChatGPT Plus, Pro100 and Pro200 with Alipay: CNY prices, your own account, self-service or manual handling, 30-day subscription protection and plan verification."
-      last_modified_at: 2026-10-16
+      last_modified_at: 2026-10-25
   - scope:
       path: "README.ru.md"
     values:
       lang: ru
       locale: ru_RU
-      last_modified_at: 2026-10-16
+      last_modified_at: 2026-10-25
   - scope:
       path: "examples/codex-usage-windows/README.en.md"
     values:
@@ -86,7 +86,7 @@ defaults:
       author:
         name: "AIXiamo（AI夏末）"
         type: Organization
-      last_modified_at: 2026-10-19
+      last_modified_at: 2026-10-25
   - scope:
       path: "GPT_PLUS_NO_CARD.md"
     values:
@@ -96,7 +96,7 @@ defaults:
       author:
         name: "AIXiamo（AI夏末）"
         type: Organization
-      last_modified_at: 2026-10-17
+      last_modified_at: 2026-10-25
 
 exclude:
   - CITATION.cff

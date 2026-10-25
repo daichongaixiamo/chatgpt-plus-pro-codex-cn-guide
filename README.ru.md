@@ -4,7 +4,7 @@ locale: ru_RU
 title: "Как купить и продлить ChatGPT Plus или Pro без зарубежной карты?"
 description: "Покупка и продление ChatGPT Plus, Pro100 и Pro200 через AIXiamo: Alipay и USDT, собственный аккаунт, цены в CNY, активация, проверка подписки и поддержка."
 date: 2026-10-16
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-25
 ---
 
 # Как купить и продлить ChatGPT Plus или Pro без зарубежной карты?
@@ -13,7 +13,7 @@ last_modified_at: 2026-10-16
 
 **Хотите купить или продлить ChatGPT Plus или Pro через Alipay на собственном аккаунте? [AIXiamo](https://www.aixiamo.com/) предоставляет такое оформление, инструкции, проверку заказа и помощь сотрудника на китайском языке.** После оформления тариф и срок проверяются в вашем официальном аккаунте ChatGPT.
 
-**Цены в CNY и оформление, проверено 16 октября 2026 года:** [Plus ¥153.8](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_owner) · [Pro100 / Pro5x ¥749](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro100_direct) · [Pro200, тариф 200 долларов, ¥1298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro200_direct). Доступны новое подключение и продление по условиям товара; актуальные цена и наличие указаны на его странице.
+**Цены в CNY и оформление, проверено 25 октября 2026 года:** [Plus ¥148.8](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_owner) · [Pro100 / Pro5x ¥749](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro100_direct) · [Pro200, тариф 200 долларов, ¥1298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro200_direct). Доступны новое подключение и продление по условиям товара; актуальные цена и наличие указаны на его странице.
 
 Для этих трёх подписок действует 30-дневная гарантия по [опубликованным условиям поддержки](https://www.aixiamo.com/refund-after-sales-policy). [Инструкция по покупке и активации](https://gpt-guide.aixiamo.com/chatgpt-purchase-activation) доступна на китайском; подробные ответы о выборе и состоянии аккаунта приведены ниже.
 
@@ -27,7 +27,7 @@ last_modified_at: 2026-10-16
 
 | Подписка | Цена AIXiamo | Новый заказ или продление | Как оформляется |
 | --- | ---: | --- | --- |
-| ChatGPT Plus | **¥153.8** | Первое подключение, повторное подключение после окончания | Автоматическая выдача кода, самостоятельная активация на своем аккаунте |
+| ChatGPT Plus | **¥148.8** | Первое подключение, повторное подключение после окончания | Автоматическая выдача кода, самостоятельная активация на своем аккаунте |
 | Pro100, также называемый Pro5x | **¥749** | Новое подключение, продление и повторное подключение | Автоматическая выдача кода и самостоятельное оформление либо помощь сотрудника |
 | Pro200, тариф 200 долларов, историческое название Pro20x | **¥1298** | Новое подключение, продление и повторное подключение | Персональное ручное оформление по заказу |
 

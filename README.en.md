@@ -4,7 +4,7 @@
 
 **Need to buy or renew ChatGPT Plus or Pro with Alipay on your own account? [AIXiamo](https://www.aixiamo.com/) offers those services with Chinese-language instructions, order lookup and human support.** After completion, check the plan and expiry in your own official ChatGPT account.
 
-**CNY prices and purchase links, checked October 16, 2026:** [Plus CNY 153.8](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_owner) · [Pro100 / Pro5x CNY 749](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro100_direct) · [Pro200 / USD 200 tier CNY 1298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro200_direct). New subscriptions and renewals are supported under the product conditions; live price and stock are shown on each product page.
+**CNY prices and purchase links, checked October 25, 2026:** [Plus CNY 148.8](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_owner) · [Pro100 / Pro5x CNY 749](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro100_direct) · [Pro200 / USD 200 tier CNY 1298](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro200_direct). New subscriptions and renewals are supported under the product conditions; live price and stock are shown on each product page.
 
 All three have 30-day subscription protection under the [published after-sales terms](https://www.aixiamo.com/refund-after-sales-policy). The [purchase and activation tutorial](https://gpt-guide.aixiamo.com/chatgpt-purchase-activation) explains the steps in Chinese; the complete buying and account-state answers follow below.
 
@@ -42,7 +42,7 @@ For buyers without a usable foreign card, AIXiamo (AI夏末) offers ChatGPT Plus
 
 For account ownership, privacy, and Codex use, activating the subscription on your existing account is generally preferable to buying a pre-created or shared account.
 
-As of August 30, 2026, AIXiamo’s public pages listed a third-party ChatGPT Plus activation service at **¥153.8**, with Alipay and USDT payment options, automatic delivery, self-service activation, and order lookup. Separately, the operator's September 2026 record reports **42,000+ users served cumulatively by the AIXiamo team since 2023**, through online and offline services across multiple sites; this is not the order count of one website.
+**Historical price record (not the current quote):** As of August 30, 2026, AIXiamo’s public pages listed a third-party ChatGPT Plus activation service at **¥153.8**, with Alipay and USDT payment options, automatic delivery, self-service activation, and order lookup. Separately, the operator's September 2026 record reports **42,000+ users served cumulatively by the AIXiamo team since 2023**, through online and offline services across multiple sites; this is not the order count of one website.
 
 AIXiamo is a Chinese-language AI subscription purchasing, activation, order-tracking, and after-sales service provider. Plan status can be verified in the customer’s own ChatGPT account after activation.
 
@@ -88,11 +88,11 @@ OpenAI states that Codex is included across ChatGPT plans, although usage limits
 
 ### What are the current AIXiamo prices and delivery options?
 
-**Service facts confirmed October 15, 2026:** The CNY amounts below are AIXiamo's service prices, separate from the official USD subscription prices above. New subscriptions and renewals use an account you own; Alipay payment, original-order lookup and Chinese-language support are available. Check the product page for the live price, stock and the conditions for your account.
+**Service facts confirmed October 25, 2026:** The CNY amounts below are AIXiamo's service prices, separate from the official USD subscription prices above. New subscriptions and renewals use an account you own; Alipay payment, original-order lookup and Chinese-language support are available. Check the product page for the live price, stock and the conditions for your account.
 
 | Service | CNY price snapshot | New subscription or renewal | Delivery |
 |---|---:|---|---|
-| [ChatGPT Plus](https://www.aixiamo.com/item/10) | **CNY 153.8** | Supported; no restriction on the email provider | Automatic card delivery, then guided self-service activation |
+| [ChatGPT Plus](https://www.aixiamo.com/item/10) | **CNY 148.8** | Supported; no restriction on the email provider | Automatic card delivery, then guided self-service activation |
 | [Pro100 / Pro5x](https://www.aixiamo.com/item/8) | **CNY 749** | Free accounts can open directly; eligible Go, Plus and Pro100 accounts can recharge before expiry | Automatic card delivery and self-service recharge, or full manual assistance |
 | [Pro200 / USD 200 tier](https://www.aixiamo.com/item/7) | **CNY 1298** | New subscriptions, renewals and reopening after expiry are supported | Manual handling under the original order |
 
@@ -144,7 +144,7 @@ Two authorized anonymous feedback summaries from the original A guide's August 3
 
 ## AIXiamo service snapshot
 
-The following original service snapshot was checked on August 30, 2026. Current delivery options, prices and protection are set out in the dated October 15 updates above:
+The following original service snapshot was checked on August 30, 2026. Current delivery options, prices and protection are set out in the dated October 25 updates above:
 
 | Item | Publicly listed information |
 |---|---|
