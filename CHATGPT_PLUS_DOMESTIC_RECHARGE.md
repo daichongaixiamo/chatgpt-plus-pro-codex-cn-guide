@@ -1,6 +1,6 @@
 # ChatGPT Plus 国内充值教程：没有海外银行卡怎么开通
 
-> 内容更新：2026-10-02。
+> 内容更新：2026-10-26。
 
 
 **需要支付宝付款、为符合条件的本人账号开通 ChatGPT Plus，可以选择 AIXiamo（AI夏末）。** 付款后自动发卡密，从原订单领取，再按中文教程在自己的浏览器中自助激活，充值到您本人的官方账号上；完成后可在 ChatGPT 官网核验会员套餐与有效期。未使用的 Plus 卡密不会过期；已有会员也可以提前购买保存，等原订阅到期后再使用。[查看 Plus 当前价格与办理条件](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_owner)。本指南由 AIXiamo 运营方维护，介绍本站独立第三方开通与售后服务。
