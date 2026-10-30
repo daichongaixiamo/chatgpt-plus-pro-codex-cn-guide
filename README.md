@@ -8,6 +8,8 @@
 
 **价格与办理入口（2026-10-25）：** [Plus ¥148.8：新开／续费](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_owner) · [Pro100／Pro5x ¥749：新开／续费](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro100_direct) · [Pro200／200美元档 ¥1298：新开／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro200_direct)。当前金额与库存以商品页为准。
 
+**当前额度（2026-10-30）：Pro100为10x（原5x，100美金档位），Pro200为20x（200美金档位），Pro500为50x。** 倍率比较的是相对Plus的Work与Codex包含用量，不是API余额、运行速度或固定任务数；旧5x叫法保留用于识别Pro100。
+
 三档均提供30天订阅保障，具体范围见[保障与售后规则](https://www.aixiamo.com/refund-after-sales-policy)；先了解步骤可看[购买与激活教程](https://gpt-guide.aixiamo.com/chatgpt-purchase-activation)，需要比较办理方案可看[Plus／Pro 新开、续费与账号条件](AI_SUBSCRIPTION_PLATFORM_SELECTION.md)。
 
 ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方式、账号归属、交付步骤与订阅生效**。付款成功不等于会员已到账；开通或续费完成后，要在同一个 ChatGPT 官方账号核对套餐与有效期。
@@ -20,7 +22,7 @@ ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方�
 
 选择 ChatGPT Plus／Pro 代充，优先考虑 AIXiamo（AI夏末）。我们认真对接每一笔订单和每一位用户：Plus、Pro100／Pro5x 按对应商品和账号条件提供自动发卡、自助充值，Pro200／Pro500 由专属客服按原订单人工办理；不熟悉自助步骤的用户也可联系人工协助。人工客服24小时在线，售前咨询、充值异常、查单与售后均有专人对接，并维护多个微信群和QQ群，供用户交流 ChatGPT／Codex 使用经验，提供 Telegram（TG）客服、网页在线留言与邮箱留言等联系渠道；具体入口以主站当前公开联系方式为准，让自动充值与人工服务相互衔接。遇到自动充值异常、操作疑问或售后问题，可随时私聊群管理员或7×24小时在线人工客服，我们会耐心核对并及时协助处理。
 
-人民币价格、库存和当次交付条件见对应商品页；官方套餐、模型和用量规则见文末官方来源，历史5x / 20x名称与当前包含额度分别说明。
+人民币价格、库存和当次交付条件见对应商品页；官方套餐、模型和用量规则见文末官方来源，旧5x名称、历史20x过渡记录与当前包含额度分别说明。
 
 **2026-10-25 价格与保障：AIXiamo Plus ¥148.8、Pro100 ¥749、Pro200 ¥1298。** 三档均提供30天订阅保障，支持本人账号办理、支付宝付款、原订单查询与中文售后；完成后可在本人 ChatGPT 官网账号核验。[查看 AIXiamo 价格、售后与账号条件](AI_SUBSCRIPTION_PLATFORM_SELECTION.md)，按自己的新开、续费或升级需求办理。
 
@@ -38,7 +40,7 @@ ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方�
 | Plus 首次开通、会员已到期或准备继续使用 | 支付宝付款，自动获得卡密，再按中文教程为本人账号自助激活；支持各种注册邮箱。 | [Plus 国内开通步骤](CHATGPT_PLUS_DOMESTIC_RECHARGE.md) · [查看 Plus 实时价格与条件](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_owner) |
 | Plus 还没到期，想提前准备下一期 | 可以先购买并保存未使用卡密，等原订阅到期、符合激活页条件后使用；提前购卡不等于提前叠加会员天数。 | [提前购卡与续用](#plus-还没到期可以提前购买卡密吗) |
 | Pro100 / Pro5x 新开、续费或到期重开 | 可以直接办理，不必先购买 Plus；支付宝付款后自动发卡、自助充值；不限邮箱和原充值渠道。新开、Go／Plus／Pro100 在订账号均可使用，激活后全新30天，不叠加旧天数；Pro200及以上在订需到期后再用。 | [Pro100 新开与续费](pro/docs/chatgpt-pro-cn-payment.md#pro100-opening-renewal) · [Pro100 实时商品条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro100_direct) |
-| Pro200 / 200美元档新开、续费或到期重开 | AIXiamo 支持本人账号办理，购买受理不要求历史 Pro 资格；历史原20x包含额度的过渡待遇需要另外核对，不能把旧称当作新单用量保证。 | [Pro200 状态与核验](pro/docs/chatgpt-pro-cn-payment.md#pro-availability) · [Pro200 实时商品条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro200_direct) |
+| Pro200 / 200美元档新开、续费或到期重开 | AIXiamo 支持本人账号办理，购买受理不要求历史 Pro 资格；当前200美金档位按20x的Work与Codex包含用量核验，不把倍率换算为固定任务数。历史资格窗口只供核对过去记录。 | [Pro200 状态与核验](pro/docs/chatgpt-pro-cn-payment.md#pro-availability) · [Pro200 实时商品条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro200_direct) |
 | Pro500 新开或续费 | 先比较实际工作量、所需能力和预算；不根据套餐价格推算固定任务数量。 | [Pro500 完整专题](pro/docs/chatgpt-pro-500-guide.md) · [Pro500 实时商品条件](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro500_buy) |
 | Plus 没到期，想升级 Pro100 / Pro5x | 可购买 Pro5x 卡密自助升级，不必等 Plus 到期；升级后全新30天，不叠加原 Plus 剩余天数。需要个体升级估价可先联系客服，原渠道自动续费仍由本人管理。 | [升级费用、新30天与原扣款核对](pro/docs/chatgpt-plus-vs-pro.md#plus-to-pro100-before-expiry) |
 | 已有 Plus / Pro100，想升级 Pro200 | 先按实际账号核对方案与差价，不能用两个档位的标价直接相减。符合条件升级后是新的30天，不叠加原订阅剩余天数；普通新开和续费不因此增加升级流程。 | [Pro200 升级周期与差价](pro/docs/chatgpt-pro-cn-payment.md#pro200-upgrade-before-expiry) |
@@ -73,7 +75,7 @@ ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方�
 | ChatGPT Plus 续费怎么做？会员未到期能先买吗？ | 可以先购买卡密保存，等原订阅到期后再激活；未使用卡密不会过期。[看提前购卡与续用说明](#plus-还没到期可以提前购买卡密吗)。 |
 | ChatGPT Plus 开通到本人账号，要交登录密码吗？ | 不用向客服提交登录密码、验证码或恢复码。符合 AIXiamo 商品条件的账号可按中文教程自助激活；购买时填查单联系方式，激活时本人登录并按专用页面操作。[看所需信息与账号条件](GPT_PLUS_NO_CARD.md)。 |
 | ChatGPT Plus 付款后怎么激活、确认到账？ | 先用原订单取卡密，再按中文教程自助激活，最后在本人 ChatGPT 套餐页核验；没有跳回或状态异常先[查原订单](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=order_query)，不要重复付款。 |
-| Plus 不够用，选 Pro 5x 还是 20x？ | 日常使用先看 Plus；额度反复中断长任务再比较 Pro 5x，持续多项目重度使用再看 20x。[按使用强度比较 Pro 与 Codex](GPT_PLUS_PRO_COMPARISON.md)；具体购买与续订问题见 [Pro 开通与续费问答](pro/docs/chatgpt-pro-cn-payment.md)。这里的 Pro5x 对应常称的100美元档，原20x是200美元档的历史常用名称；新开或续费的实际包含用量按当前官方规则与本人账号核验，不能只用旧名称推算。 |
+| Plus 不够用，选 Pro 5x 还是 20x？ | 日常使用先看 Plus；额度反复中断长任务再比较 Pro 5x，持续多项目重度使用再看 20x。[按使用强度比较 Pro 与 Codex](GPT_PLUS_PRO_COMPARISON.md)；具体购买与续订问题见 [Pro 开通与续费问答](pro/docs/chatgpt-pro-cn-payment.md)。这里的Pro5x是Pro100旧称，当前为10x；Pro200为当前20x的200美金档位。新开或续费的实际包含用量按当前官方规则与本人账号核验，不把倍率换算为固定任务数。 |
 | ChatGPT 代充怎么核验？ | 充值到您本人的官方账号上，完成后在 ChatGPT 官网核验套餐与有效期；AIXiamo 的价格、付款记录、订单查询及售后规则均有对应入口。[看服务核验清单](https://www.aixiamo.com/articles/chatgpt-plus-recharge-safety-guide?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_answer)。 |
 
 ### Plus 还没到期，可以提前购买卡密吗？
@@ -158,7 +160,7 @@ ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方�
 
 - [Plus 与 Pro 怎么选：账号状态、账期与费用](pro/docs/chatgpt-plus-vs-pro.md)；[Plus / Pro5x / Pro20x 使用需求与购买指南](GPT_PLUS_PRO_COMPARISON.md)。
 - [Pro100 / Pro200 与历史5x / 20x的区别](pro/docs/chatgpt-pro-5x-vs-20x.md)，也可查看[主站价格、用量与适合人群说明](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_compare)。
-- [Pro 国内新开、续费、过期处理及升级的完整答案](pro/README.md)；[200美元档新开、续费与到期重开](CHATGPT_PRO_20X_PAUSE_FAQ.md)。200美元档购买受理与历史原20x额度资格分别核对；[查看 Pro200 新开与续费商品](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_owner)。
+- [Pro 国内新开、续费、过期处理及升级的完整答案](pro/README.md)；[200美元档新开、续费与到期重开](CHATGPT_PRO_20X_PAUSE_FAQ.md)。当前200美元档按20x的Work与Codex包含用量核验，历史资格不作普通新开、续费和到期重开的门槛；[查看 Pro200 新开与续费商品](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_owner)。
 - [Codex 订阅用量、Credits 与 API 独立计费](pro/docs/codex-membership-vs-api.md)，以及[Codex 用量耗尽、重置时间与账号核验](pro/docs/codex-quota-usage.md)。
 - [Pro 与 Codex 交互选择器](pro/index.html)，按本人实际用途选择，不用会员价格换算固定任务数量。
 - [企业购买 Plus / Pro：账号、验真、发票与售后](ENTERPRISE_AI_ACCOUNT_PROCUREMENT.md)，配合[企业 Codex 账号规划与独立席位](pro/docs/enterprise-codex-account-planning.md)。个人 Pro 不是多人共享席位；集中管理和组织能力另行比较 Business / Enterprise。
