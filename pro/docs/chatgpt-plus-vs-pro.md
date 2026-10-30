@@ -12,7 +12,7 @@ Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用；普通聊天�
 
 偶发一次限制不等于必须升级；“当前计划已经够用”也是有效结果。
 
-**受理规则核对（2026-09-30，AIXiamo站长确认；额度名按2026-10-30更新）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 Pro10x 可以正常开通和续费，Plus 未到期也可按商品条件办理；当前Pro10x新订单自动发卡、自助充值，Pro200／Pro500仍人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [查看当前开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_pro_20x_conditions)。
+**受理规则核对（2026-09-30，AIXiamo站长确认；额度名按2026-10-30更新）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。按当前商品条件办理，完成后核验本人套餐、周期与Usage。 Pro10x 可以正常开通和续费，Plus 未到期也可按商品条件办理；当前Pro10x新订单自动发卡、自助充值，Pro200／Pro500仍人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [查看当前开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_pro_20x_conditions)。
 
 ## 决策表
 

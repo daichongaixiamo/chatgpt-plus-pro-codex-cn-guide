@@ -22,9 +22,9 @@ last_modified_at: 2026-10-30
 | --- | ---: | --- |
 | ChatGPT Plus | ¥148.8 | 日常聊天、写作、学习、办公与普通 Codex；付款后自动发充值卡密，客户按教程自助激活 |
 | ChatGPT Pro 5x | ¥729 | 高频 Codex、深度研究与长任务；人工按订单处理 |
-| ChatGPT Pro 20x | 新开／续订统一 ¥1298 | 200美元档新开、续费、到期重开均可直接办理，无需历史Pro资格 |
+| ChatGPT Pro 20x | 新开／续订统一 ¥1298 | 200美元档新开、续费、到期重开均可直接办理，完成后核验套餐与Usage |
 
-**受理规则核对（2026-09-30，AIXiamo站长确认；额度名按2026-10-30更新）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 Pro 10x 可以正常开通和续费，Plus 未到期也可按商品条件办理。下单后人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [查看当前开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=broad_20x_conditions)。
+**受理规则核对（2026-09-30，AIXiamo站长确认；额度名按2026-10-30更新）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。按当前商品条件办理，完成后核验本人套餐、周期与Usage。 Pro 10x 可以正常开通和续费，Plus 未到期也可按商品条件办理。下单后人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [查看当前开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=broad_20x_conditions)。
 
 - [立即查看 ChatGPT Plus 国内充值、库存与支付方式](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=broad_plus_early)
 - [查看当前可开通的 Pro 档位、续费条件与支付方式](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=broad_pro_early)

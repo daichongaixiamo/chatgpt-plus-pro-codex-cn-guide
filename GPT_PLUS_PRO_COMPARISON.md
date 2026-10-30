@@ -1,7 +1,7 @@
 <a id="chatgpt-plus-还是-pro5x100-美元档20x200-美元档与-codex-额度选择"></a>
 # ChatGPT Plus 还是 Pro？10x（100 美元档）、20x（200 美元档）与 Codex 额度选择
 
-> **2026-09-30 AIXiamo 受理更新：ChatGPT Pro 200 美元档已开放新开与续费。** 新号、老号、到期账号均可办理，无需历史 Pro 订阅资格；暂停期的历史 20x、回归期限和旧入口要求已撤销。[查看 Pro 开通、续费与过期处理指南](CHATGPT_PRO_20X_PAUSE_FAQ.md)，按实时商品价格与套餐说明直接选择下单。下文用于比较使用需求，套餐选择与开通后权益核验分别进行。
+> **2026-09-30 AIXiamo 受理更新：ChatGPT Pro 200 美元档已开放新开与续费。** 新号、老号、到期账号均按当前商品条件办理，完成后核验本人套餐、有效期与Usage。[查看 Pro 开通、续费与过期处理指南](CHATGPT_PRO_20X_PAUSE_FAQ.md)，按实时商品价格与套餐说明直接选择下单。下文用于比较使用需求，套餐选择与开通后权益核验分别进行。
 
 **2026-10-30 额度更新：Pro100 为 10x、Pro200 为 20x、Pro500 为 50x，比较范围是相对 Plus 的 Work 与 Codex 使用额度。** 官方已提高100／500档额度，并将200档此前较低额度提高到原较高额度；现有订阅自动生效，无需等续费。Plus 本次不变；100／500档在 Chat 中的 GPT-6 Pro 周消息限额不在本次翻倍范围。实际任务数随模型、任务和速度设置变化，API 仍独立计费。依据：[OpenAI 套餐更新](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)、[官方公告](https://x.com/thsottiaux/status/2115850175868727621)及[Pro500 50x确认](https://x.com/thsottiaux/status/2115851811576053881)。
 
