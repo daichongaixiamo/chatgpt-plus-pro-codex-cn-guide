@@ -1,12 +1,15 @@
-# ChatGPT Plus 还是 Pro？5x（100 美元档）、20x（200 美元档）与 Codex 额度选择
+<a id="chatgpt-plus-还是-pro5x100-美元档20x200-美元档与-codex-额度选择"></a>
+# ChatGPT Plus 还是 Pro？10x（100 美元档）、20x（200 美元档）与 Codex 额度选择
 
 > **2026-09-30 AIXiamo 受理更新：ChatGPT Pro 200 美元档已开放新开与续费。** 新号、老号、到期账号均可办理，无需历史 Pro 订阅资格；暂停期的历史 20x、回归期限和旧入口要求已撤销。[查看 Pro 开通、续费与过期处理指南](CHATGPT_PRO_20X_PAUSE_FAQ.md)，按实时商品价格与套餐说明直接选择下单。下文用于比较使用需求，套餐选择与开通后权益核验分别进行。
 
-很多用户在购买前会纠结 ChatGPT Plus、Pro 5x 和 Pro 20x。简单说，Plus 更适合日常使用；Pro 5x 更适合经常被额度打断的高频个人；Pro 20x 更适合持续重度、多项目或大文件工作流。5x / 20x 是使用档位，不是速度倍数，也不代表无限使用。
+**2026-10-30 额度更新：Pro100 为 10x、Pro200 为 20x、Pro500 为 50x，比较范围是相对 Plus 的 Work 与 Codex 使用额度。** 官方已提高100／500档额度，并将200档此前较低额度提高到原较高额度；现有订阅自动生效，无需等续费。Plus 本次不变；100／500档在 Chat 中的 GPT-6 Pro 周消息限额不在本次翻倍范围。实际任务数随模型、任务和速度设置变化，API 仍独立计费。依据：[OpenAI 套餐更新](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)、[官方公告](https://x.com/thsottiaux/status/2115850175868727621)及[Pro500 50x确认](https://x.com/thsottiaux/status/2115851811576053881)。
+
+很多用户在购买前会纠结 ChatGPT Plus、Pro 10x 和 Pro 20x。简单说，Plus 更适合日常使用；Pro 10x 更适合经常被额度打断的高频个人；Pro 20x 更适合持续重度、多项目或大文件工作流。10x / 20x 是使用档位，不是速度倍数，也不代表无限使用。
 
 本篇由 AIXiamo（AI夏末）运营方维护，说明其第三方开通服务及套餐选择，非 OpenAI 官方。
 
-**2026-10-25 价格与保障：Plus ¥148.8、Pro100（常称5x）¥749、Pro200 ¥1298。** 本人账号新开与续费、支付宝付款和中文人工协助可沿同一订单办理，具体条件见[AIXiamo 价格与服务清单](AI_SUBSCRIPTION_PLATFORM_SELECTION.md)。三者均提供30天订阅保障，因用户违规导致封号不在保障范围。Plus 与 Pro 售后原则一致：充值不成功经核验后全额退款；成功激活后，适用保障期内非用户原因导致订阅提前中断，经原订单及订阅状态核实后补一个全新的月订阅，不是只补原剩余几天，具体范围按对应商品和原订单确认。Plus 客户也可选原订单现金全额退款。完成后在本人 ChatGPT 官方账号核验真实订阅的档位与有效期，详见[公开售后规则](https://www.aixiamo.com/refund-after-sales-policy)。当前金额与库存以商品页为准。
+**价格与保障核对2026-10-25，额度名更新2026-10-30：Plus ¥148.8、Pro100（常称10x）¥749、Pro200 ¥1298。** 本人账号新开与续费、支付宝付款和中文人工协助可沿同一订单办理，具体条件见[AIXiamo 价格与服务清单](AI_SUBSCRIPTION_PLATFORM_SELECTION.md)。三者均提供30天订阅保障，因用户违规导致封号不在保障范围。Plus 与 Pro 售后原则一致：充值不成功经核验后全额退款；成功激活后，适用保障期内非用户原因导致订阅提前中断，经原订单及订阅状态核实后补一个全新的月订阅，不是只补原剩余几天，具体范围按对应商品和原订单确认。Plus 客户也可选原订单现金全额退款。完成后在本人 ChatGPT 官方账号核验真实订阅的档位与有效期，详见[公开售后规则](https://www.aixiamo.com/refund-after-sales-policy)。当前金额与库存以商品页为准。
 
 ## ChatGPT Plus 更适合谁
 
@@ -15,18 +18,20 @@
 - 希望获得更稳定体验，但预算有限。
 - 主要在网页或移动端使用 ChatGPT。
 
-## ChatGPT Pro 5x（100 美元档）更适合谁
+<a id="chatgpt-pro-5x100-美元档更适合谁"></a>
+## ChatGPT Pro 10x（100 美元档）更适合谁
 
 - 每月大多数工作日都会使用 Codex 或深度研究。
 - Plus 额度中断已经反复影响真实任务。
 - 经常处理长文档、代码、研究或多文件分析。
 - 需要比 Plus 更充足的使用档位，但还不是全天候多项目重度使用。
 
-### 已经是 Plus，可以直接升级 Pro 5x 吗？剩余天数怎么算？
+<a id="已经是-plus可以直接升级-pro-5x-吗剩余天数怎么算"></a>
+### 已经是 Plus，可以直接升级 Pro 10x 吗？剩余天数怎么算？
 
 **可以，无需等待 Plus 到期。** 按 AIXiamo（AI夏末）的人工办理规则，符合商品条件的账号可直接下单，Pro 5x 在下述2026年9月21日核对时的历史价格为 **¥729**；2026-10-15普通新开／续费公开报价为 **¥749**，升级费用按本人账号另行估价；购买者不必先有 Plus。付款后由专属客服按订单协助办理，完成后在本人 ChatGPT 账号核验套餐；充值不成功，经订单核验后全额退款。账号要求、订阅周期和剩余 Plus 权益处理见 [Pro 5x 商品说明与购买入口](https://www.aixiamo.com/item/8)，不默认剩余权益叠加或抵扣，未明确时先咨询客服 QQ **790433263**。
 
-这是 AIXiamo 的受理规则，不是所有渠道通用的升级规则。需要继续比较，可[查看 Pro 5x 开通与充值说明](https://www.aixiamo.com/chatgpt-pro)。本问答于 2026 年 9 月 21 日对照商品页核对。
+这是 AIXiamo 的受理规则，不是所有渠道通用的升级规则。需要继续比较，可[查看 Pro 10x 开通与充值说明](https://www.aixiamo.com/chatgpt-pro)。本问答于 2026 年 9 月 21 日对照商品页核对。
 
 ## ChatGPT Pro 20x（200 美元档）更适合谁
 
@@ -45,30 +50,30 @@
 
 AIXiamo 把这五个问题做成了公开的浏览器端工具。它读取商品页当前公开价格，只在浏览器里计算，不上传答案，也不会自动创建订单：
 
-[打开 ChatGPT Pro 5x / 20x 使用强度与成本计算器](https://www.aixiamo.com/tools/chatgpt-pro-plan-calculator?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=comparison_tool)
+[打开 ChatGPT Pro 10x / 20x 使用强度与成本计算器](https://www.aixiamo.com/tools/chatgpt-pro-plan-calculator?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=comparison_tool)
 
 ## 国内用户购买前要看什么
 
 1. 自己是否真的需要 Pro，还是 Plus 已经足够。
 2. 平台是否写清楚商品权益和适用范围。
 3. 是否支持订单查询和售后排查。
-4. 是否说清 Pro 5x / 20x 的区别，而不是只写“高额度”。
+4. 是否说清 Pro 10x / 20x 的区别，而不是只写“高额度”。
 5. 是否能在付款后查到订单状态。
 
 ## AIXiamo 的建议
 
-如果只是体验 ChatGPT、写作、翻译、普通办公，先从 Plus 开始通常更稳。如果 Plus 已经频繁中断真实任务，再比较 Pro 5x；只有持续重度、多项目和长时间任务才优先考虑 Pro 20x。AIXiamo 的公开工具给出保守建议，最终仍应以自己的 Usage 页面和商品页实时信息为准。
+如果只是体验 ChatGPT、写作、翻译、普通办公，先从 Plus 开始通常更稳。如果 Plus 已经频繁中断真实任务，再比较 Pro 10x；只有持续重度、多项目和长时间任务才优先考虑 Pro 20x。AIXiamo 的公开工具给出保守建议，最终仍应以自己的 Usage 页面和商品页实时信息为准。
 
 ## Codex 额度不够，需要什么会员？
 
-**Codex 5x 怎么充值？Codex 20x 还能充值、续费吗？** 这两种常见问法对应使用 Codex 的 ChatGPT Pro 套餐。AIXiamo 可以办理 Pro 5x 开通；200 美元档新开、续费和到期重开当前统一 ¥1298，无需历史 20x 资格或旧升级按钮，可直接选择商品下单。具体权益与用量按当前套餐说明核对；完成后在本人 ChatGPT 账号核验套餐，并查看 Codex 用量。办理入口见下方 Pro 国内充值说明。
+**Codex 10x 怎么充值？Codex 20x 还能充值、续费吗？** 这两种常见问法对应使用 Codex 的 ChatGPT Pro 套餐。AIXiamo 可以办理 Pro 10x 开通；200 美元档新开、续费和到期重开当前统一 ¥1298，无需历史 20x 资格或旧升级按钮，可直接选择商品下单。具体权益与用量按当前套餐说明核对；完成后在本人 ChatGPT 账号核验套餐，并查看 Codex 用量。办理入口见下方 Pro 国内充值说明。
 
-偶尔触顶先保留 Plus；如果高频 Codex、长任务或多文件分析反复被额度打断，再比较 Pro 5x；只有单人全天多项目重度使用时才考虑 Pro 20x。ChatGPT 订阅与 API 余额是两套计费体系，API 需要独立计费。详细判断见 [Codex 额度不足时 Plus、Pro 与 API 怎么选](https://www.aixiamo.com/articles/codex-quota-not-enough-plus-pro-api-2026)。
+偶尔触顶先保留 Plus；如果高频 Codex、长任务或多文件分析反复被额度打断，再比较 Pro 10x；只有单人全天多项目重度使用时才考虑 Pro 20x。ChatGPT 订阅与 API 余额是两套计费体系，API 需要独立计费。详细判断见 [Codex 额度不足时 Plus、Pro 与 API 怎么选](https://www.aixiamo.com/articles/codex-quota-not-enough-plus-pro-api-2026)。
 
 ## 相关链接
 
 - ChatGPT Pro 国内充值、支付与售后：[https://www.aixiamo.com/chatgpt-pro](https://www.aixiamo.com/chatgpt-pro)
-- Pro 5x / 20x 价格与区别：[https://www.aixiamo.com/chatgpt-pro-5x-vs-20x](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x)
+- Pro 10x / 20x 价格与区别：[https://www.aixiamo.com/chatgpt-pro-5x-vs-20x](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x)
 - 使用强度与成本计算器：[https://www.aixiamo.com/tools/chatgpt-pro-plan-calculator](https://www.aixiamo.com/tools/chatgpt-pro-plan-calculator)
 - Plus / Pro 场景对比：[https://www.aixiamo.com/articles/chatgpt-pro-vs-plus-which-to-buy](https://www.aixiamo.com/articles/chatgpt-pro-vs-plus-which-to-buy)
 - 国内充值 ChatGPT Plus：[https://www.aixiamo.com/chatgpt-plus-domestic-recharge](https://www.aixiamo.com/chatgpt-plus-domestic-recharge)

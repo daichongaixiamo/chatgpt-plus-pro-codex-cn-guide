@@ -1,18 +1,23 @@
 ---
-title: "ChatGPT Pro 国内怎么开通或购买？100 / 200 / 500 美元档付款指南"
-description: "ChatGPT Pro国内开通与续费：文中核价Pro5x749元、Pro2001298元；支持支付宝、本人账号。Pro5x自动发卡自助或人工协助，Pro200人工办理；核价日期、账号条件与售后保障见正文。"
-last_modified_at: 2026-10-27
+title: "ChatGPT Pro 20x 国内开通与续费：200美金档位及100/500档付款指南"
+description: "ChatGPT Pro国内开通与续费：文中核价Pro10x749元、Pro2001298元；支持支付宝、本人账号。Pro10x自动发卡自助或人工协助，Pro200人工办理；核价日期、账号条件与售后保障见正文。"
+last_modified_at: 2026-10-30
 ---
 
-# ChatGPT Pro 国内怎么开通或购买？没有海外银行卡怎么办
+<a id="chatgpt-pro-国内怎么开通或购买没有海外银行卡怎么办"></a>
+# ChatGPT Pro 20x 国内怎么开通？200美金档位与付款指南
 
-> 本页正文整理：2026-10-27。先看当前办理，再按需要查历史价格和原20x过渡说明；各条原核对日期保留。
+> 本页额度说明更新：2026-10-30。先看当前10x／20x／50x与办理方式，再按需要查历史记录；各条价格原核对日期保留。
 
 ## 直接答案
 
-**没有海外银行卡，可以通过 AIXiamo 用支付宝为您本人的官方 ChatGPT 账号办理 Pro。** Pro 5x（100美元档）适合高频 Codex、深度研究和长任务；200美元档（又名20x）可按更连续的使用需求与预算比较。AIXiamo 的 Pro5x 自动发卡、自助充值，Pro200／Pro500 仍人工办理，提供订单查询和专属中文售后；使用自己的海外银行卡自助订阅、应用商店付款的步骤也保留在下文，便于按现有付款方式选择。
+**Pro 200 美金档位（ChatGPT Pro 20x）指官方200美元/月订阅，AIXiamo对应人民币办理价为¥1298，两者不是同一种币种报价。** 同页还比较Pro100 10x（原5x，100美金档位）与Pro500 50x，先按实际用量选档，再按本人账号条件办理。
 
-**Pro5x 自助充值更新（2026-10-15）：** Pro100／Pro5x 当前公开价 ¥749，付款后自动发卡，前往 `plus.aixiamo.com` 按提示提交后自动充值，可全程自助完成，也可联系专属客服人工办理，均充值到本人账号；不限邮箱，以前在其他地方充值过也支持。免费账号可新开，Go／Plus／Pro100 未到期也可充值；Pro200 及以上未到期暂不可用，需等订阅到期后再使用。激活后为全新的30天 Pro5x，不叠加旧会员剩余天数；卡密请在发货起30天内兑换。正常顺利时全程通常约3分钟，排队、网络或账号验证可能延长，不是每单限时承诺。
+**2026-10-30 额度更新：Pro100 为 10x、Pro200 为 20x、Pro500 为 50x，比较范围是相对 Plus 的 Work 与 Codex 使用额度。** 官方已提高100／500档额度，并将200档此前较低额度提高到原较高额度；现有订阅自动生效，无需等续费。Plus 本次不变；100／500档在 Chat 中的 GPT-6 Pro 周消息限额不在本次翻倍范围。实际任务数随模型、任务和速度设置变化，API 仍独立计费。依据：[OpenAI 套餐更新](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)、[官方公告](https://x.com/thsottiaux/status/2115850175868727621)及[Pro500 50x确认](https://x.com/thsottiaux/status/2115851811576053881)。
+
+**没有海外银行卡，可以通过 AIXiamo 用支付宝为您本人的官方 ChatGPT 账号办理 Pro。** Pro 10x（100美元档）适合高频 Codex、深度研究和长任务；200美元档（又名20x）可按更连续的使用需求与预算比较。AIXiamo 的 Pro10x 自动发卡、自助充值，Pro200／Pro500 仍人工办理，提供订单查询和专属中文售后；使用自己的海外银行卡自助订阅、应用商店付款的步骤也保留在下文，便于按现有付款方式选择。
+
+**Pro100 自助充值规则（2026-10-15核对；额度名按2026-10-30更新）：** Pro100／Pro10x 当前公开价 ¥749，付款后自动发卡，前往 `plus.aixiamo.com` 按提示提交后自动充值，可全程自助完成，也可联系专属客服人工办理，均充值到本人账号；不限邮箱，以前在其他地方充值过也支持。免费账号可新开，Go／Plus／Pro100 未到期也可充值；Pro200 及以上未到期暂不可用，需等订阅到期后再使用。激活后为全新的30天 Pro10x，不叠加旧会员剩余天数；卡密请在发货起30天内兑换。正常顺利时全程通常约3分钟，排队、网络或账号验证可能延长，不是每单限时承诺。
 
 **确认需要 Pro 后，下一步在这里：** [AIXiamo Pro 国内开通、当前价格与订单说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_domestic_open)。先核对下方的办理方式、档位和库存，再按页面指引下单，不必回到首页寻找商品。
 
@@ -27,33 +32,37 @@ last_modified_at: 2026-10-27
 <a id="pro-availability"></a>
 ## 当前开通与续费状态
 
-**受理状态更新（2026-10-06，AIXiamo站长确认）：** AIXiamo 的 Pro100（100美元档，常称5x）和Pro200（200美元档，常称20x）均支持开通与续费，充值到本人账号。新老账号均可按对应商品条件下单；Pro5x适用Free／Go／Plus／Pro100，Pro200及以上未到期需等到期后再使用Pro5x；新开Pro200无需历史Pro订阅资格、暂停期间的回归期限或旧20x按钮。Plus可升级至Pro100、Pro200或Pro500，Pro100可升级至Pro200或Pro500。可先联系现有交流群客服，根据账号实际情况核算是否有更低的升级价格及差价方案，取得估价后再决定是否升级。Pro5x新订单自动发卡、自助充值，Pro200／Pro500按人工订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 完整办理步骤见下方状态表。
+**受理规则核对（2026-10-06，AIXiamo站长确认；额度名按2026-10-30更新）：** AIXiamo 的 Pro100（100美元档，常称10x）和Pro200（200美元档，常称20x）均支持开通与续费，充值到本人账号。新老账号均可按对应商品条件下单；Pro10x适用Free／Go／Plus／Pro100，Pro200及以上未到期需等到期后再使用Pro10x；新开Pro200无需历史Pro订阅资格、暂停期间的回归期限或旧20x按钮。Plus可升级至Pro100、Pro200或Pro500，Pro100可升级至Pro200或Pro500。可先联系现有交流群客服，根据账号实际情况核算是否有更低的升级价格及差价方案，取得估价后再决定是否升级。Pro10x新订单自动发卡、自助充值，Pro200／Pro500按人工订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 完整办理步骤见下方状态表。
 
 <a id="pro100-opening-renewal"></a>
-### Pro100 / Pro5x 没有 Plus 也能新开吗？已有会员怎么续费？
+<a id="pro100--pro5x-没有-plus-也能新开吗已有会员怎么续费"></a>
+<a id="pro100--pro10x-没有-plus-也能新开吗已有会员怎么续费"></a>
+### Pro100 10x（原5x，100美金档位）没有Plus也能新开吗？
+
+旧称“Pro5x”对应Pro100；本次更新后，它的Work与Codex包含额度为10x，旧名称不代表仍按5x交付。
 
 **可以。AIXiamo 支持本人账号 Pro100 首次开通、续费和到期重新开通，不必先购买 Plus。** 没有会员的账号可按商品条件直接新开；已有 Pro100 的账号可办理续费，到期后可重新开通。支持支付宝，付款后自动发卡并按提示自助充值，不限邮箱或原充值渠道；Go／Plus／Pro100 未到期也可使用，Pro200及以上须到期后再用，订单和充值状态可查，完成后在同一 ChatGPT 官方账号核验 Pro100 套餐与有效期。激活后是全新的30天，不叠加旧会员剩余天数；卡密请在发货起30天内兑换，并管理原付款渠道的自动续费。
 
 普通新开、续费与个体升级估价分开核对：已有 Plus 想升级时先核对本次方案，不能把升级报价当作所有新开用户的价格。AIXiamo 提供7×24小时中文售后，购买与客服环节不索取登录密码、验证码或恢复码；充值不成功经订单核验后按公开规则全额退款。[查看 Pro100 新开与续费商品条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro100_direct)。
 
-**Pro100（5x）与Pro200（20x）是不同档位。** 两档均支持开通与续费，新老账号均可按对应商品条件下单；Pro5x适用Free／Go／Plus／Pro100，Pro200及以上未到期需等到期后再使用Pro5x。Pro200新开与续费使用同一商品，新开／续订统一 ¥1298，无需暂停期特殊资格。Plus可升级至Pro100、Pro200或Pro500，Pro100可升级至Pro200或Pro500。可先联系现有交流群客服，根据账号实际情况核算是否有更低的升级价格及差价方案，取得估价后再决定是否升级。
+**Pro100（10x）与Pro200（20x）是不同档位。** 两档均支持开通与续费，新老账号均可按对应商品条件下单；Pro10x适用Free／Go／Plus／Pro100，Pro200及以上未到期需等到期后再使用Pro10x。Pro200新开与续费使用同一商品，新开／续订统一 ¥1298，无需暂停期特殊资格。Plus可升级至Pro100、Pro200或Pro500，Pro100可升级至Pro200或Pro500。可先联系现有交流群客服，根据账号实际情况核算是否有更低的升级价格及差价方案，取得估价后再决定是否升级。
 
 | 你现在的情况 | AIXiamo 适用方案与条件 | 下一步 |
 | --- | --- | --- |
-| 准备开通或续费Pro100（常称5x） | 免费账号及Go／Plus／Pro100已到期或未到期均可自助充值；Pro200及以上未到期需等到期。当前公开价¥749；¥729为2026-09-20历史快照 | [Pro100（5x）开通／续费](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_plus_to_5x)；Plus或Pro100跨档升级，可先联系群客服核算是否有更低的升级价格及差价方案，完成后在本人套餐页核验 |
+| 准备开通或续费Pro100（当前10x） | 免费账号及Go／Plus／Pro100已到期或未到期均可自助充值；Pro200及以上未到期需等到期。当前公开价¥749；¥729为2026-09-20历史快照 | [Pro100（10x）开通／续费](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_plus_to_5x)；Plus或Pro100跨档升级，可先联系群客服核算是否有更低的升级价格及差价方案，完成后在本人套餐页核验 |
 | 已有 Pro200（常称Pro20x），尚未到期 | 可以提前续费，无需等待原订阅到期 | [立即开通／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_20x_renew)；本次起算日与剩余天数处理按订单确认，办理后核验订阅周期 |
 | 已到期／逾期，账号仍显示20x或已不再显示 | 可以续费或重新开通 | 不要求旧20x状态或回归期限；使用同一商品 |
 | 新注册、当前无会员，或从未开通过20x | 可以新开200美元档 | 无需历史Pro资格、旧入口按钮或截图证明，直接下单 |
 | 准备新开或续费 Pro 500美元档 | AIXiamo 支持办理，3350元为2026-10-03价格快照 | [查看500美元档实时价格与库存](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_500_buy)，按正常订单流程付款，完成后核验本人官方账号的套餐与有效期 |
 | 当前有 Plus、100或200美元档，想改为500美元档 | 先核对现有套餐、到期时间和原付款渠道 | Pro100升500可先联系群客服核算是否有更低的升级价格及差价方案；跨档办理的差价、周期和剩余权益处理，按商品说明或向 QQ **790433263** 确认；不把新开价格直接当作升级差价 |
 | 曾开通过20x，已过期很久 | 可以重新开通200美元档 | 不再沿用暂停期间的30天回归期限 |
-| 当前仍有 Plus／Pro100（常称5x），准备升级Pro200（常称20x） | 符合商品条件可人工办理；升级后是全新的30天，不叠加原订阅剩余天数 | Pro100升级前咨询客服 QQ **928683877** 或[加入现有交流群](https://qm.qq.com/q/Bw0UoUeez0)，重新核对升级费用，并按核对结果返还差价；[核对升级周期、剩余权益与原渠道扣款](#pro200-upgrade-before-expiry)。普通新开、续费和到期重开仍可直接下单 |
+| 当前仍有 Plus／Pro100（常称10x），准备升级Pro200（常称20x） | 符合商品条件可人工办理；升级后是全新的30天，不叠加原订阅剩余天数 | Pro100升级前咨询客服 QQ **928683877** 或[加入现有交流群](https://qm.qq.com/q/Bw0UoUeez0)，重新核对升级费用，并按核对结果返还差价；[核对升级周期、剩余权益与原渠道扣款](#pro200-upgrade-before-expiry)。普通新开、续费和到期重开仍可直接下单 |
 | 原订阅通过 App Store / Google Play 付款开通 | 原付款渠道不再用作暂停期资格门槛 | 仍需在原商店管理后续扣款，避免重复订阅 |
 | 没有历史20x记录或旧升级按钮 | 可以直接下单 | 不需要资格截图；订单具体问题可联系 QQ **790433263** |
 
 **当前受理范围不再依赖20x是否显示。** 新号、老号和到期账号均可办理200美元档；账号、订单、付款、库存与交付核验仍按正常流程进行。
 
-**放心下单，充值不成功经订单核验后全额退款。** Pro5x自动发卡、自助充值，Pro200／Pro500由人工按订单办理；完成后在本人 ChatGPT 套餐页验收；无需先向官方付款。
+**放心下单，充值不成功经订单核验后全额退款。** Pro10x自动发卡、自助充值，Pro200／Pro500由人工按订单办理；完成后在本人 ChatGPT 套餐页验收；无需先向官方付款。
 
 [立即开通／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_20x_renew)。原有 [Pro 20x 全新充值／购买](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_20x_full&service=full-recharge) 入口继续进入同一商品。
 
@@ -62,7 +71,7 @@ last_modified_at: 2026-10-27
 <a id="pro20x-cancel-return"></a>
 ## Pro 20x 已取消、安排降级或结束，怎样继续办理？
 
-- **取消或降到5x尚未生效：** 在原付款渠道管理后续扣款和已安排的变更；需要继续使用200美元档，可按商品说明办理续费，不需要历史资格证明。
+- **取消或降到10x尚未生效：** 在原付款渠道管理后续扣款和已安排的变更；需要继续使用200美元档，可按商品说明办理续费，不需要历史资格证明。
 - **20x已结束：** 可以直接在 AIXiamo 重新开通200美元档；不再要求特定日期前订阅、一次性回归机会或结束后30天内办理。
 - **原续费扣款失败：** 先查原账单及原订单，避免重复付款；需要重新办理时可使用本人账号下单，不再以旧20x是否显示判断购买资格。
 
@@ -76,7 +85,7 @@ last_modified_at: 2026-10-27
 | --- | --- | --- |
 | 用本人 ChatGPT 账号登录 Codex，需要更高订阅用量 | 核对当前套餐、实际 Codex 用量、任务规模和受限频率 | 先[比较 Pro 100／200／500美元档](chatgpt-pro-5x-vs-20x.md)，再按下方账号条件选商品 |
 | 使用 API Key（包括程序、服务器或 CI 调用） | 确认 Key 的服务商和实际计费项目 | 查看对应服务商的用量与账单；购买 ChatGPT Pro 不会给 API 项目增加余额，不把 API 请求算作订阅用量 |
-| 已有 Plus，尚未到期，想办理 Codex 5x | 核对本人账号和 [Pro 5x 商品条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_plus_to_5x)；剩余 Plus 权益以商品说明为准 | 符合条件可购买 Pro5x 卡密自助充值，无需等 Plus 到期；完成后按下方清单验收 |
+| 已有 Plus，尚未到期，想办理 Codex 10x | 核对本人账号和 [Pro 10x 商品条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_plus_to_5x)；剩余 Plus 权益以商品说明为准 | 符合条件可购买 Pro10x 卡密自助充值，无需等 Plus 到期；完成后按下方清单验收 |
 | 想办理 Codex 20x 新开或续订 | 确认购买的是本人ChatGPT账号的Pro 200美元档，API与Credits另计 | 按[当前开通与续费状态](#pro-availability)查看流程，直接选择同一 [Pro 20x 商品](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_20x_renew) |
 | 准备办理 Pro 500美元档 | 先了解500档的权益和适用工作量，再核对实时价格与库存 | 阅读 [500美元档详细说明](chatgpt-pro-500-guide.md)，确定后进入 [500美元档商品](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_500_buy) |
 | 日常问答、写作、学习、偶尔写代码 | 核对 Plus 是否已满足日常需求 | 先看 Plus，不为偶发峰值长期支付更高成本 |
@@ -93,32 +102,39 @@ last_modified_at: 2026-10-27
 5. 使用支付宝或结账页实时显示的 USDT 网络付款时，核对金额、链名称和订单状态，不要重复付款。
 6. 付款后通过订单页查看处理状态；人工订单需要等待时，以页面状态和售后说明为准。
 
-## Pro 5x 和 20x 怎么选
+<a id="pro-5x-和-20x-怎么选"></a>
+## Pro 10x 和 20x 怎么选
 
-ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），Pro 20x 对应 200 美元档（“200 美金 Pro”）。原5x／20x资料主要用于理解用量差异；新订单的具体模型、用量和周期按当前套餐说明与本人账号核验。个人高频但并非全天重度，先比较 5x；单人全天多项目、密集长任务且 5x 仍持续不足，可比较 20x 的用量，需要200美元档时可直接办理新开、续费或到期重新开通；实时价格见商品页。
+ChatGPT Pro100 10x 对应100美元/月档（100美金档位），Pro200 20x 对应200美元/月档（中文常写“Pro200美金档位”）；Pro500对应50x。这里比较Work与Codex的包含额度，具体模型、消耗与周期仍在本人账号核验。个人高频但并非全天重度，先比较 10x；单人全天多项目、密集长任务且 10x 仍持续不足，可比较 20x 的用量，需要200美元档时可直接办理新开、续费或到期重新开通；实时价格见商品页。
 
 价格、库存、支付方式和处理时间都可能变化，不应把教程里的快照当成长期报价。
 
 具体用量参照见 [Pro 100／200／500美元档选型与用量说明](chatgpt-pro-5x-vs-20x.md)。需要进一步比较500档时，阅读 [Pro 500美元档完整指南](chatgpt-pro-500-guide.md)，按实际工作量与预算选择；订阅用量不换算成每项任务都固定的消息数。
 
 <a id="historical-pro20x"></a>
-## 老 Pro 200 用户现在续费，还能保留原20x吗？
+<a id="老-pro-200-用户现在续费还能保留原20x吗"></a>
+## Pro 200 美金档位新开、续费现在都是20x吗？
+
+**当前Pro200按20x的Work与Codex额度说明，不再仅给历史账号标“原20x”。** 官方将此前较低的200档额度提高到原较高额度，已有较高额度不降低；现有订阅自动应用，无需通过提前续费保留。新开、续费与升级的办理周期仍按各自订单核对。
+
+### 历史过渡记录（现行额度以2026-10-30更新为准）
 
 以下资格窗口和截止日期用于核对历史原20x待遇，不是当前普通新开Pro200的门槛；新开与续费流程见[当前受理状态](#pro-availability)。
 
-**符合官方资格的原账号，保持 Pro 200 订阅有效，可使用过渡期原20x包含额度至2026年10月29日（含当日）。** [OpenAI 官方说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)规定：2026年9月22日起、截至9月29日上午10点（美国太平洋时间）的资格窗口内，曾有有效 Pro 200 订阅的账号符合保留资格。近期有续费需求，可先核对原账号的订阅记录；符合条件可以办理续费，继续使用过渡期原20x，具体受理以 [AIXiamo 现网 Pro 说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_domestic_open)为准。
+**符合官方资格的原账号，保持 Pro 200 订阅有效，可使用过渡期原20x包含额度至2026年10月29日（含当日）。** [OpenAI 官方说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)规定：2026年9月22日起、截至9月29日上午10点（美国太平洋时间）的资格窗口内，曾有有效 Pro 200 订阅的账号符合保留资格。当时有续费需求的账号可按原记录核对资格；符合条件可在该过渡期内续费并使用原20x，具体受理以 [AIXiamo 现网 Pro 说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_domestic_open)为准。
 
-**现在续费一个月，能把原20x延长到11月吗？** 不能。过渡待遇统一截至2026年10月29日，提前续费不会将它延长到新账期结束；之后按新的较低包含额度执行。原20x指原套餐包含额度，各模型单独用量与实际订阅周期仍在本人账号核验。
+**历史问题：当时续费一个月，能把原20x延长到11月吗？** 不能。过渡待遇统一截至2026年10月29日，提前续费不会将它延长到新账期结束；当时公告曾计划之后改用较低包含额度；该计划已被2026-10-30的额度更新取代，不能当作当前规则。原20x指原套餐包含额度，各模型单独用量与实际订阅周期仍在本人账号核验。
 
-**已经到期、变成 Free，再订阅还是原20x吗？** 符合上述资格的同一账号，重新订阅 Pro 200 后，可以在订阅有效期间恢复原额度至同一截止日期。判断依据是原账号在资格窗口内的有效 Pro 200 记录；新开200美元档的购买条件与这项过渡待遇分别核对。办理前查看 [当前新开、续费与到期重开条件](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_domestic_open)，完成后在本人套餐与 Usage 页面核验。
+**历史问题：当时已到期、变成 Free，再订阅还是原20x吗？** 符合上述资格的同一账号，重新订阅 Pro 200 后，可以在订阅有效期间恢复原额度至同一截止日期。判断依据是原账号在资格窗口内的有效 Pro 200 记录；新开200美元档的购买条件与这项过渡待遇分别核对。办理前查看 [当前新开、续费与到期重开条件](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_domestic_open)，完成后在本人套餐与 Usage 页面核验。
 
 <a id="已经有-plus升级-pro-前先确认什么"></a>
 <a id="pro200-upgrade-before-expiry"></a>
 ## Plus／Pro100还没到期，怎么升级Pro200？
 
-**可以，不用等原订阅到期。** 按 AIXiamo 的服务规则，符合商品条件的本人 Plus 或 Pro100（常称5x）账号，可由人工办理升级 Pro200（常称20x）。升级完成后是全新的30天 Pro200订阅，不是原到期日后再追加30天，也不叠加原订阅剩余天数；完成后在本人账号核验档位与新的有效期。
+**可以，不用等原订阅到期。** 按 AIXiamo 的服务规则，符合商品条件的本人 Plus 或 Pro100（常称10x）账号，可由人工办理升级 Pro200（常称20x）。升级完成后是全新的30天 Pro200订阅，不是原到期日后再追加30天，也不叠加原订阅剩余天数；完成后在本人账号核验档位与新的有效期。
 
-### Pro100（5x）升级Pro200（20x），只付套餐差价吗？
+<a id="pro1005x升级pro20020x只付套餐差价吗"></a>
+### Pro100（10x）升级Pro200（20x），只付套餐差价吗？
 
 **先联系客服重新核对升级费用。** Pro100升级200，请在下单前联系 QQ **928683877** 或[加入现有交流群](https://qm.qq.com/q/Bw0UoUeez0)，由客服重新核对本次升级费用，并按核对结果返还差价。不要自行用官方100／200美元标价相减推算本站升级金额。2026-10-06核对的200美元档商品价为 **¥1298**；这是普通新开／续费的价格快照，不等于每个在订账号的升级费用，最终以商品页与本次核对结果为准。
 
@@ -126,26 +142,28 @@ ChatGPT Pro 5x 对应 100 美元档（中文也常写“100 美金 Pro”），P
 
 **升级到Pro200不叠加原订阅剩余天数，但不能把Pro100升级的差价处理直接套用于Plus。** Plus剩余权益是否退款或抵扣，需要在办理前按本次订单确认；不要默认升级会替你关闭原订阅的自动扣款，先核对原购买渠道的设置。完成后在本人 ChatGPT 套餐与账单页面核验新档位、有效期及后续扣款安排。
 
-### 升级Pro200就会获得原20x额度吗？
+<a id="升级pro200就会获得原20x额度吗"></a>
+### 升级Pro200后按20x核验吗？
 
-**不是自动获得。** Pro200是当前200美元档，本文保留Pro20x旧称方便查找；历史订阅的原20x过渡资格另按上文官方条件核对，不因升级或新30天账期延长至10月29日之后。模型与实际用量在本人账号核验。
+**是，办理完成后核验本人账号的Pro200档位与当前20x Work／Codex额度。** 这次官方更新统一200美元档的包含额度，历史资格窗口已不是现行20x门槛；模型、实际用量与新周期仍以本人账号显示为准。
 
 [查看 AIXiamo Pro 当前商品价格与办理说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_domestic_open)。以上是 AIXiamo 独立第三方的人工办理规则，不代表 OpenAI 授权或所有订阅渠道的统一规则。
 
-### 只想从Plus升级Pro100（5x）怎么办？
+<a id="只想从plus升级pro1005x怎么办"></a>
+### 只想从Plus升级Pro100（10x）怎么办？
 
-**可以。Plus 未到期也可办理Pro100（常称5x），无需等待到期。** 通过 AIXiamo 将当前 Plus 升级为 Pro100 后，是新的30天Pro100订阅，会覆盖当前Plus；原Plus剩余天数不会叠加，不是原到期日后再追加30天。例如Plus还剩10天，升级后是30天Pro100，不是40天。可先联系现有交流群客服，根据账号实际情况核算是否有更低的升级价格及差价方案，取得估价后再决定是否升级。¥729是2026-09-20核对的Pro100普通新开／续费商品价格快照，不是当前报价；普通新开／续费以实时商品页为准，升级费用以本次估价为准。不要求购买者必须已有 Plus；没有 Plus 的账号也可直接开通Pro100。当前 Pro5x 新订单付款后自动发卡，再按原订单指引自助充值；完成后在本人 ChatGPT 套餐页核验档位与新的有效期。剩余Plus权益是否退款或抵扣，应在办理前按本次订单确认，不默认自动抵扣；同时核对原付款渠道的自动续费安排。充值不成功经订单核验后全额退款；有疑问可咨询 QQ **790433263**。这是 AIXiamo 商品办理规则，不代表所有渠道的统一升级规则；账号要求与订阅周期以下方商品说明为来源。
+**可以。Plus 未到期也可办理Pro100（当前10x），无需等待到期。** 通过 AIXiamo 将当前 Plus 升级为 Pro100 后，是新的30天Pro100订阅，会覆盖当前Plus；原Plus剩余天数不会叠加，不是原到期日后再追加30天。例如Plus还剩10天，升级后是30天Pro100，不是40天。可先联系现有交流群客服，根据账号实际情况核算是否有更低的升级价格及差价方案，取得估价后再决定是否升级。¥729是2026-09-20核对的Pro100普通新开／续费商品价格快照，不是当前报价；普通新开／续费以实时商品页为准，升级费用以本次估价为准。不要求购买者必须已有 Plus；没有 Plus 的账号也可直接开通Pro100。当前 Pro100 10x 新订单付款后自动发卡，再按原订单指引自助充值；完成后在本人 ChatGPT 套餐页核验档位与新的有效期。剩余Plus权益是否退款或抵扣，应在办理前按本次订单确认，不默认自动抵扣；同时核对原付款渠道的自动续费安排。充值不成功经订单核验后全额退款；有疑问可咨询 QQ **790433263**。这是 AIXiamo 商品办理规则，不代表所有渠道的统一升级规则；账号要求与订阅周期以下方商品说明为来源。
 
-[前往 Pro 5x 购买／充值](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_plus_to_5x)。
+[前往 Pro 10x 购买／充值](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_plus_to_5x)。
 
 办理前核对 **当前套餐、原订阅付款渠道和到期时间**；不要默认本次升级会替你取消原有自动续费。有疑问可联系咨询与售后 QQ **790433263**，说明当前情况并确认订单起算时间，再按商品页下单。
 
-Pro5x 新订单付款后自动发卡，前往 plus.aixiamo.com 自助充值；有疑问按原订单联系专属客服，完成后回到本人 ChatGPT 的套餐与账单页面核对 Pro5x 和有效期；原订阅的后续续费仍在原付款渠道管理。
+Pro10x 新订单付款后自动发卡，前往 plus.aixiamo.com 自助充值；有疑问按原订单联系专属客服，完成后回到本人 ChatGPT 的套餐与账单页面核对 Pro10x 和有效期；原订阅的后续续费仍在原付款渠道管理。
 
 <a id="pro200-early-renewal"></a>
 ## Pro200没到期可以提前续费吗？Pro20x也可以吗？
 
-**可以。按 AIXiamo 当前办理规则，Pro200（常称Pro20x）尚未到期也可以提前续费，无需等待原订阅结束。** 下单后由人工按订单办理，完成后在本人账号核验订阅与有效期。提前续费与跨档升级不是同一件事：上文“全新的30天”只说明升级；提前续费的本次起算日与剩余天数处理，请在办理前按订单确认。旧20x过渡资格与截止日期也单独核对，提前续费不延长2026年10月29日的原额度截止日期。
+**可以。按 AIXiamo 当前办理规则，Pro200（常称Pro20x）尚未到期也可以提前续费，无需等待原订阅结束。** 下单后由人工按订单办理，完成后在本人账号核验订阅与有效期。提前续费与跨档升级不是同一件事：上文“全新的30天”只说明升级；提前续费的本次起算日与剩余天数处理，请在办理前按订单确认。当前20x按上方2026-10-30官方更新核验；历史过渡截止日不再作为当前额度降低或续费门槛。
 
 [查看Pro200／Pro20x续费商品与实时价格](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_20x_renew)。
 
@@ -177,7 +195,7 @@ Pro5x 新订单付款后自动发卡，前往 plus.aixiamo.com 自助充值；�
 
 ## 付款成功但还没有显示 Pro
 
-依次检查：登录账号是否正确 → 登录方式是否一致 → 订单是否已付款 → Pro5x 是否已领卡并提交充值／人工订单是否仍在处理 → ChatGPT 页面是否需要刷新或重新登录。先保存订单号与付款记录，再按订单页说明联系售后；不要因为页面没有立刻变化就再次付款。最终以本人 ChatGPT 官方“设置 → 我的套餐”显示的 Pro 档位为准。
+依次检查：登录账号是否正确 → 登录方式是否一致 → 订单是否已付款 → Pro10x 是否已领卡并提交充值／人工订单是否仍在处理 → ChatGPT 页面是否需要刷新或重新登录。先保存订单号与付款记录，再按订单页说明联系售后；不要因为页面没有立刻变化就再次付款。最终以本人 ChatGPT 官方“设置 → 我的套餐”显示的 Pro 档位为准。
 
 [查询 AIXiamo 订单与处理状态](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_domestic_order_help)。查到“已付款”说明订单收到款项，不等于账号权益已经交付；完成后再核对本人 ChatGPT 套餐及 Codex Usage。异常按原订单联系售后，无需公开个人资料。
 
@@ -211,16 +229,17 @@ Pro5x 新订单付款后自动发卡，前往 plus.aixiamo.com 自助充值；�
 
 **可以。AIXiamo 当前支持到期账号重新开通，不再沿用暂停期间的回归期限。** 无论原20x是否仍显示、过期多久或此前在何处办理，都可使用本人账号下单同一商品。 [当前开通与续费状态](#pro-availability)说明正常办理流程。完成后在本人账号核验套餐；充值不成功经订单核验后全额退款。订阅周期和实时条件见 [Pro 20x 商品说明](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_20x_renew)。
 
-### Codex 5x、Codex 20x 怎么充值，买的是哪种套餐？
+<a id="codex-5xcodex-20x-怎么充值买的是哪种套餐"></a>
+### Codex 10x、Codex 20x 怎么充值，买的是哪种套餐？
 
-在本服务中，“Codex 5x 购买／充值”对应本人 ChatGPT 账号的 [Pro 5x 购买／充值](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_plus_to_5x)；“Codex 20x 开通／续订”对应 [Pro 20x 购买／续订](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_20x_renew)。AIXiamo 的 Pro 5x 可以正常开通和续费，Plus 未到期也可按商品条件用卡密自助充值；Pro 200美元档支持新开、续费和到期重开，可直接下单。完成后在本人 ChatGPT 套餐页与 Codex 用量页面核验。API Key 用量和 Codex Credits 分别核对，不与这两款会员商品混用。
+在本服务中，“Codex 10x 购买／充值”对应本人 ChatGPT 账号的 [Pro 10x 购买／充值](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_plus_to_5x)；“Codex 20x 开通／续订”对应 [Pro 20x 购买／续订](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_20x_renew)。AIXiamo 的 Pro 10x 可以正常开通和续费，Plus 未到期也可按商品条件用卡密自助充值；Pro 200美元档支持新开、续费和到期重开，可直接下单。完成后在本人 ChatGPT 套餐页与 Codex 用量页面核验。API Key 用量和 Codex Credits 分别核对，不与这两款会员商品混用。
 
 <a id="pro-price-history"></a>
 ## 历史价格与内容核对记录
 
 以下记录保留原来的核对日期和价格。本次只整理正文阅读顺序，没有重新核价；当前办理范围、实时金额与账号条件仍按上文说明和原商品入口确认。
 
-> 内容更新：2026-10-12（明确 Plus 未到期升级 Pro100 的新30天规则；保留2026-10-06补充的原20x资格、续费与到期重订说明，以及原有三档流程与历史价格核验日期）。
+> 历史维护记录：2026-10-12明确 Plus 未到期升级 Pro100 的新30天规则；2026-10-06补充过渡资格。当前额度已按2026-10-30更新，以下原有价格核验日期保留。
 
 AIXiamo 办理方案在 2026-09-20 复核为 **Pro 5x ¥729、Pro 20x 新开／续订统一 ¥1298**。充值到您本人的官方账号上，开通后可在 ChatGPT 官网“设置 → 我的套餐”核验 Pro 档位与有效期。实时价格、库存和交付规则以 Pro 页面为准。
 
@@ -229,6 +248,6 @@ AIXiamo 办理方案在 2026-09-20 复核为 **Pro 5x ¥729、Pro 20x 新开／�
 ## 继续判断
 
 - [ChatGPT Pro 500美元档多少钱、有什么权益、国内怎么买？](chatgpt-pro-500-guide.md)
-- [ChatGPT Pro 5x 和 20x 有什么区别？](chatgpt-pro-5x-vs-20x.md)
+- [ChatGPT Pro 10x 和 20x 有什么区别？](chatgpt-pro-5x-vs-20x.md)
 - [ChatGPT Plus 和 Pro 怎么选？](chatgpt-plus-vs-pro.md)
 - [Codex 额度用完，Credits、Pro 还是 API？](codex-quota-usage.md)

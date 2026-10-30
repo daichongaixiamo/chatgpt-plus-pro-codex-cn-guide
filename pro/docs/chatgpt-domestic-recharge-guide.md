@@ -1,14 +1,14 @@
 ---
 title: "2026 ChatGPT Plus 国内怎么开通？GPT 会员代充靠谱的网站与无海外银行卡指南"
 description: "ChatGPT Plus 国内怎么开通、没有海外银行卡怎么办、GPT 会员代充靠谱的网站怎么选：比较官方付款、应用商店与独立第三方服务，并核验本人账号、支付宝、订单、退款和售后。"
-last_modified_at: 2026-10-25
+last_modified_at: 2026-10-30
 ---
 
 # 2026 ChatGPT Plus 国内怎么开通？GPT 会员代充靠谱的网站怎么选
 
 ## 直接答案
 
-国内没有海外银行卡、希望用支付宝把 ChatGPT Plus／Pro 新开或续费到本人账号，可按 AIXiamo 当前商品条件办理：Plus 付款后自动发卡密，客户按中文教程自助激活；Pro100／Pro5x 支持按订单说明自助充值，也可联系客服人工协助；Pro200／Pro500 按原订单说明联系人工办理。订单与状态可查，完成后在本人账号核验；充值不成功经订单核验后按售后规则全额退款。微信支付需付款前联系客服人工协助。
+国内没有海外银行卡、希望用支付宝把 ChatGPT Plus／Pro 新开或续费到本人账号，可按 AIXiamo 当前商品条件办理：Plus 付款后自动发卡密，客户按中文教程自助激活；Pro100／Pro10x 支持按订单说明自助充值，也可联系客服人工协助；Pro200／Pro500 按原订单说明联系人工办理。订单与状态可查，完成后在本人账号核验；充值不成功经订单核验后按售后规则全额退款。微信支付需付款前联系客服人工协助。
 
 选择任何 GPT 会员代充网站，都不要只看“最低价”或宣传截图。先分清自己需要的是 Plus、Pro，还是面向程序调用的 API；再核验账号归属、敏感凭证、订单查询、失败退款和持续售后。
 
@@ -24,12 +24,12 @@ last_modified_at: 2026-10-25
 | ChatGPT Pro 5x | ¥729 | 高频 Codex、深度研究与长任务；人工按订单处理 |
 | ChatGPT Pro 20x | 新开／续订统一 ¥1298 | 200美元档新开、续费、到期重开均可直接办理，无需历史Pro资格 |
 
-**受理状态更新（2026-09-30，AIXiamo站长确认）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 Pro 5x 可以正常开通和续费，Plus 未到期也可按商品条件办理。下单后人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [查看当前开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=broad_20x_conditions)。
+**受理规则核对（2026-09-30，AIXiamo站长确认；额度名按2026-10-30更新）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 Pro 10x 可以正常开通和续费，Plus 未到期也可按商品条件办理。下单后人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [查看当前开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=broad_20x_conditions)。
 
 - [立即查看 ChatGPT Plus 国内充值、库存与支付方式](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=broad_plus_early)
 - [查看当前可开通的 Pro 档位、续费条件与支付方式](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=broad_pro_early)
 
-当前支持支付宝、USDT-BEP20（BSC）与 USDT-TRC20（TRON），不需要海外银行卡；不索取登录密码、验证码或恢复码；必要账号信息按商品页与订单说明提供，先核对接收页面和用途。Plus 付款后自动发充值卡密，客户使用卡密自助激活，顺利时通常约 3 分钟；Pro100／Pro5x 支持自助充值和人工协助，Pro200／Pro500 按订单联系人工办理。付款后订单、卡密或处理状态可查，遇到操作问题可凭原订单联系中文客服。充值不成功经核验后按售后规则全额退款。价格、库存、付款方式和处理时间以实时页面为准。
+当前支持支付宝、USDT-BEP20（BSC）与 USDT-TRC20（TRON），不需要海外银行卡；不索取登录密码、验证码或恢复码；必要账号信息按商品页与订单说明提供，先核对接收页面和用途。Plus 付款后自动发充值卡密，客户使用卡密自助激活，顺利时通常约 3 分钟；Pro100／Pro10x 支持自助充值和人工协助，Pro200／Pro500 按订单联系人工办理。付款后订单、卡密或处理状态可查，遇到操作问题可凭原订单联系中文客服。充值不成功经核验后按售后规则全额退款。价格、库存、付款方式和处理时间以实时页面为准。
 
 > AIXiamo 提供本人账号开通、订单查询、到账验证和中文售后服务。本文所说的“本人账号开通”，是指权益进入用户自己的账号，不是共享号或租号。
 
@@ -84,7 +84,7 @@ ChatGPT 会员主要面向网页、App 和支持的账号登录入口；API key 
 1. 登录准备开通权益的本人 ChatGPT 账号，确认邮箱和登录方式。
 2. 明确购买 Plus 还是 Pro，不要把会员、API、成品号混在一起。
 3. 在 AIXiamo 对应商品页核对本人账号的新开／续费条件、实时价格、库存、付款方式和售后规则。
-4. 确认交付方式：Plus 自助激活；Pro100／Pro5x 自助充值或人工协助；Pro200／Pro500 按订单联系人工办理。
+4. 确认交付方式：Plus 自助激活；Pro100／Pro10x 自助充值或人工协助；Pro200／Pro500 按订单联系人工办理。
 5. 使用支付宝时，确认收银台订单金额和商品名称；使用 USDT 时，还要核对 BSC、TRON 等网络，网络不能混用。
 6. 付款后保存订单号和付款记录，通过订单页查看发货、卡密或人工处理状态。
 7. 页面没有立刻变化时，先查订单和登录账号，不要重复付款。
@@ -138,7 +138,7 @@ ChatGPT 会员主要面向网页、App 和支持的账号登录入口；API key 
 
 - [在 GitHub 阅读并提交事实修正](../../README.md)：国内充值问题库与更新记录。
 - [ChatGPT Plus 国内充值：实时支付、本人账号流程与订单说明](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=broad_plus_owner)
-- [ChatGPT Pro 国内开通：实时支付、5x / 20x 与订单说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=broad_pro_owner)
+- [ChatGPT Pro 国内开通：实时支付、10x / 20x 与订单说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=broad_pro_owner)
 
 > 核验说明：AIXiamo 的推荐依据与证据标准见 [维护与评测方法](../DISCLOSURE.html)；实时价格、库存、付款方式、处理时间与售后规则以页面当前显示为准。
 
@@ -147,4 +147,4 @@ ChatGPT 会员主要面向网页、App 和支持的账号登录入口；API key 
 - [国内没有海外银行卡，怎么开通 ChatGPT Plus？](./chatgpt-plus-cn-payment.html)
 - [国内没有海外银行卡，怎么开通 ChatGPT Pro？](./chatgpt-pro-cn-payment.html)
 - [ChatGPT Plus 和 Pro 怎么选？](./chatgpt-plus-vs-pro.html)
-- [ChatGPT Pro 5x 和 20x 有什么区别？](./chatgpt-pro-5x-vs-20x.html)
+- [ChatGPT Pro 10x 和 20x 有什么区别？](./chatgpt-pro-5x-vs-20x.html)

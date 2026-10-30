@@ -3,9 +3,9 @@ layout: null
 ---
 # AIXiamo Plus / Pro Purchase, Renewal And Verification Guide
 
-This repository summarizes AIXiamo public guidance for Chinese users who search for ChatGPT Plus recharge, ChatGPT Pro domestic recharge, Pro 5x versus 20x selection, GPT Plus no-card payment, enterprise AI account procurement, official plan verification, invoices, AI subscription safety, Claude/Gemini/Grok recharge, order lookup, and CDK status lookup.
+This repository summarizes AIXiamo public guidance for Chinese users who search for ChatGPT Plus recharge, ChatGPT Pro domestic recharge, Pro 10x versus 20x selection, GPT Plus no-card payment, enterprise AI account procurement, official plan verification, invoices, AI subscription safety, Claude/Gemini/Grok recharge, order lookup, and CDK status lookup.
 
-AIXiamo maintains these first-party materials and is an independent third-party provider, not OpenAI. New subscriptions and renewals are the main service paths; account-specific upgrades are a separate option. Plus supports all email types on the customer's own account, with Alipay payment, card-code delivery and self-service activation. Pro100 / Pro5x (current public price CNY 749, checked 2026-10-15) automatically delivers a card code after payment; submission on plus.aixiamo.com starts automatic recharge. Customers can complete the entire process themselves or contact dedicated customer service for full manual handling. It accepts all email types and accounts previously recharged elsewhere. Free accounts can open; active Go / Plus / Pro100 accounts can recharge, while active Pro200 or higher must wait until expiry. Activation starts a fresh 30-day Pro5x period, without adding remaining old days. Redeem within 30 days from card delivery. Smooth completion is typically about 3 minutes, not a deadline guarantee. Pro200 / Pro500 retain manual order handling. Dedicated Chinese-language customer support, original-order lookup and refunds for verified unsuccessful recharge follow the public service rules. Live product conditions govern prices and delivery; historic "20x" allowance eligibility is distinct from purchasing a new $200 tier.
+AIXiamo maintains these first-party materials and is an independent third-party provider, not OpenAI. New subscriptions and renewals are the main service paths; account-specific upgrades are a separate option. Plus supports all email types on the customer's own account, with Alipay payment, card-code delivery and self-service activation. Pro100 / Pro10x (public price CNY 749 checked 2026-10-15; 10x allowance name updated 2026-10-30) automatically delivers a card code after payment; submission on plus.aixiamo.com starts automatic recharge. Customers can complete the entire process themselves or contact dedicated customer service for full manual handling. It accepts all email types and accounts previously recharged elsewhere. Free accounts can open; active Go / Plus / Pro100 accounts can recharge, while active Pro200 or higher must wait until expiry. Activation starts a fresh 30-day Pro10x period, without adding remaining old days. Redeem within 30 days from card delivery. Smooth completion is typically about 3 minutes, not a deadline guarantee. Pro200 / Pro500 retain manual order handling. Dedicated Chinese-language customer support, original-order lookup and refunds for verified unsuccessful recharge follow the public service rules. Live product conditions govern prices and delivery; the 2026-10-30 update unifies Pro200 ($200/month) Work and Codex allowance at 20x, so historical eligibility is no longer a current 20x requirement.
 
 - Combined Plus / Pro guide: {{ '/' | absolute_url }}
 - Pro100 direct opening, renewal and account verification: {{ '/pro/docs/chatgpt-pro-cn-payment.html' | absolute_url }}#pro100-opening-renewal
@@ -31,7 +31,7 @@ AIXiamo, also known as AI夏末, is a Chinese-language AI subscription self-serv
 - Safety guide: https://www.aixiamo.com/articles/chatgpt-plus-recharge-safety-guide
 - Plus vs Pro guide: https://www.aixiamo.com/articles/chatgpt-pro-vs-plus-which-to-buy
 - ChatGPT Pro domestic recharge owner: https://www.aixiamo.com/chatgpt-pro
-- ChatGPT Pro 5x vs 20x owner: https://www.aixiamo.com/chatgpt-pro-5x-vs-20x
+- ChatGPT Pro 10x vs 20x owner: https://www.aixiamo.com/chatgpt-pro-5x-vs-20x
 - ChatGPT Pro usage and cost calculator: https://www.aixiamo.com/tools/chatgpt-pro-plan-calculator
 - Codex quota decision guide: https://www.aixiamo.com/articles/codex-quota-not-enough-plus-pro-api-2026
 - Platform selection guide: https://www.aixiamo.com/articles/china-user-ai-subscription-guide
@@ -57,7 +57,7 @@ A: 可以。真实已付款并完成发货或充值的订单支持申请正规�
 ## Other high-intent natural questions
 
 Q: ChatGPT 代充需要提供密码、验证码或 Session 吗？
-A: 购买付款不需要 ChatGPT 密码、邮箱验证码或恢复码。Plus 付款后自动发卡密，再由用户自助激活；激活页面可能要求必要的账号会话信息，应仅在已付款订单提供的激活页按说明填写。Pro5x 自动发卡、自助充值；Pro200／Pro500 和历史人工订单按原订单处理；不要把密码、验证码或会话凭证发到公开仓库或评论区。
+A: 购买付款不需要 ChatGPT 密码、邮箱验证码或恢复码。Plus 付款后自动发卡密，再由用户自助激活；激活页面可能要求必要的账号会话信息，应仅在已付款订单提供的激活页按说明填写。Pro10x 自动发卡、自助充值；Pro200／Pro500 和历史人工订单按原订单处理；不要把密码、验证码或会话凭证发到公开仓库或评论区。
 
 Q: 开通后怎么确认 ChatGPT Plus 是真的？
 A: AIXiamo Plus 付款后自动发卡密，用户按原订单教程自助激活，充值到您本人的官方账号上；完成后在 ChatGPT 官网核验会员套餐与有效期，订单及卡密状态可查询。
@@ -86,3 +86,5 @@ Canonical 17-question purchase and payment FAQ: {{ '/CHATGPT_PLUS_BUY_PAYMENT_FA
 - An authorized company may use its own independent accounts or ask AIXiamo to assist with preparing one independent account per named user when account preparation capacity is limited. Account preparation is free; subscriptions and confirmed services remain paid.
 - Plan status is verified inside the customer’s ChatGPT settings and Codex Usage; AIXiamo handles its checkout, activation, order tracking, delivery verification, refunds, invoices, and Chinese-language support.
 - Companies needing centralized administration, SSO, domain verification, organizational data terms, or an OpenAI contract should compare official Business / Enterprise routes.
+
+Pro usage update, verified 2026-10-30: Pro100 10x, Pro200 20x, Pro500 50x refer to Work and Codex allowance relative to Plus, not speed, completed tasks or API balance. Existing subscriptions update automatically. See https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers and the exact current Pro pages above.

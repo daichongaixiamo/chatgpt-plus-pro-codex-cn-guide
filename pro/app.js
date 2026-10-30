@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const CONTENT_VERSION = "2026-10-14";
+  const CONTENT_VERSION = "2026-10-30";
   const STORAGE_KEY = "aixiamo-ai-choice-map-v1";
   const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
 
@@ -98,14 +98,14 @@
       summary: "你是单人高频使用，而且限制已经持续影响多文件、长任务或深度研究。此时更高用量才有明确判断依据。",
       reasons: ["限制持续影响真实工作", "任务强度高，且主要由单人使用"],
       changes: ["实际问题来自客户端、权限或环境", "优化任务范围后中断明显减少"],
-      verify: ["连续一周的受限次数和交付影响", "100美元5x、200美元20x与500美元档的当前用量及Ultrafast需求"],
+      verify: ["连续一周的受限次数和交付影响", "100美元10x、200美元20x与500美元档的当前用量及Ultrafast需求"],
       links: [
         {
-          label: "查看 AIXiamo Pro 5x / 20x 办理入口",
+          label: "查看 AIXiamo Pro 10x / 20x 办理入口",
           url: "https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=pages&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_compare_result",
           external: true
         },
-        { label: "比较5x / 20x / 500三档", url: `${PAGES_BASE}/docs/chatgpt-pro-5x-vs-20x.html`, external: false },
+        { label: "比较10x / 20x / 500三档", url: `${PAGES_BASE}/docs/chatgpt-pro-5x-vs-20x.html`, external: false },
         { label: "Pro 500价格与Ultrafast完整指南", url: `${PAGES_BASE}/docs/chatgpt-pro-500-guide.html`, external: false }
       ]
     },
@@ -391,13 +391,13 @@
     { label: "国内怎么开通 ChatGPT Plus", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-plus-cn-payment.html`, terms: "国内 充值 支付 没有海外卡" },
     { label: "支付宝怎么开通 ChatGPT Plus", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-plus-alipay.html`, terms: "支付宝 充值 购买 订阅 plus 本人账号" },
     { label: "国内怎么开通 ChatGPT Pro", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-cn-payment.html`, terms: "国内 充值 支付宝 usdt 没有海外银行卡 本人账号" },
-    { label: "支付宝怎么开通 ChatGPT Pro", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-alipay.html`, terms: "支付宝 充值 购买 订阅 pro 5x 20x 本人账号" },
+    { label: "支付宝怎么开通 ChatGPT Pro", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-alipay.html`, terms: "支付宝 充值 购买 订阅 pro 5x 10x 20x 50x 本人账号" },
     { label: "付款失败、支付成功未到账、退款与电子发票", meta: "排障", url: "../CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.html", terms: "付款失败 支付成功 未到账 订单处理中 重复付款 退款 原路退款 秒到账 发票 电子发票 开票 售后" },
     { label: "ChatGPT Plus 和 Pro 怎么选", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-plus-vs-pro.html`, terms: "会员 套餐" },
-    { label: "ChatGPT Pro 5x / 20x / 500怎么选", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-5x-vs-20x.html`, terms: "pro 100 200 500 额度 区别 对比" },
+    { label: "ChatGPT Pro 10x / 20x / 500怎么选", meta: "指南", url: `${PAGES_BASE}/docs/chatgpt-pro-5x-vs-20x.html`, terms: "pro 5x 10x 20x 50x 100 200 500 额度 区别 对比" },
     { label: "Codex 会员、Credits 与 API 的关系", meta: "指南", url: `${PAGES_BASE}/docs/codex-membership-vs-api.html`, terms: "codex credits api key plus pro" },
     { label: "Codex 额度不足能否购买 Credits", meta: "指南", url: `${PAGES_BASE}/docs/codex-quota-usage.html`, terms: "限额 用完 不够 credits 购买额度" },
-    { label: "企业研发团队如何规划 Codex 账号", meta: "指南", url: `${PAGES_BASE}/docs/enterprise-codex-account-planning.html`, terms: "企业 公司 团队 codex 账号 采购 批量 plus pro 5x 20x business enterprise api 发票 官方验真" },
+    { label: "企业研发团队如何规划 Codex 账号", meta: "指南", url: `${PAGES_BASE}/docs/enterprise-codex-account-planning.html`, terms: "企业 公司 团队 codex 账号 采购 批量 plus pro 10x 20x business enterprise api 发票 官方验真" },
     { label: "官方事实与核对日期", meta: "来源", url: `${PAGES_BASE}/SOURCES.html`, terms: "openai 官方 来源" },
     { label: "维护与评测方法", meta: "证据", url: `${PAGES_BASE}/DISCLOSURE.html`, terms: "aixiamo 推荐依据 评测方法 公开证据" }
   ];

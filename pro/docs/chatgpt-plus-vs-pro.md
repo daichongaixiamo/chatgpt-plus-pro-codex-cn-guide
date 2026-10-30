@@ -1,7 +1,7 @@
 ---
 title: "Plus 还是 Pro？ChatGPT 与 Codex 用户怎么选"
 description: "普通聊天、学习和中等强度 Codex 先比较 Plus；只有高频多文件、长任务持续被限制打断时，再比较 Pro。"
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-30
 ---
 
 # ChatGPT Plus 和 Pro 怎么选？
@@ -12,7 +12,7 @@ Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用；普通聊天�
 
 偶发一次限制不等于必须升级；“当前计划已经够用”也是有效结果。
 
-**受理状态更新（2026-09-30，AIXiamo站长确认）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 Pro5x 可以正常开通和续费，Plus 未到期也可按商品条件办理；当前Pro5x新订单自动发卡、自助充值，Pro200／Pro500仍人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [查看当前开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_pro_20x_conditions)。
+**受理规则核对（2026-09-30，AIXiamo站长确认；额度名按2026-10-30更新）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 Pro10x 可以正常开通和续费，Plus 未到期也可按商品条件办理；当前Pro10x新订单自动发卡、自助充值，Pro200／Pro500仍人工按订单处理，完成后在本人 ChatGPT 套餐页核验；充值不成功经订单核验后全额退款。价格和库存以商品页实时显示为准。 [查看当前开通与续费条件](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_pro_20x_conditions)。
 
 ## 决策表
 
@@ -26,9 +26,10 @@ Codex 可在 Free、Go、Plus、Pro 等 ChatGPT 计划中使用；普通聊天�
 | 多人共同使用 | 组织方案 | 个人会员不应被当成共享席位 |
 
 <a id="plus-to-pro100-before-expiry"></a>
-## Plus 还没到期，可以升级 Pro 5x 吗？
+<a id="plus-还没到期可以升级-pro-5x-吗"></a>
+## Plus 还没到期，可以升级 Pro 10x 吗？
 
-**可以。** AIXiamo 可按 [Pro 5x 商品条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_pro_to_5x)为符合条件的本人账号自动发卡、自助充值，不必等 Plus 到期；没有 Plus 的免费账号也可直接新开，不限邮箱和原充值渠道。Go／Pro100 未到期也可用；Pro200及以上未到期需等原订阅到期后再使用。办理前记下当前 Plus 到期日和原付款渠道，检查原渠道的自动续费设置；购买 Pro 不会自动替你管理原渠道的后续扣款。办理完成后，在同一个 ChatGPT 账号的“设置 → 我的套餐”核验 Pro 档位和新周期。
+**可以。** AIXiamo 可按 [Pro 10x 商品条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_pro_to_5x)为符合条件的本人账号自动发卡、自助充值，不必等 Plus 到期；没有 Plus 的免费账号也可直接新开，不限邮箱和原充值渠道。Go／Pro100 未到期也可用；Pro200及以上未到期需等原订阅到期后再使用。办理前记下当前 Plus 到期日和原付款渠道，检查原渠道的自动续费设置；购买 Pro 不会自动替你管理原渠道的后续扣款。办理完成后，在同一个 ChatGPT 账号的“设置 → 我的套餐”核验 Pro 档位和新周期。
 
 **自助步骤很简单：** 付款自动领卡 → 前往 plus.aixiamo.com 按提示充值 → 本人账号核验。顺利时全程通常约3分钟，不是每单限时保证；卡密从发货起30天内兑换。购买与客服环节不索取 ChatGPT 登录密码、验证码或恢复码，遇到问题有原订单专属客服协助，充值不成功经核验后按公开售后规则全额退款。
 

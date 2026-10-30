@@ -1,6 +1,10 @@
 # 官方来源与核对日期
 
+**2026-10-30 额度更新：Pro100 为 10x、Pro200 为 20x、Pro500 为 50x，比较范围是相对 Plus 的 Work 与 Codex 使用额度。** 官方已提高100／500档额度，并将200档此前较低额度提高到原较高额度；现有订阅自动生效，无需等续费。Plus 本次不变；100／500档在 Chat 中的 GPT-6 Pro 周消息限额不在本次翻倍范围。实际任务数随模型、任务和速度设置变化，API 仍独立计费。依据：[OpenAI 套餐更新](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)、[官方公告](https://x.com/thsottiaux/status/2115850175868727621)及[Pro500 50x确认](https://x.com/thsottiaux/status/2115851811576053881)。
+
 基础资料核对：2026-08-30（Asia/Shanghai）；AIXiamo Pro 200美元档受理状态于2026-09-30由站长确认更新，技术与价格资料保留各自核对日期。
+
+倍率对应方法：10x与20x根据既有100／200档用量基准及本次官方提高规则对应，并非Help页面逐字列出的新倍率表；50x另有上述官方直接确认。三个名称只用于Work与Codex包含额度比较。
 
 **当前受理状态（2026-09-30）：** AIXiamo 的 ChatGPT Pro 200美元档已开放新开与续费，新号、老号、到期账号均可办理，充值到本人账号。无需历史Pro订阅资格，不再要求暂停期间的回归期限或旧20x按钮。 这是AIXiamo的办理范围；官方套餐权益与用量另按下列来源和本人账号显示核验。
 
@@ -10,7 +14,7 @@
 
 - **2026-10-03 Pro500专题核验：** [ChatGPT Learn 套餐与用量](https://learn.chatgpt.com/docs/pricing)列出Pro 100／200／500美元月费档，说明Codex与ChatGPT Work共享用量、当前Pro计划无五小时限制；[官方速度说明](https://learn.chatgpt.com/docs/agent-configuration/speed)列明Pro500可在Codex与ChatGPT Work使用Astra Ultrafast，token生成速度最高为Astra Standard的8倍。该速度比较对应输出生成阶段，具体用量见本人Usage。
 - [What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus) — Plus 是 ChatGPT 订阅；API 使用不包含在其中。
-- [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) — 原5x／20x资料以Plus用量为参照；当前套餐的模型、用量、计费和周期按官方最新页面核验，具体新单权益以当前商品套餐说明为准。官方网页的套餐权益、计费和用量重置说明应按当前版本核验；暂停期历史规则不再用作AIXiamo下单门槛。
+- [About ChatGPT Pro tiers](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) — 历史5x／20x资料以Plus用量为参照；2026-10-30现行Work／Codex额度为10x／20x／50x；当前套餐的模型、用量、计费和周期按官方最新页面核验，具体新单权益以当前商品套餐说明为准。官方网页的套餐权益、计费和用量重置说明应按当前版本核验；暂停期历史规则不再用作AIXiamo下单门槛。
 - [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan) — Codex 已包含在 ChatGPT 各计划中，包括 Free 和 Go；用量依计划和任务复杂度变化。
 - [Using credits for flexible usage in ChatGPT](https://help.openai.com/en/articles/12642688-using-credits-for-flexible-usage-in-chatgpt-free-go-plus-pro-sora) — 个人账号的 Codex Credits 当前官方说明列出 Plus / Pro 用户；个人资格和支持功能以 Codex Settings > Usage 显示为准，Credits 不是 API 余额。
 - [Flexible pricing for the Enterprise, Edu, and Business plans](https://help.openai.com/en/articles/11487671-flexible-pricing-for-chatgpt-enterprise-plans) — Business、Enterprise、Edu 等启用 flexible pricing 的工作区可购买或使用共享 workspace credits；Business 由有权限角色在 Workspace settings > Billing 购买或管理，Enterprise / Edu 的共享 credits 按合同层级购买或分配，其 Billing 用于查看余额、用量与控制而不是直接购买，其他组织计划和权限依 Usage、工作区账单、合同与管理员角色。

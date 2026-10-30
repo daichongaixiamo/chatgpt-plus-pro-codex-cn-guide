@@ -1,15 +1,18 @@
 ---
 layout: pro
-title: "ChatGPT Pro 500美元档：价格、Astra Ultrafast、本人账号开通与续费指南"
+title: "ChatGPT Pro500 50x：价格、Astra Ultrafast、本人账号开通与续费指南"
 description: "详解 ChatGPT Pro $500 月费与 AIXiamo ¥3350 价格快照、与200美元档的区别、Astra Ultrafast 在 Codex/Work 的用法、用量管理、本人账号办理、支付查单和官网验收。"
 lang: zh-CN
 date: 2026-10-03
-last_modified_at: 2026-10-03
+last_modified_at: 2026-10-30
 ---
 
-# ChatGPT Pro 500美元档：价格、Ultrafast与本人账号办理指南
+<a id="chatgpt-pro-500美元档价格ultrafast与本人账号办理指南"></a>
+# ChatGPT Pro500 50x：价格、Ultrafast与本人账号办理指南
 
-> 内容与价格快照核验：2026-10-03。官方套餐、速度说明与本站人工办理规则分别列明，方便按自己的工作量选择。
+> 额度说明更新：2026-10-30；原2026-10-03价格快照日期保留。官方套餐、速度说明与本站办理规则分别核对。
+
+**2026-10-30 额度更新：Pro100 为 10x、Pro200 为 20x、Pro500 为 50x，比较范围是相对 Plus 的 Work 与 Codex 使用额度。** 官方已提高100／500档额度，并将200档此前较低额度提高到原较高额度；现有订阅自动生效，无需等续费。Plus 本次不变；100／500档在 Chat 中的 GPT-6 Pro 周消息限额不在本次翻倍范围。实际任务数随模型、任务和速度设置变化，API 仍独立计费。依据：[OpenAI 套餐更新](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)、[官方公告](https://x.com/thsottiaux/status/2115850175868727621)及[Pro500 50x确认](https://x.com/thsottiaux/status/2115851811576053881)。
 
 **Pro 500美元档适合希望把 Codex 和 ChatGPT Work 更持续地用于实际工作、并使用 Astra Ultrafast 的个人用户。** 官方列价为 **$500/月**；AIXiamo 的独立500美元档商品在本次核验时为 **¥3350**，支持新开通与续费，人工办理到您本人的官方 ChatGPT 账号。完成后，在自己的套餐与 Usage 页面核验。
 
@@ -33,11 +36,11 @@ last_modified_at: 2026-10-03
 | 比较项 | Pro 200美元档 | Pro 500美元档 |
 | --- | --- | --- |
 | 官方月费 | $200/月 | $500/月 |
-| 用量选择 | 按当前套餐包含用量与实际 Usage 判断 | 面向更大的持续用量需求，按当前套餐与 Usage 判断 |
+| Work／Codex额度 | 20x，以Plus为参照 | 50x，以Plus为参照；实际消耗看Usage |
 | Astra Ultrafast | 选择本人账号显示的可用模型和速度 | 官方列明可在 Codex 与 ChatGPT Work 使用 Astra Ultrafast |
 | AIXiamo办理入口 | [200美元档新开／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro500_compare_200) | [500美元档新开／续费](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro500_compare_500) |
 
-比较实际工作时，把同一模型、任务范围、速度模式和完成质量放在一起看。旧“5x／20x”称呼可用于识别100/200美元档；当前三档的用量按官方规则核对。完整对照见 [100／200／500美元档选择指南](./chatgpt-pro-5x-vs-20x.html)。
+比较实际工作时，把同一模型、任务范围、速度模式和完成质量放在一起看。当前100／200／500美元档分别对应10x／20x／50x Work与Codex额度；200档也常写“Pro200美金档位”。完整对照见 [100／200／500美元档选择指南](./chatgpt-pro-5x-vs-20x.html)。
 
 ## 3. Astra Ultrafast是什么？用起来真的更快吗？
 
