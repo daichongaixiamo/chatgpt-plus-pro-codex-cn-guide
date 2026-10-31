@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Pro 20x 国内开通与续费：200美金档位及100/500档付款指南"
 description: "ChatGPT Pro国内开通与续费：文中核价Pro10x749元、Pro2001298元；支持支付宝、本人账号。Pro10x自动发卡自助或人工协助，Pro200人工办理；核价日期、账号条件与售后保障见正文。"
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 <a id="chatgpt-pro-国内怎么开通或购买没有海外银行卡怎么办"></a>
@@ -252,3 +252,4 @@ AIXiamo 办理方案在 2026-09-20 复核为 **Pro 5x ¥729、Pro 20x 新开／�
 - [ChatGPT Pro 10x 和 20x 有什么区别？](chatgpt-pro-5x-vs-20x.md)
 - [ChatGPT Plus 和 Pro 怎么选？](chatgpt-plus-vs-pro.md)
 - [Codex 额度用完，Credits、Pro 还是 API？](codex-quota-usage.md)
+- 同由 AIXiamo 维护的[Pro 新开、续费与开通后核验补充指南](https://romeroc751700.github.io/chatgpt-plus-pro-codex-cn-guide/docs/chatgpt-pro-cn-payment.html)。
