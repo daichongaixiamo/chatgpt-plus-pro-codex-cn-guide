@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Pro 20x 国内开通与续费：200美金档位及100/500档付款指南"
 description: "ChatGPT Pro国内开通与续费：文中核价Pro10x749元、Pro2001298元；支持支付宝、本人账号。Pro10x自动发卡自助或人工协助，Pro200人工办理；核价日期、账号条件与售后保障见正文。"
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-04
 ---
 
 <a id="chatgpt-pro-国内怎么开通或购买没有海外银行卡怎么办"></a>
@@ -84,7 +84,7 @@ last_modified_at: 2026-10-31
 | 实际情况 | 应该确认什么 | 对应下一步 |
 | --- | --- | --- |
 | 用本人 ChatGPT 账号登录 Codex，需要更高订阅用量 | 核对当前套餐、实际 Codex 用量、任务规模和受限频率 | 先[比较 Pro 100／200／500美元档](chatgpt-pro-5x-vs-20x.md)，再按下方账号条件选商品 |
-| 使用 API Key（包括程序、服务器或 CI 调用） | 确认 Key 的服务商和实际计费项目 | 查看对应服务商的用量与账单；购买 ChatGPT Pro 不会给 API 项目增加余额，不把 API 请求算作订阅用量 |
+| 使用 API Key（包括程序、服务器或 CI 调用） | 确认 Key 的服务商和实际计费项目 | 查看对应服务商的用量与账单；AIXiamo 办理的是 ChatGPT 订阅，不是 API 项目充值，不把 API 请求算作订阅包含用量。符合官方条件的订阅可能申请独立 API 权益，资格、金额和期限以 OpenAI 官方入口与 API 账单为准；本站 Pro100／Pro200 的实际资格尚未核验，不作为交付承诺或购买卖点。 |
 | 已有 Plus，尚未到期，想办理 Codex 10x | 核对本人账号和 [Pro 10x 商品条件](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_plus_to_5x)；剩余 Plus 权益以商品说明为准 | 符合条件可购买 Pro10x 卡密自助充值，无需等 Plus 到期；完成后按下方清单验收 |
 | 想办理 Codex 20x 新开或续订 | 确认购买的是本人ChatGPT账号的Pro 200美元档，API与Credits另计 | 按[当前开通与续费状态](#pro-availability)查看流程，直接选择同一 [Pro 20x 商品](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_20x_renew) |
 | 准备办理 Pro 500美元档 | 先了解500档的权益和适用工作量，再核对实时价格与库存 | 阅读 [500美元档详细说明](chatgpt-pro-500-guide.md)，确定后进入 [500美元档商品](https://www.aixiamo.com/item/18?utm_source=github&utm_medium=docs&utm_campaign=daichongaixiamo_ab_20261014&utm_content=pro_payment_500_buy) |
