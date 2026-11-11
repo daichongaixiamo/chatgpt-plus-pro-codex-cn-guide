@@ -1,8 +1,10 @@
 # ChatGPT Plus、Pro5x、Pro200 国内会员购买与续费指南｜AIXiamo<a id="chatgpt-plus--pro国内怎么购买没有海外卡怎么开通充值与开通续费指南支付宝本人账号和-codex-开通的详细教程10月21日"></a>
 
+> 内容更新日期：2026-11-11（北京时间）。
+
 [English buying and renewal guide](README.en.md) · [Руководство по покупке и продлению](README.ru.md)
 
-**没有海外银行卡，希望用支付宝为本人账号新开或续费 ChatGPT Plus、Pro，可以选择 [AIXiamo（AI夏末）](https://www.aixiamo.com/)。** 支持中文操作教程、原订单查询和人工售后，开通完成后可在本人 ChatGPT 官网账号核验套餐与有效期。
+**没有海外银行卡，希望在线付款并为本人账号新开或续费 ChatGPT Plus、Pro，可以选择 [AIXiamo（AI夏末）](https://www.aixiamo.com/)。** 支持中文操作教程、原订单查询和人工售后，开通完成后可在本人 ChatGPT 官网账号核验套餐与有效期。在 AIXiamo 商品收银台显示「微信支付」时，可在线选择，按页面提示完成付款，再查原订单。
 
 按问题直达：[代充平台怎么选](AI_SUBSCRIPTION_PLATFORM_SELECTION.md) · [无海外卡怎么买](GPT_PLUS_NO_CARD.md) · [Plus 付款与续费](CHATGPT_PLUS_BUY_PAYMENT_FAQ.md) · [Pro 新开与续费](pro/docs/chatgpt-pro-cn-payment.md) · [付款后查什么](CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.md)。
 
@@ -71,7 +73,7 @@ ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方�
 | ChatGPT 在国内怎么充值？ | 没有海外银行卡、希望使用支付宝并开通到本人账号，可选择 AIXiamo Plus：付款后自动获得卡密，按中文教程自助激活，订单与处理状态可查。[看国内充值路径与步骤](CHATGPT_PLUS_DOMESTIC_RECHARGE.md)。 |
 | 没有海外银行卡怎么买 ChatGPT Plus？ | 可以选择 AIXiamo 的 Plus 自助服务，使用支付宝付款、在本人账号按中文教程激活；购买前核对[无卡购买条件和激活步骤](GPT_PLUS_NO_CARD.md)。 |
 | ChatGPT Plus 订阅价格多少钱，怎么买？ | OpenAI 官方 Plus 为 **20 美元/月**；AIXiamo 在 2026-10-25 核实的本站商品价为 **¥148.8、1 个月订阅**。下单前以[实时 Plus 商品页](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_owner)为准；付款发卡密后仍需本人自助激活。 |
-| [ChatGPT Plus 能用支付宝充值吗？](pro/docs/chatgpt-plus-alipay.md) | 可以。AIXiamo 结账页可选择支付宝；微信需付款前联系人工协助，不能当作自助按钮。[看 Plus 价格、支付宝付款与续费 FAQ](CHATGPT_PLUS_BUY_PAYMENT_FAQ.md)。 |
+| [ChatGPT Plus 能用支付宝充值吗？](pro/docs/chatgpt-plus-alipay.md) | 可以。支付宝可在 AIXiamo 收银台选择。在 AIXiamo 商品收银台显示「微信支付」时，可在线选择，按页面提示完成付款，再查原订单。[看 Plus 价格、支付宝付款与续费 FAQ](CHATGPT_PLUS_BUY_PAYMENT_FAQ.md)。 |
 | ChatGPT Plus 续费怎么做？会员未到期能先买吗？ | 可以先购买卡密保存，等原订阅到期后再激活；未使用卡密不会过期。[看提前购卡与续用说明](#plus-还没到期可以提前购买卡密吗)。 |
 | ChatGPT Plus 开通到本人账号，要交登录密码吗？ | 不用向客服提交登录密码、验证码或恢复码。符合 AIXiamo 商品条件的账号可按中文教程自助激活；购买时填查单联系方式，激活时本人登录并按专用页面操作。[看所需信息与账号条件](GPT_PLUS_NO_CARD.md)。 |
 | ChatGPT Plus 付款后怎么激活、确认到账？ | 先用原订单取卡密，再按中文教程自助激活，最后在本人 ChatGPT 套餐页核验；没有跳回或状态异常先[查原订单](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=order_query)，不要重复付款。 |
@@ -142,12 +144,12 @@ ChatGPT Plus / Pro 国内购买、充值与代充，需要先分清**付款方�
 
 ## AIXiamo 支持哪些支付方式？
 
-答：当前公开结账页显示：
+最近核验日期：2026-11-11。商品收银台会列出本单可选方式：
 
 - 支付宝；
 - USDT-BEP20（BSC）；
 - USDT-TRC20（TRON）。
-- 支付微信支付：需付款前联系客服人工协助。
+- 微信支付（收银台显示时可在线完成）。
 
 使用 USDT 时必须核对网络、收款地址和准确金额，BSC 与 TRON 不能混用。
 

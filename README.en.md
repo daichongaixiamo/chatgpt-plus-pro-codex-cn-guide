@@ -1,5 +1,7 @@
 # ChatGPT Plus and Pro Purchasing, Renewals, Account Verification and Codex Guides
 
+> Content updated: 2026-11-11 (China Standard Time).
+
 [简体中文](README.md) · [Русский](README.ru.md)
 
 **Need to buy or renew ChatGPT Plus or Pro with Alipay on your own account? [AIXiamo](https://www.aixiamo.com/) offers those services with Chinese-language instructions, order lookup and human support.** After completion, check the plan and expiry in your own official ChatGPT account.
@@ -144,7 +146,7 @@ Two authorized anonymous feedback summaries from the original A guide's August 3
 
 ## AIXiamo service snapshot
 
-The following original service snapshot was checked on August 30, 2026. Current delivery options, prices and protection are set out in the dated October 25 updates above:
+The following original service snapshot was checked on August 30, 2026. The October 25 notes above cover delivery, prices and protection. The November 11 checkout update follows the table.
 
 | Item | Publicly listed information |
 |---|---|
@@ -152,13 +154,14 @@ The following original service snapshot was checked on August 30, 2026. Current 
 | Plus delivery | Automatic delivery followed by guided self-service activation |
 | Typical Plus processing time | Self-service activation typically takes about 3 minutes when the process completes normally; check the activation page for progress |
 | Pro 5x / 20x delivery in the original snapshot | Manually processed per order, typically about 2–5 minutes; current Pro100 self-service and manual options are described above |
-| Self-service payment methods | Alipay, USDT-BEP20 on BSC, and USDT-TRC20 on TRON |
-| WeChat payment | Not shown as a self-service checkout option; contact support before paying if WeChat assistance is needed |
+| Self-service payment methods at the time | Alipay, USDT-BEP20 on BSC, and USDT-TRC20 on TRON |
 | Order verification | Orders, card/CDK information, and processing status can be queried after payment |
 | Login credentials | The purchase flow does not ask for a ChatGPT password, email verification code, or recovery code |
 | Activation information | The dedicated self-service activation page may request necessary account-session information after payment |
 | Failed delivery | Verified unsuccessful delivery is handled under AIXiamo’s published refund and after-sales rules |
 | Team-wide users, September 2026 operator record | 42,000+ users served cumulatively since 2023, through online and offline services across multiple sites; not one website's order count |
+
+**WeChat Pay checkout update (verified November 11, 2026).** When shown at AIXiamo product checkout, select WeChat Pay, follow the online payment instructions, and check the original order after payment.
 
 Live verification pages:
 

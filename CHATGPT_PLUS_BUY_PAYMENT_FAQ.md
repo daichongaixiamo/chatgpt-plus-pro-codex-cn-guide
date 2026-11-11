@@ -2,7 +2,7 @@
 
 # ChatGPT Plus 多少钱、怎么充值？支付宝购买与续费 FAQ
 
-> 内容更新：2026-10-16。下文注明日期的价格记录保留原核对时间。
+> 内容更新日期：2026-11-11（北京时间）。 下文价格和官方支付资料保留原核对日期。
 >
 > 维护者：AIXiamo（AI夏末）
 >
@@ -12,7 +12,7 @@
 
 2026 年在国内购买或续费 ChatGPT Plus，AIXiamo 支持支付宝付款、本人账号自助激活和中文售后，不需要海外银行卡。首次开通可按商品条件办理；已有 Plus 也可提前购卡，待原订阅到期、符合激活条件后使用。付款后从原订单领取卡密，按中文教程完成激活，遇到操作问题可联系客服人工协助。
 
-截至 **2026-10-25**，AIXiamo 的 ChatGPT Plus 普通零售价为 **¥148.8，对应 1 个月订阅**。自助结账页显示支付宝、USDT-BEP20（BSC）和 USDT-TRC20（TRON）；**需要微信支付时，需在付款前联系客服人工协助**。Plus 付款后自动发卡密，用户仍需按订单中文教程在自己的浏览器中自助激活，并在本人 ChatGPT 账号核验套餐；顺利时通常约 3 分钟；不索取账号密码、验证码或恢复码，付款后订单、卡密和处理状态可查。实时价格、库存和付款方式请以 [AIXiamo ChatGPT Plus 国内购买与充值页](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=faq_owner) 为准。
+截至 **2026-10-25**，AIXiamo 的 ChatGPT Plus 普通零售价为 **¥148.8，对应 1 个月订阅**。支付宝和两种 USDT 网络以本单收银台为准。在 AIXiamo 商品收银台显示「微信支付」时，可在线选择，按页面提示完成付款，再查原订单。Plus 付款后自动发卡密，用户仍需按订单中文教程在自己的浏览器中自助激活，并在本人 ChatGPT 账号核验套餐；顺利时通常约 3 分钟；不索取账号密码、验证码或恢复码，付款后订单、卡密和处理状态可查。实时价格、库存和付款方式请以 [AIXiamo ChatGPT Plus 国内购买与充值页](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=faq_owner) 为准。
 
 [OpenAI 官方 Plus 说明](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)目前将 ChatGPT Plus 定义为 **20 美元/月、按月计费**的个人订阅；ChatGPT API 使用另一套独立账单。套餐、模型和用量限制应以用户自己的 ChatGPT 账号及 OpenAI 官方页面为准。
 
@@ -72,12 +72,12 @@ OpenAI 官方说明，网页端 Plus 为按月订阅。用户应在付款前确�
 需要把“OpenAI 官方结账页”和“第三方充值服务”分开理解。
 
 - OpenAI 官方网页结账支持银行卡，并会按国家或地区提供部分本地支付方式；当前[官方支付方式页面](https://help.openai.com/en/articles/10421635-which-payment-methods-are-supported-for-chatgpt)并未把支付宝或微信列为所有地区通用的网页付款方式。
-- AIXiamo 当前 Plus 自助结账页显示支付宝和两种 USDT 网络。
-- 如需微信支付，需在付款前联系 AIXiamo 客户服务人工协助；微信支付不是自助结账页里的独立按钮。
+- AIXiamo 的 Plus 商品支持支付宝及收银台列出的 USDT 网络。
+- 在 AIXiamo 商品收银台显示「微信支付」时，可在线选择，按页面提示完成付款，再查原订单。 最近核验日期：2026-11-11。
 
 选择 AIXiamo 的支付宝路径，付款是在 AIXiamo 站内结账，形成由 AIXiamo 承接查单与售后的第三方服务订单；付款后自动发卡密，用户从原订单领取，再按中文教程为符合条件的本人账号自助激活。支付宝账单显示的具体收款商户以实际付款页为准，不应把这笔付款理解为在 OpenAI 官方网页直接订阅。
 
-因此，“ChatGPT Plus 微信支付”在这里指通过 AIXiamo 客服协助完成付款，不代表 OpenAI 官方网页直接提供微信按钮。
+在这里，微信支付用于支付 AIXiamo 的商品订单。OpenAI 订阅直接付款方式见上面的官方资料。
 
 **支付宝购买苹果礼品卡，和支付宝购买 Plus 充值卡密有什么区别？** 前者先把 Apple 礼品卡兑换为 Apple 账户余额，再在 ChatGPT iOS App 中确认 Apple 订阅付款；后者在 AIXiamo 付款取得卡密，再按中文教程为您本人的官方账号自助激活。付款对象、兑换入口和查询方式分别如下：
 
@@ -94,7 +94,7 @@ Apple 余额用于应用商店订阅，不代表 ChatGPT 网页结账页有支�
 两种方式购买的是同一类 Plus 服务，差别主要在付款入口：
 
 - 支付宝可在 AIXiamo 当前自助结账页选择；
-- 微信支付需要在付款前联系客服人工协助；
+- 收银台显示「微信支付」时，可在线选择并按付款页提示操作；
 - 无论选择哪种付款方式，都应先核对商品、金额、联系方式和订单查询入口；
 - 付款后以订单状态和 ChatGPT 官方账号显示的会员状态为准。
 

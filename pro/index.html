@@ -1,6 +1,6 @@
 ---
 layout: null
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-11
 ---
 <!doctype html>
 <html lang="zh-CN">
@@ -55,7 +55,7 @@ last_modified_at: 2026-10-30
         "inLanguage": "zh-CN",
         "isAccessibleForFree": true,
         "datePublished": "2026-07-21",
-        "dateModified": "2026-10-30"
+        "dateModified": "{{ page.last_modified_at | date: '%Y-%m-%d' }}"
       }
     </script>
     <script type="application/ld+json">
@@ -312,7 +312,7 @@ last_modified_at: 2026-10-30
           </article>
           <article class="guide-row">
             <h3>没有海外银行卡，支付宝能开通 ChatGPT Pro 吗？</h3>
-            <p>AIXiamo 当前支持支付宝；需要微信支付时，需付款前联系客服人工协助。Pro10x 自动发卡、自助充值，顺利时通常约3分钟；Pro200／Pro500 人工按订单处理，顺利时通常约2–5分钟，均非限时保证。</p>
+            <p>AIXiamo 支持支付宝。在商品收银台显示「微信支付」时，可在线选择，按页面提示完成付款，再查原订单。Pro10x 自动发卡、自助充值，顺利时通常约3分钟；Pro200／Pro500 人工按订单处理，顺利时通常约2–5分钟，均非限时保证。</p>
             <a class="guide-row__link" href="https://www.aixiamo.com/chatgpt-pro?utm_source=github_pages&amp;utm_medium=referral&amp;utm_campaign=daichongaixiamo_ab_20261014&amp;utm_content=alipay_faq">查看 Pro 价格与支付宝办理 →</a><br />
             <a class="guide-row__link" href="./docs/chatgpt-pro-alipay.html">查看支付宝开通步骤 →</a>
           </article>
@@ -577,7 +577,7 @@ last_modified_at: 2026-10-30
             <a href="https://github.com/{{ site.repository }}">GitHub</a>
             <a href="./DISCLOSURE.html">核验方法</a>
           </nav>
-          <p class="footer__meta">内容更新 2026-10-03（Pro 500专题与三档选择） · 受理状态更新 2026-09-30 · 价格与技术资料保留原核验日期</p>
+          <p class="footer__meta">内容更新日期：{{ page.last_modified_at | date: '%Y-%m-%d' }}（北京时间） · 价格与技术资料保留原核验日期</p>
         </div>
       </div>
     </footer>
