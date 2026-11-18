@@ -1,10 +1,20 @@
 ---
 title: "GPT-6 Pro 怎么开通？Astra、Plus / Pro 选择与到账核验"
 description: "GPT-6 Pro 与 Astra 的关系，Plus、Pro 在 Chat、Work、Codex 的可用范围，以及付款前后如何核验套餐、模型入口和独立 API 账单。"
-last_modified_at: 2026-09-23
+last_modified_at: 2026-11-18
 ---
 
 # GPT-6 Pro 怎么开通？先分清 Astra、Plus / Pro 与使用入口
+
+## GPT-6.2 更新：Plus 的 Work / Codex 入口与选择
+
+OpenAI 于 **2026-11-17** 发布 GPT-6.2 Astra 和 Sol。本文于 **2026-11-18** 核验。Plus 在 **ChatGPT Work、Codex** 的开放范围内，此次没有把两款模型加入普通 Chat。依据：[官方发布](https://openai.com/index/introducing-gpt-6-2-astra-sol/)与[Work / Codex 说明](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)。
+
+Sol 适合日常写作、编程和常规多步任务。Astra 更适合复杂代码与专业交付物，这是按官方定位给出的选择建议。**Plus 不含 Ultrafast**，也不是无限用量。先按实际任务使用，不必为了新模型直接升级 Pro。
+
+在本人账号确认 Plus 状态，再到 Work 或 Codex 的模型选择器查看完整名称，在用量页面查看剩余额度或重置提示。模型未出现时，可以更新客户端，并核对登录账号、工作区权限及开放进度。套餐到账和模型开放分别验收。已付款的用户可以先查原订单，避免重复购买。
+
+以下保留 **2026-09-23** 的上一代 GPT-6 资料与原核验步骤。旧发布进度和 CLI 版本属于历史记录，GPT-6.2 以上述更新和官方当前说明为准。
 
 核验日期：2026-09-23，北京时间。本文由 AIXiamo 维护者整理，面向购买前选择和开通后核验；模型资格以 OpenAI 与本人账号实时显示为准。
 
