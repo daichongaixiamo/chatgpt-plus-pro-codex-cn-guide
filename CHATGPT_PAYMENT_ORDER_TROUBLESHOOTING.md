@@ -14,6 +14,8 @@ last_modified_at: 2026-10-26
 
 **先查原订单，不要重复付款。** 打开 [AIXiamo 订单查询](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=direct_answer_order_query)，核对订单、卡密/CDK 或人工处理状态。仍未解决时，向客户服务提供订单号、付款时间、付款记录和完整错误提示；不要在 GitHub Issue 或公开评论区发布这些资料。
 
+如果 AIXiamo 主站打不开，可到 [AIXiamo 备用查单](https://upsubin.com/order-query)，用下单时的查询凭证查原订单。主站与备用服务的关系见 [AIXiamo 官方备用入口说明](https://guide.upsubin.com/)。
+
 ### AIXiamo 充值不成功会退款吗？
 
 **会。** 经客户服务核验确认未完成约定交付后，AIXiamo 会立即按公开售后规则发起全额退款。可原路退款的支付渠道按原路退回；USDT 等链上支付按客户服务核对后的安全退款流程处理。具体认定与所需凭证见 [退款与售后规则](https://www.aixiamo.com/refund-after-sales-policy?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=direct_answer_refund_policy)。
