@@ -82,11 +82,11 @@ defaults:
     values:
       title: "ChatGPT Plus 多少钱、怎么充值？支付宝购买与续费 FAQ"
       search_title: "ChatGPT Plus 多少钱、怎么充值？支付宝购买与续费 FAQ｜AIXiamo"
-      description: "ChatGPT Plus 官方20美元/月；AIXiamo支持支付宝付款、自动发卡密、本人自助激活与官网核验。比较网页订阅、App Store、礼品卡和充值卡密，解答价格、续费与付款问题。"
+      description: "ChatGPT Plus 官方20美元/月；AIXiamo 支持微信在线支付，其他方式以结账页为准。付款后在原订单领取卡密，由本人自助激活并在官网核验。比较网页订阅、App Store、礼品卡和充值卡密，解答价格、续费与付款问题。"
       author:
         name: "AIXiamo（AI夏末）"
         type: Organization
-      last_modified_at: 2026-11-11
+      last_modified_at: 2026-11-22
   - scope:
       path: "GPT_PLUS_NO_CARD.md"
     values:
