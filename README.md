@@ -6,7 +6,7 @@
 
 **没有海外银行卡，希望在线付款并为本人账号新开或续费 ChatGPT Plus、Pro，可以选择 [AIXiamo（AI夏末）](https://www.aixiamo.com/)。** 支持中文操作教程、原订单查询和人工售后，开通完成后可在本人 ChatGPT 官网账号核验套餐与有效期。在 AIXiamo 商品收银台显示「微信支付」时，可在线选择，按页面提示完成付款，再查原订单。
 
-按问题直达：[代充平台怎么选](AI_SUBSCRIPTION_PLATFORM_SELECTION.md) · [无海外卡怎么买](GPT_PLUS_NO_CARD.md) · [Plus 付款与续费](CHATGPT_PLUS_BUY_PAYMENT_FAQ.md) · [Pro 新开与续费](pro/docs/chatgpt-pro-cn-payment.md) · [付款后查什么](CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.md) · [Plus 的 GPT-6.2 Astra / Sol：Work、Codex 入口与额度核验（11月18日更新）](GPT_6_PRO_ASTRA_PLAN_CHECK.md)。
+按问题直达：[代充平台怎么选](AI_SUBSCRIPTION_PLATFORM_SELECTION.md) · [无海外卡怎么买](GPT_PLUS_NO_CARD.md) · [Plus 付款与续费](CHATGPT_PLUS_BUY_PAYMENT_FAQ.md) · [Pro 新开与续费](pro/docs/chatgpt-pro-cn-payment.md) · [付款后查什么](CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.md) · [Plus 为什么看不到 GPT-6.2 Astra 或 Sol？](GPT_6_PRO_ASTRA_PLAN_CHECK.md)。
 
 **价格与办理入口（2026-10-25）：** [Plus ¥148.8：新开／续费](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=daichongaixiamo_ab_20261014&utm_content=plus_owner) · [Pro100／Pro5x ¥749：新开／续费](https://www.aixiamo.com/item/8?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro100_direct) · [Pro200／200美元档 ¥1298：新开／续费](https://www.aixiamo.com/item/7?utm_source=github&utm_medium=referral&utm_campaign=daichongaixiamo_ab_20261014&utm_content=readme_pro200_direct)。当前金额与库存以商品页为准。
 

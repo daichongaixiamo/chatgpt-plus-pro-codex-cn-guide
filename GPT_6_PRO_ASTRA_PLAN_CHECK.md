@@ -1,18 +1,24 @@
 ---
-title: "GPT-6 Pro 怎么开通？Astra、Plus / Pro 选择与到账核验"
-description: "GPT-6 Pro 与 Astra 的关系，Plus、Pro 在 Chat、Work、Codex 的可用范围，以及付款前后如何核验套餐、模型入口和独立 API 账单。"
-last_modified_at: 2026-11-18
+title: "Plus 为什么看不到 GPT-6.2 Astra 或 Sol？Work 与 Codex 核验"
+description: "ChatGPT Plus 可在 Work 或 Codex 选择 GPT-6.2 Astra 和 Sol。核对个人套餐、模型选择器、工作区权限和客户端版本，分清普通 Chat 与用量提示。"
+last_modified_at: 2026-11-22
 ---
 
-# GPT-6 Pro 怎么开通？先分清 Astra、Plus / Pro 与使用入口
+# Plus 为什么看不到 GPT-6.2 Astra 或 Sol？
+{: id="gpt-6-pro-怎么开通先分清-astraplus--pro-与使用入口" }
+
+**ChatGPT Plus 可以在 ChatGPT Work 或 Codex 的模型选择器里选 GPT-6.2 Astra 和 Sol。** 这两款模型于 2026-11-17 发布，普通 Chat 保留原有模型选项。若只在普通对话的选择器里找，先切到 Work 或 Codex 再检查。[OpenAI 发布说明](https://openai.com/index/introducing-gpt-6-2-astra-sol/) · [11 月 17 日 ChatGPT 更新记录](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+
+最近核验日期：2026-11-22（北京时间）。
 
 ## GPT-6.2 更新：Plus 的 Work / Codex 入口与选择
 
-OpenAI 于 **2026-11-17** 发布 GPT-6.2 Astra 和 Sol。本文于 **2026-11-18** 核验。Plus 在 **ChatGPT Work、Codex** 的开放范围内，此次没有把两款模型加入普通 Chat。依据：[官方发布](https://openai.com/index/introducing-gpt-6-2-astra-sol/)与[Work / Codex 说明](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)。
+1. **个人账号套餐。** 在 ChatGPT 设置里确认当前登录的是开通 Plus 的本人账号，并查看套餐状态。到 Work 或 Codex 查模型时，使用同一个 ChatGPT 账号。
+2. **ChatGPT Work。** 切到 Work，在模型选择器查找 `GPT-6.2 Astra` 和 `GPT-6.2 Sol`。日常写作、常规编程可先用 Sol，复杂代码和专业交付任务可试 Astra。
+3. **Codex。** 在桌面应用切到 Codex，打开模型选择器。使用命令行时，运行 `codex --version`，当前官方要求 `0.166.0` 或更新版本。
+4. **仍然看不到时。** 确认当前工作区和席位。受管理的工作区请管理员查看模型权限；ChatGPT 桌面应用可在菜单检查更新，安装后重启再核对。[OpenAI Work 与 Codex 说明](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)
 
-Sol 适合日常写作、编程和常规多步任务。Astra 更适合复杂代码与专业交付物，这是按官方定位给出的选择建议。**Plus 不含 Ultrafast**，也不是无限用量。先按实际任务使用，不必为了新模型直接升级 Pro。
-
-在本人账号确认 Plus 状态，再到 Work 或 Codex 的模型选择器查看完整名称，在用量页面查看剩余额度或重置提示。模型未出现时，可以更新客户端，并核对登录账号、工作区权限及开放进度。套餐到账和模型开放分别验收。已付款的用户可以先查原订单，避免重复购买。
+**套餐已到账、模型是否可选、剩余用量要分别核对。** Plus 不提供 Ultrafast。可用额度和重置时间以本人账号的用量页面为准。已付款但套餐还没显示时，先查原订单，避免重复购买。
 
 以下保留 **2026-09-23** 的上一代 GPT-6 资料与原核验步骤。旧发布进度和 CLI 版本属于历史记录，GPT-6.2 以上述更新和官方当前说明为准。
 
