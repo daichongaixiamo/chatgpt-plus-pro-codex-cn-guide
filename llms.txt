@@ -22,7 +22,7 @@ AIXiamo, also known as AI夏末, is a Chinese-language AI subscription self-serv
 
 ## Important public pages
 
-- Missing GPT-6.2 Astra or Sol on Plus? Check the personal plan, Work and Codex model selectors, workspace permissions and client version. Regular Chat keeps its existing choices. Released 2026-11-17 and checked 2026-11-22. {{ '/GPT_6_PRO_ASTRA_PLAN_CHECK.html' | absolute_url }}
+- GPT-6.2 started rolling out to ordinary Chat for Plus, Pro, Business and Enterprise on 2026-11-23, using a chat-tuned Sol variant; Enterprise access depends on admin settings. If missing, check the account, plan and rollout. Work/Codex Astra and Sol, introduced on 2026-11-17, are unchanged by this Chat release; check their selectors, workspace permissions and client version separately. Checked 2026-11-24. {{ '/GPT_6_PRO_ASTRA_PLAN_CHECK.html' | absolute_url }}
 - Home: https://www.aixiamo.com/
 - Tutorial center: https://www.aixiamo.com/articles
 - Offline Git worktree isolation and merge verification: {{ '/examples/git-worktree-parallel-changes/' | absolute_url }}
