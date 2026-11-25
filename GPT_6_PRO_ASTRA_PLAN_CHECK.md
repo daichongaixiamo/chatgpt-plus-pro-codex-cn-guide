@@ -26,6 +26,8 @@ last_modified_at: 2026-11-24
 3. **Codex。** 在桌面应用切到 Codex，打开模型选择器。使用命令行时，运行 `codex --version`，当前官方要求 `0.166.0` 或更新版本。
 4. **仍然看不到时。** 确认当前工作区和席位。受管理的工作区请管理员查看模型权限；ChatGPT 桌面应用可在菜单检查更新，安装后重启再核对。[OpenAI Work 与 Codex 说明](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)
 
+如果 Codex 桌面端提示验证手机号，可以查阅 [Codex 手机验证说明](https://gpt-guide.aixiamo.com/codex-login-api-quota-errors#codex-phone-verification)。
+
 **套餐已到账、模型是否可选、剩余用量要分别核对。** Plus 不提供 Ultrafast。可用额度和重置时间以本人账号的用量页面为准。已付款但套餐还没显示时，先查原订单，避免重复购买。
 
 以下保留 **2026-09-23** 的上一代 GPT-6 资料与原核验步骤。旧发布进度、普通 Chat 入口说明和 CLI 版本均属于该日历史记录；当前 GPT-6.2 以上述更新和官方当前说明为准。
