@@ -83,4 +83,6 @@ GPT-6 Pro 的“Pro”是模型选项名称，ChatGPT Pro 是订阅计划名称�
 
 ### 买了会员就能调用 Astra API 吗？
 
-不能。调用 Astra、Sol 或 Luna API 需要 API 项目的密钥、权限和独立账单；购买 Plus / Pro 会员不会附送 API 余额。先确认 API 可用，再按程序调用需求设置预算。模型 ID 见 [OpenAI API 模型目录](https://developers.openai.com/api/docs/models)，订阅与 API 的计费区别见 [OpenAI 账单说明](https://help.openai.com/en/articles/9039756-billing-settings-in-chatgpt-vs-platform)。
+调用 Astra、Sol 或 Luna API 需要 API 项目的密钥和模型权限，费用由 API Platform 单独核算。OpenAI 官方 ChatGPT Pro 的 Pro100、Pro200、Pro500 三档都包含 API 额度领取权益。符合条件的付费订阅生效满 7 天后，可在 ChatGPT 的「设置 → 账单」或 API Platform 的「账单」领取，并将订阅关联到本人拥有的 API 组织。
+
+额度可用于关联组织内符合条件的 API 调用，例如自建客服或生图工具。OpenAI 明确排除用 API 密钥登录 Codex 产生的用量。用 ChatGPT 账号登录 Codex 时，仍按该账号的 Codex 用量规则计。领取条件与适用范围见 [OpenAI 官方 API 额度说明](https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions)。先确认 API 可用，再按程序调用需求设置预算。模型 ID 见 [OpenAI API 模型目录](https://developers.openai.com/api/docs/models)，订阅与 API 的计费区别见 [OpenAI 账单说明](https://help.openai.com/en/articles/9039756-billing-settings-in-chatgpt-vs-platform)。
